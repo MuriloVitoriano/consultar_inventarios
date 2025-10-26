@@ -1,0 +1,205 @@
+[
+    {
+        "cdinventarios": 3500.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2042000",
+        "Equipamentos": "MCI - AGV GERENCIADOR"
+    },
+    {
+        "cdinventarios": 3501.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040002",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°2 - JDF"
+    },
+    {
+        "cdinventarios": 3502.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2043001",
+        "Equipamentos": "MCI - MANIPULADOR APERT SUSP - ESQ 01"
+    },
+    {
+        "cdinventarios": 3503.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2043002",
+        "Equipamentos": "MCI - MANIPULADOR APERT SUSP - DIR 02"
+    },
+    {
+        "cdinventarios": 3504.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2043003",
+        "Equipamentos": "MCI - MANIPULADOR APERT SUSP - ESQ 03"
+    },
+    {
+        "cdinventarios": 3505.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2043004",
+        "Equipamentos": "MCI - MANIPULADOR APERT SUSP - DIR 04"
+    },
+    {
+        "cdinventarios": 3506.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2042001",
+        "Equipamentos": "MCI - AGV TRANSPORTADOR DE CABINAS - N°1"
+    },
+    {
+        "cdinventarios": 3507.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2042002",
+        "Equipamentos": "MCI - AGV TRANSPORTADOR DE CABINAS - N°2"
+    },
+    {
+        "cdinventarios": 3508.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2042003",
+        "Equipamentos": "MCI - AGV TRANSPORTADOR DE CABINAS - N°3"
+    },
+    {
+        "cdinventarios": 3509.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2042004",
+        "Equipamentos": "MCI - AGV TRANSPORTADOR DE CABINAS - N°4"
+    },
+    {
+        "cdinventarios": 3510.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2042005",
+        "Equipamentos": "MCI - AGV TRANSPORTADOR DE CABINAS - N°5"
+    },
+    {
+        "cdinventarios": 3511.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040003",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°3 - JDF"
+    },
+    {
+        "cdinventarios": 3512.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040004",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°4 - JDF"
+    },
+    {
+        "cdinventarios": 3513.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040006",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°6 - JDF"
+    },
+    {
+        "cdinventarios": 3514.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040007",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°7"
+    },
+    {
+        "cdinventarios": 3515.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040008",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°8"
+    },
+    {
+        "cdinventarios": 3516.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040009",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°9"
+    },
+    {
+        "cdinventarios": 3517.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040010",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°10"
+    },
+    {
+        "cdinventarios": 3518.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040011",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°11"
+    },
+    {
+        "cdinventarios": 3519.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040012",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°12"
+    },
+    {
+        "cdinventarios": 3520.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040013",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°13"
+    },
+    {
+        "cdinventarios": 3521.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040014",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°14"
+    },
+    {
+        "cdinventarios": 3522.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2040015",
+        "Equipamentos": "MCI - CARRO TRANSPORTADOR - N°15"
+    },
+    {
+        "cdinventarios": 3523.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2041000",
+        "Equipamentos": "MCI - LINHA AÉREA"
+    },
+    {
+        "cdinventarios": 3524.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2041001",
+        "Equipamentos": "MCI - MESA INDEXADORA DE SAÍDA (DESCARREGAMENTO)"
+    },
+    {
+        "cdinventarios": 4585.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2041001",
+        "Equipamentos": "MCI - MESA INDEXADORA DE SAÍDA"
+    },
+    {
+        "cdinventarios": 4592.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2043000",
+        "Equipamentos": "MCI - POSTO DE TRABALHO GERAL"
+    },
+    {
+        "cdinventarios": 4862.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2046001",
+        "Equipamentos": "MCI – LIFT DRIVE AXOR"
+    },
+    {
+        "cdinventarios": 4863.0,
+        "Area": "OCB",
+        "Centro de Custo": 2044,
+        "Inventarios": "5545M2046002",
+        "Equipamentos": "MCI – LIFT DRIVE ACELLO"
+    }
+]

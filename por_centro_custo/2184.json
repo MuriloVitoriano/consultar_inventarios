@@ -1,0 +1,912 @@
+[
+    {
+        "cdinventarios": 60.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00189488",
+        "Equipamentos": "TALHA PNEUMATICA ATLAS COPCO 500KG"
+    },
+    {
+        "cdinventarios": 65.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00189589",
+        "Equipamentos": "TALHA PNEUMAT.CAP.500KG TIPO LLA-500"
+    },
+    {
+        "cdinventarios": 66.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00189590",
+        "Equipamentos": "PONTE ROLANTE 500KG E.ZOLCSAK 7500 MM"
+    },
+    {
+        "cdinventarios": 67.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00200751",
+        "Equipamentos": "TANQUE DE PRESSAO DEVILBISS PQMB 5097"
+    },
+    {
+        "cdinventarios": 68.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00200774",
+        "Equipamentos": "TANQUE PRESSAO DEVILBISS PQMB 5097"
+    },
+    {
+        "cdinventarios": 69.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00201046",
+        "Equipamentos": "TANQUE PRESSAO DEVILBISS PQN-5025"
+    },
+    {
+        "cdinventarios": 70.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00201113",
+        "Equipamentos": "TANQUE PRESSAO DEVILBISS PQMB-5093"
+    },
+    {
+        "cdinventarios": 71.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00201132",
+        "Equipamentos": "TANQUE PRESSAO C/AGITADOR VILBISS"
+    },
+    {
+        "cdinventarios": 72.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00201389",
+        "Equipamentos": "TANQUE PRESSAO DEVILBISS PQMB 5776"
+    },
+    {
+        "cdinventarios": 82.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00204049",
+        "Equipamentos": "SIST. EXAUSTAO VAPOR THINER LAV TAMBOR"
+    },
+    {
+        "cdinventarios": 85.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00205137",
+        "Equipamentos": "EXAUSTOR TUBO AXIAL C/ROTOR"
+    },
+    {
+        "cdinventarios": 91.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00205882",
+        "Equipamentos": "SIST. DE VENTIL GERAL P/SALA DE TINTAS"
+    },
+    {
+        "cdinventarios": 126.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00254522",
+        "Equipamentos": "MANIPULADOR PNEUMATICO AUTOBALANCEADO"
+    },
+    {
+        "cdinventarios": 133.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00264163",
+        "Equipamentos": "BRACO ARTICULADO PNEUMATICO"
+    },
+    {
+        "cdinventarios": 212.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00290109",
+        "Equipamentos": "TRANSPORTADOR AEREO DA LINHA 2 - PINTURA"
+    },
+    {
+        "cdinventarios": 220.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00293010",
+        "Equipamentos": "SISTEMA DE AR MANDADO PARA CABINE PÓ"
+    },
+    {
+        "cdinventarios": 263.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00300764",
+        "Equipamentos": "TANQUE P/BANHO DE PCS PRE TRAT"
+    },
+    {
+        "cdinventarios": 266.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00301114",
+        "Equipamentos": "BOMBA PNEUMATICA MOD.POLLUX S.0061189"
+    },
+    {
+        "cdinventarios": 267.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00301330",
+        "Equipamentos": "TANQUE DE PINTURA POR IMERSAO"
+    },
+    {
+        "cdinventarios": 268.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00301427",
+        "Equipamentos": "TANQUE P/LINHA DE CROMAT. ENCO ZOLCSAK"
+    },
+    {
+        "cdinventarios": 269.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00301446",
+        "Equipamentos": "TANQUE EM ACO AISI-304 P/ACIDO NITRICO"
+    },
+    {
+        "cdinventarios": 270.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00301447",
+        "Equipamentos": "TANQUE EM ACO CARBONO AISI-304 P/AGUA"
+    },
+    {
+        "cdinventarios": 271.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00301448",
+        "Equipamentos": "TANQUE ACO CARBONO AISI-304 P/REFINADOR"
+    },
+    {
+        "cdinventarios": 341.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00330827",
+        "Equipamentos": "SIST.AGIT./FILTR.BANH.PRE-TRAT PINT. PO"
+    },
+    {
+        "cdinventarios": 350.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00336340",
+        "Equipamentos": "TANQUE P/ ENXAGUAR CAP.3000 LTS ."
+    },
+    {
+        "cdinventarios": 351.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00336341",
+        "Equipamentos": "TANQUE PASSIVADOR  CAP.3000 LTS ."
+    },
+    {
+        "cdinventarios": 352.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00336342",
+        "Equipamentos": "TANQUE P/ SECAGEM  CAP.3000 LTS ."
+    },
+    {
+        "cdinventarios": 371.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00401839",
+        "Equipamentos": "BRACO GIRAT C/TALHA PNEUMATICA"
+    },
+    {
+        "cdinventarios": 375.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00404176",
+        "Equipamentos": "TALHA PNEUMATICA C/TROLLEY CAP 500KG"
+    },
+    {
+        "cdinventarios": 424.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00410422",
+        "Equipamentos": "PAINEL CENTRAL DE COMANDO ELETRICO CABIN"
+    },
+    {
+        "cdinventarios": 425.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00410446",
+        "Equipamentos": "MISTURADOR TINTA P/ AREA PREPARACAO DE M"
+    },
+    {
+        "cdinventarios": 454.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00626809",
+        "Equipamentos": "PLATAFORMA MANUTENCAO EXAUSTORES"
+    },
+    {
+        "cdinventarios": 455.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00632776",
+        "Equipamentos": "TANQUE PRESSAO M 5781 DEVIBISS C/AG"
+    },
+    {
+        "cdinventarios": 456.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00632777",
+        "Equipamentos": "TANQUE PRESSAO M 5781 DEVIBISS C/AG"
+    },
+    {
+        "cdinventarios": 457.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00632778",
+        "Equipamentos": "TANQUE PRESSAO M 5781 DEVIBISS C/AG"
+    },
+    {
+        "cdinventarios": 458.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00633477",
+        "Equipamentos": "EQUIP. PINTURA P/APLIC PVC KMDDMUELLER"
+    },
+    {
+        "cdinventarios": 459.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00636220",
+        "Equipamentos": "SIST. TERMINAL INDUSTRIAL 177TC M LEVE"
+    },
+    {
+        "cdinventarios": 462.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00638829",
+        "Equipamentos": "BOMBA CENTRI., ABS, MULTIBLOC 25/4"
+    },
+    {
+        "cdinventarios": 465.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00641095",
+        "Equipamentos": "BOMBA MOD MAXTAMBOR"
+    },
+    {
+        "cdinventarios": 490.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008982180001",
+        "Equipamentos": "SERVICOS GERAIS DO C.C. 218.4"
+    },
+    {
+        "cdinventarios": 495.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513  0401",
+        "Equipamentos": "LINHA 04 PT"
+    },
+    {
+        "cdinventarios": 496.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0001",
+        "Equipamentos": "PAINEL 1 PO PRETO E COLORIDO"
+    },
+    {
+        "cdinventarios": 497.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0008",
+        "Equipamentos": "PAINEL 3 PT"
+    },
+    {
+        "cdinventarios": 498.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0010",
+        "Equipamentos": "PAINEL 2 PL"
+    },
+    {
+        "cdinventarios": 499.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0102",
+        "Equipamentos": "ESTUFA 1 LPP"
+    },
+    {
+        "cdinventarios": 500.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0103",
+        "Equipamentos": "TRANSPORTADOR L1 LPP"
+    },
+    {
+        "cdinventarios": 501.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0104",
+        "Equipamentos": "EXAUSTOR 1 CPP\n00898513 0104"
+    },
+    {
+        "cdinventarios": 502.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0105",
+        "Equipamentos": "EXAUSTOR 2 CPP"
+    },
+    {
+        "cdinventarios": 503.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0106",
+        "Equipamentos": "INSUFLADOR 1 CPP"
+    },
+    {
+        "cdinventarios": 504.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0107",
+        "Equipamentos": "INSUFLADOR 2 CPP"
+    },
+    {
+        "cdinventarios": 505.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0108",
+        "Equipamentos": "EXAUSTOR 1 ESTUFA LPP"
+    },
+    {
+        "cdinventarios": 506.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0109",
+        "Equipamentos": "INSUFLADOR 1 ESTUFA LPP"
+    },
+    {
+        "cdinventarios": 507.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0110",
+        "Equipamentos": "INSUFLADOR AQ1 LPP"
+    },
+    {
+        "cdinventarios": 508.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0111",
+        "Equipamentos": "INSUFLADOR AQ2 LPP"
+    },
+    {
+        "cdinventarios": 509.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0112",
+        "Equipamentos": "EQ.ELETROSTÁTICO CPP"
+    },
+    {
+        "cdinventarios": 510.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0202",
+        "Equipamentos": "ESTUFA 2 LPC"
+    },
+    {
+        "cdinventarios": 511.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0203",
+        "Equipamentos": "TRANSPORTADOR L2 LPC"
+    },
+    {
+        "cdinventarios": 512.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0204",
+        "Equipamentos": "EXAUSTOR 14 CPC"
+    },
+    {
+        "cdinventarios": 513.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0205",
+        "Equipamentos": "EXAUSTOR 16 CPC"
+    },
+    {
+        "cdinventarios": 514.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0206",
+        "Equipamentos": "INSULFLADOR 13 CPC"
+    },
+    {
+        "cdinventarios": 515.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0207",
+        "Equipamentos": "INSULFLADOR 15 CPC"
+    },
+    {
+        "cdinventarios": 516.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0208",
+        "Equipamentos": "EXAUSTOR 2 ESTUFA LPC"
+    },
+    {
+        "cdinventarios": 517.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0209",
+        "Equipamentos": "INSULFLADOR 2 ESTUFA LPC"
+    },
+    {
+        "cdinventarios": 518.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0210",
+        "Equipamentos": "INSULFLADOR AQ1 LPC"
+    },
+    {
+        "cdinventarios": 519.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0211",
+        "Equipamentos": "NSULFLADOR AQ2 LPC"
+    },
+    {
+        "cdinventarios": 520.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0301",
+        "Equipamentos": "CABINE  PCL"
+    },
+    {
+        "cdinventarios": 521.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0302",
+        "Equipamentos": "ESTUFA PCL - PL"
+    },
+    {
+        "cdinventarios": 522.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0303",
+        "Equipamentos": "TRANSPORTADOR L3 PL"
+    },
+    {
+        "cdinventarios": 523.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0304",
+        "Equipamentos": "INSULFLADOR 1 PL"
+    },
+    {
+        "cdinventarios": 524.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0305",
+        "Equipamentos": "INSULFLADOR 2 PL"
+    },
+    {
+        "cdinventarios": 525.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0306",
+        "Equipamentos": "EXAUSTOR 1 PL"
+    },
+    {
+        "cdinventarios": 526.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0307",
+        "Equipamentos": "EXAUSTOR 2 PL"
+    },
+    {
+        "cdinventarios": 527.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0312",
+        "Equipamentos": "EQ.PINTURA LÍQUIDA"
+    },
+    {
+        "cdinventarios": 528.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0401",
+        "Equipamentos": "MESA 1 PT"
+    },
+    {
+        "cdinventarios": 529.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0402",
+        "Equipamentos": "MESA 2 PT"
+    },
+    {
+        "cdinventarios": 530.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0404",
+        "Equipamentos": "CARRO 1 PT"
+    },
+    {
+        "cdinventarios": 531.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0405",
+        "Equipamentos": "CARRO 2 PT"
+    },
+    {
+        "cdinventarios": 532.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0406",
+        "Equipamentos": "EXAUSTOR 1 PT"
+    },
+    {
+        "cdinventarios": 533.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0407",
+        "Equipamentos": "EXAUSTOR 2 PT"
+    },
+    {
+        "cdinventarios": 534.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0408",
+        "Equipamentos": "RECIRCULADOR TANQUE SECAGEM PT"
+    },
+    {
+        "cdinventarios": 535.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J00898513 0409",
+        "Equipamentos": "RECIRCULADOR TANQUE RESFRIAMENTO PT"
+    },
+    {
+        "cdinventarios": 536.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130008",
+        "Equipamentos": "PAINEL 3-PRE TRAT.- MESAS/EXAUST. CARROS"
+    },
+    {
+        "cdinventarios": 537.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130010",
+        "Equipamentos": "PAINEL 2 - PINT.LIQ.ESTUFA/VENT./TRANSP."
+    },
+    {
+        "cdinventarios": 538.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130101",
+        "Equipamentos": "CABINE DE PINTURA PO -  LINHA1"
+    },
+    {
+        "cdinventarios": 539.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130102",
+        "Equipamentos": "ESTUFA 1 - LINHA1"
+    },
+    {
+        "cdinventarios": 540.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130103",
+        "Equipamentos": "TRANSPORTADOR - LINHA 1"
+    },
+    {
+        "cdinventarios": 541.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130104",
+        "Equipamentos": "EXAUSTOR 1 - CABINE 1"
+    },
+    {
+        "cdinventarios": 542.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130105",
+        "Equipamentos": "EXAUSTOR 2 - CABINE 1"
+    },
+    {
+        "cdinventarios": 543.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130106",
+        "Equipamentos": "INSULFLADOR - 1 CABINE 1"
+    },
+    {
+        "cdinventarios": 544.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130107",
+        "Equipamentos": "INSULFLADOR - 2 CABINE 1"
+    },
+    {
+        "cdinventarios": 545.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130108",
+        "Equipamentos": "EXAUSTOR 5 - ESTUFA 1"
+    },
+    {
+        "cdinventarios": 546.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130109",
+        "Equipamentos": "INSULFLADOR - 6 ESTUFA 1"
+    },
+    {
+        "cdinventarios": 547.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130110",
+        "Equipamentos": "INSULFLADOR AQ1- ESTUFA 1"
+    },
+    {
+        "cdinventarios": 548.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130111",
+        "Equipamentos": "INSULFLADOR AQ2 -  ESTUFA 1"
+    },
+    {
+        "cdinventarios": 549.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130112",
+        "Equipamentos": "FONTE E PISTOLA PINTURA - CABINE 1"
+    },
+    {
+        "cdinventarios": 550.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130201",
+        "Equipamentos": "CABINE DE PINTURA PO -  LINHA2"
+    },
+    {
+        "cdinventarios": 551.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130202",
+        "Equipamentos": "ESTUFA 2 -  LINHA2"
+    },
+    {
+        "cdinventarios": 552.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130203",
+        "Equipamentos": "TRANSPORTADOR - LINHA 2"
+    },
+    {
+        "cdinventarios": 553.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130204",
+        "Equipamentos": "EXAUSTOR 14 - CABINE 2"
+    },
+    {
+        "cdinventarios": 554.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130205",
+        "Equipamentos": "EXAUSTOR 16 - CABINE 2"
+    },
+    {
+        "cdinventarios": 555.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130206",
+        "Equipamentos": "INSULFLADOR - 13 CABINE 2"
+    },
+    {
+        "cdinventarios": 556.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130207",
+        "Equipamentos": "INSULFLADOR - 15 CABINE 2"
+    },
+    {
+        "cdinventarios": 557.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130208",
+        "Equipamentos": "EXAUSTOR 9 - ESTUFA 2"
+    },
+    {
+        "cdinventarios": 558.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130209",
+        "Equipamentos": "INSULFLADOR - 10 ESTUFA 2"
+    },
+    {
+        "cdinventarios": 559.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130210",
+        "Equipamentos": "INSULFLADOR AQ1 - ESTUFA 2"
+    },
+    {
+        "cdinventarios": 560.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130211",
+        "Equipamentos": "INSULFLADOR AQ2 - ESTUFA 2"
+    },
+    {
+        "cdinventarios": 561.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130212",
+        "Equipamentos": "FONTE E PISTOLA PINTURA - CABINE 2"
+    },
+    {
+        "cdinventarios": 562.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130301",
+        "Equipamentos": "CABINE DE PINTURA PCL - LINHA3"
+    },
+    {
+        "cdinventarios": 563.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130302",
+        "Equipamentos": "ESTUFA 3 -  LINHA3 - PCL"
+    },
+    {
+        "cdinventarios": 564.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130303",
+        "Equipamentos": "TRANSPORTADOR - LINHA 3"
+    },
+    {
+        "cdinventarios": 565.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130304",
+        "Equipamentos": "INSULFALDOR - 1 CABINE 3"
+    },
+    {
+        "cdinventarios": 566.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130305",
+        "Equipamentos": "INSULFLADOR - 2 CABINE 3"
+    },
+    {
+        "cdinventarios": 567.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130306",
+        "Equipamentos": "EXAUSTOR 1 - CABINE 3"
+    },
+    {
+        "cdinventarios": 568.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130307",
+        "Equipamentos": "EXAUSTOR 2- CABINE 3"
+    },
+    {
+        "cdinventarios": 569.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130312",
+        "Equipamentos": "EQUIP. DE PINTURA - CABINE PINT. LIQUIDA"
+    },
+    {
+        "cdinventarios": 570.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130401",
+        "Equipamentos": "PRE-TRATAMENTO - LINHA 4"
+    },
+    {
+        "cdinventarios": 571.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130402",
+        "Equipamentos": "MESA HIDRAULICA 1 - PRE. TRATAMENTO"
+    },
+    {
+        "cdinventarios": 572.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130403",
+        "Equipamentos": "MESA HIDRAULICA 2 - PRE. TRATAMENTO"
+    },
+    {
+        "cdinventarios": 573.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130404",
+        "Equipamentos": "CARRO DE TRANSPORTE I - PRE.TRATAMENTO"
+    },
+    {
+        "cdinventarios": 574.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130405",
+        "Equipamentos": "CARRO DE TRANSPORTE II- PRE.TRATAMENTO"
+    },
+    {
+        "cdinventarios": 575.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130406",
+        "Equipamentos": "EXAUSTOR  1 - PRE-TRATAMENTO"
+    },
+    {
+        "cdinventarios": 576.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130407",
+        "Equipamentos": "EXAUSTOR  2 - PRE-TRATAMENTO"
+    },
+    {
+        "cdinventarios": 577.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130408",
+        "Equipamentos": "RECIRCULADOR TANQUE DE SECAGEM - PRÉ"
+    },
+    {
+        "cdinventarios": 578.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008985130409",
+        "Equipamentos": "TANQUE RECIRCULADOR RESFRIAMENTO - PRÉ"
+    },
+    {
+        "cdinventarios": 875.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008991780003",
+        "Equipamentos": "BRACO GIRATORIO DEMAG 500KG"
+    },
+    {
+        "cdinventarios": 884.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J0089921821801",
+        "Equipamentos": "PLANO DE SEGURANÇA - LINHA PINTURA 218/4"
+    },
+    {
+        "cdinventarios": 915.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008992780012",
+        "Equipamentos": "BRACO GIRATORIO 250 KG ** PREDIO 49 **"
+    },
+    {
+        "cdinventarios": 916.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008992780013",
+        "Equipamentos": "BRACO GIRAT. 500KG - PR49"
+    },
+    {
+        "cdinventarios": 917.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008992780014",
+        "Equipamentos": "MONOVIA PNEUM. 500 KG ** PREDIO 49 **"
+    },
+    {
+        "cdinventarios": 919.0,
+        "Area": "OCB",
+        "Centro de Custo": 2184,
+        "Inventarios": "J008992780018",
+        "Equipamentos": "BRACO GIRAT. PNEUMATICO 1000KG - PR49"
+    }
+]

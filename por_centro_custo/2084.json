@@ -1,0 +1,814 @@
+[
+    {
+        "cdinventarios": 2999.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00006024",
+        "Equipamentos": "MAQ. ALARGAR E RETRAIR TUBOS ILHA 2"
+    },
+    {
+        "cdinventarios": 3000.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00006042",
+        "Equipamentos": "MAQUINA P/ ALARGAR FABRICACAO MBB"
+    },
+    {
+        "cdinventarios": 3001.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00006574",
+        "Equipamentos": "DOBRAD TUBOS- ROBIMAT2-NF255-LANG"
+    },
+    {
+        "cdinventarios": 3002.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00006865",
+        "Equipamentos": "FURAD-RADIAL-NKR31-NF10799-KOLB"
+    },
+    {
+        "cdinventarios": 3003.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00008798",
+        "Equipamentos": "TORNO/REV-HR32S-NF08464-HESTICA"
+    },
+    {
+        "cdinventarios": 3004.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00011710",
+        "Equipamentos": "PRENSA HIDR.100 TON.   ILHA 6"
+    },
+    {
+        "cdinventarios": 3005.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00013825",
+        "Equipamentos": "DOBRAD P/TUBOS ILHA 5"
+    },
+    {
+        "cdinventarios": 3006.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00013956",
+        "Equipamentos": "MAQUINA DE LAVAR 2 CAMARAS  ILHA 1"
+    },
+    {
+        "cdinventarios": 3007.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00014070",
+        "Equipamentos": "MAQUINA DE TRABAL TUBO (3 RASGOS) ILHA2"
+    },
+    {
+        "cdinventarios": 3008.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00014276",
+        "Equipamentos": "SERRA CIRCULAR -OMF- OMICRON"
+    },
+    {
+        "cdinventarios": 3009.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00014277",
+        "Equipamentos": "SERRA CIRCULAR -OMF- OMICRON (PMC)"
+    },
+    {
+        "cdinventarios": 3010.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00014464",
+        "Equipamentos": "PRENSA EXCENTR MANKE 65TON ILHA 11"
+    },
+    {
+        "cdinventarios": 3011.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00014608",
+        "Equipamentos": "CABINE DE PINTURA  ILHA 11"
+    },
+    {
+        "cdinventarios": 3012.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00014856",
+        "Equipamentos": "FORNO BRASIMET-DLE-211-2/6-6-N.2715"
+    },
+    {
+        "cdinventarios": 3013.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00014871",
+        "Equipamentos": "PRENSA HIDRAUL.  FRED FREY ILHA 9"
+    },
+    {
+        "cdinventarios": 3014.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00014908",
+        "Equipamentos": "PRENSA HIDRAUL-CIOLA ILHA 3"
+    },
+    {
+        "cdinventarios": 3015.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00014933",
+        "Equipamentos": "MAQ CURVAR TUBOS HIDRL ILHA 5"
+    },
+    {
+        "cdinventarios": 3016.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00014962",
+        "Equipamentos": "MAQ RECALCAR TUBO OF-N-400.208"
+    },
+    {
+        "cdinventarios": 3017.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00015614",
+        "Equipamentos": "PRENSA EXC - MAHNKE  ILHA 5"
+    },
+    {
+        "cdinventarios": 3018.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00015832",
+        "Equipamentos": "FRESAD UNIVERSAL ILHA 7"
+    },
+    {
+        "cdinventarios": 3019.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00016050",
+        "Equipamentos": "MAQ CRAVAR ANEL DES 13003440"
+    },
+    {
+        "cdinventarios": 3020.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00016051",
+        "Equipamentos": "MAQ CRAVAR ANEL DES 13003440"
+    },
+    {
+        "cdinventarios": 3021.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00016197",
+        "Equipamentos": "FURADEIRA RADIAL R35/50II-ROCCO"
+    },
+    {
+        "cdinventarios": 3022.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00016272",
+        "Equipamentos": "MAQ CURVAR TUBOS FEVA ILHA 5"
+    },
+    {
+        "cdinventarios": 3023.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00016647",
+        "Equipamentos": "MAQ P/CORDONEAR TUBOS"
+    },
+    {
+        "cdinventarios": 3024.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00017545",
+        "Equipamentos": "DOBRADEIRA TUBOS HIDR. FEVA ILHA 3"
+    },
+    {
+        "cdinventarios": 3025.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00017655",
+        "Equipamentos": "LIXADEIRA FITA DUPLA REBEL MOD PCV 4"
+    },
+    {
+        "cdinventarios": 3026.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00017965",
+        "Equipamentos": "PRENSA HIDRAL 60TON ILHA 7"
+    },
+    {
+        "cdinventarios": 3027.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00018319",
+        "Equipamentos": "SERRA DE FITA HIDRAULICA VERTICAL"
+    },
+    {
+        "cdinventarios": 3028.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00018323",
+        "Equipamentos": "SERRA DE FITA HIDRAULICA VERTICAL"
+    },
+    {
+        "cdinventarios": 3029.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00018586",
+        "Equipamentos": "MAQ P/RECORTAR TUBOS FRANZ DIEKMANN"
+    },
+    {
+        "cdinventarios": 3030.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00018608",
+        "Equipamentos": "FURAD.BANCADA FB-25 S. BLANES ILHA 2"
+    },
+    {
+        "cdinventarios": 3031.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00018719",
+        "Equipamentos": "SERRA DE FITA VERT HIDR SFV460 043006"
+    },
+    {
+        "cdinventarios": 3032.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00018882",
+        "Equipamentos": "SERRA DE FITA ILHA 1"
+    },
+    {
+        "cdinventarios": 3033.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00018883",
+        "Equipamentos": "DOBRADEIRA DE TUBOS BLM ILHA 7"
+    },
+    {
+        "cdinventarios": 3034.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00018897",
+        "Equipamentos": "SERRA DE FITA HIDRAU. VERTICAL ILHA 7"
+    },
+    {
+        "cdinventarios": 3035.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00018977",
+        "Equipamentos": "MQ ESTAC.SOLDA PONTOS 150KVA"
+    },
+    {
+        "cdinventarios": 3036.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019110",
+        "Equipamentos": "CORDON. AUTOM. PARA TUBOS ILHA 4"
+    },
+    {
+        "cdinventarios": 3037.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019111",
+        "Equipamentos": "CORDON. AUTOM. PARA TUBOS ILHA 7"
+    },
+    {
+        "cdinventarios": 3038.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019114",
+        "Equipamentos": "SERRA CIRCULAR  ILHA 1"
+    },
+    {
+        "cdinventarios": 3039.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019123",
+        "Equipamentos": "MAQ.ROBOTIZADA DE SOLDA MAG"
+    },
+    {
+        "cdinventarios": 3040.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019132",
+        "Equipamentos": "SERRA CIRCULAR COM PROTECAO RETRATIL"
+    },
+    {
+        "cdinventarios": 3041.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019457",
+        "Equipamentos": "DOBRADEIRA DE TUBOS BLM ILHA 6"
+    },
+    {
+        "cdinventarios": 3043.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019472",
+        "Equipamentos": "MAQ.ROBOTIZADA DE SOLDA MAG"
+    },
+    {
+        "cdinventarios": 3044.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019920",
+        "Equipamentos": "MAQU. SOLDA CO2 MIG AUTOMAT * 4 TOCHA *"
+    },
+    {
+        "cdinventarios": 3045.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019921",
+        "Equipamentos": "MAQU. SOLDA CO2 MIG AUTOMAT * 4 TOCHA *"
+    },
+    {
+        "cdinventarios": 3046.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019922",
+        "Equipamentos": "MAQU. SOLDA CO2 MIG AUTOMAT * 4 TOCHA *"
+    },
+    {
+        "cdinventarios": 3047.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00019923",
+        "Equipamentos": "MAQU. SOLDA CO2 MIG AUTOMAT * 4 TOCHA *"
+    },
+    {
+        "cdinventarios": 3048.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00020119",
+        "Equipamentos": "DOBRADEIRA SEMI-AUTOMATICA DE TUBOS CRIPA"
+    },
+    {
+        "cdinventarios": 3049.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00020234",
+        "Equipamentos": "MAQUINA LAVAR/SECAR MONOCAMARA"
+    },
+    {
+        "cdinventarios": 3050.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00020247",
+        "Equipamentos": "EQUIP. SERRAR E REBARBAR AUTOMATICO"
+    },
+    {
+        "cdinventarios": 3051.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00020249",
+        "Equipamentos": "MAQUINA LASER 2D P/CORTE BARRAS TUBULARE"
+    },
+    {
+        "cdinventarios": 3052.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00020250",
+        "Equipamentos": "DOBRADEIRA SEMI-AUTOMATICA DE TUBOS BLM"
+    },
+    {
+        "cdinventarios": 3053.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J000186681",
+        "Equipamentos": "BANCADA C/REGULAGEM DE ALTURA"
+    },
+    {
+        "cdinventarios": 3054.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00210054",
+        "Equipamentos": "MAQUINA PNEUMATICA P/RECALCAR TUBOS"
+    },
+    {
+        "cdinventarios": 3055.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00257195",
+        "Equipamentos": "MAQ.VIBRATORIA P/ ACABAMENTO DE PCS (TAM"
+    },
+    {
+        "cdinventarios": 3056.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00292584",
+        "Equipamentos": "CENTRAL PURIFICADORA DE AR RESPIRAVEL"
+    },
+    {
+        "cdinventarios": 3057.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00292599",
+        "Equipamentos": "EQUIPAMENTO PARA CORTE DE TUBOS OMP"
+    },
+    {
+        "cdinventarios": 3058.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00300979",
+        "Equipamentos": "EQUIP P/CURVAR TUBOS PC 3454297911"
+    },
+    {
+        "cdinventarios": 3059.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408408",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3060.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408409",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3061.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408411",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3062.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408412",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3063.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408413",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3064.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408415",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3065.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408416",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3066.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408417",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3067.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408418",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3068.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408419",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3069.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408420",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3070.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00408421",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3071.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00299727",
+        "Equipamentos": "REBARBADORA ESTACIONARIA P/TUBOS"
+    },
+    {
+        "cdinventarios": 3072.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00415970",
+        "Equipamentos": "REBARBADORA ESTACIONARIA P/TUBOS"
+    },
+    {
+        "cdinventarios": 3073.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00898200",
+        "Equipamentos": "CELULA ROBOTIZADA DE SOLDA MAG ILHA 3"
+    },
+    {
+        "cdinventarios": 3074.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008992980460",
+        "Equipamentos": "EXAUSTAO CAB.PINTURA  1 (VOITH)"
+    },
+    {
+        "cdinventarios": 3075.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008992980461",
+        "Equipamentos": "EXAUSTAO CAB.PINTURA  2 (VOITH)"
+    },
+    {
+        "cdinventarios": 3076.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008992980462",
+        "Equipamentos": "EXAUSTAO LIXADEIRAS ILHA 1 (VOITH)"
+    },
+    {
+        "cdinventarios": 3077.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008992980465",
+        "Equipamentos": "EXAUSTAO CABINES DE SOLDA 4 (VOITH)"
+    },
+    {
+        "cdinventarios": 3078.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008992980721",
+        "Equipamentos": "EXAUSTAO CABINES DE SOLDA 1 (VOITH)"
+    },
+    {
+        "cdinventarios": 3079.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008992980723",
+        "Equipamentos": "EXAUSTAO MAQUINA DE LAVAR (VOITH)"
+    },
+    {
+        "cdinventarios": 3080.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008992980724",
+        "Equipamentos": "EXAUSTAO CABINES DE SOLDA 2 (VOITH)"
+    },
+    {
+        "cdinventarios": 3081.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008992980725",
+        "Equipamentos": "EXAUSTAO CABINES DE SOLDA 3 (VOITH)"
+    },
+    {
+        "cdinventarios": 3082.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670001",
+        "Equipamentos": "BG/TALHA DEMAG 500KG (ILHA 3)"
+    },
+    {
+        "cdinventarios": 3083.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670002",
+        "Equipamentos": "BG/TALHA DEMAG 500KG (ILHA 5)"
+    },
+    {
+        "cdinventarios": 3084.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670003",
+        "Equipamentos": "BG/TALHA PNEUMATICA 125KG (ILHA 6)"
+    },
+    {
+        "cdinventarios": 3085.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670004",
+        "Equipamentos": "BG/TALHA STAHL 300KG (ILHA 1)"
+    },
+    {
+        "cdinventarios": 3086.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670005",
+        "Equipamentos": "BG/TALHA STAHL 300KG (PMC)"
+    },
+    {
+        "cdinventarios": 3087.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670006",
+        "Equipamentos": "BG/TALHA STAHL 500KG (ILHA10) BLM ELETR."
+    },
+    {
+        "cdinventarios": 3088.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670010",
+        "Equipamentos": "BG/TALHA STAHL 300KG (ILHA 3)"
+    },
+    {
+        "cdinventarios": 3089.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670011",
+        "Equipamentos": "BG/TALHA 1000KG (ILHA 7 CORREDOR)"
+    },
+    {
+        "cdinventarios": 3090.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670012",
+        "Equipamentos": "BG/TALHA STAHL 300KG (ILHA11)"
+    },
+    {
+        "cdinventarios": 3091.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670029",
+        "Equipamentos": "BG/TALHA DEMAG 500KG (ILHA 1)"
+    },
+    {
+        "cdinventarios": 3092.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670030",
+        "Equipamentos": "BG/TALHA DEMAG 500KG (ILHA 5)"
+    },
+    {
+        "cdinventarios": 3093.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670144",
+        "Equipamentos": "BG/TALHA STAHL 300KG (ILHA 4)"
+    },
+    {
+        "cdinventarios": 3094.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008998670146",
+        "Equipamentos": "BG/TALHA DEMAG 250KG (ILHA 6)"
+    },
+    {
+        "cdinventarios": 3095.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J009002050005",
+        "Equipamentos": "DISPOSITIVO PARA FURAR TUBOS ( OKUMA )"
+    },
+    {
+        "cdinventarios": 3096.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J009002050101",
+        "Equipamentos": "BRACO GIRATÓRIO STAHL 300 KG ( ILHA 1 )"
+    },
+    {
+        "cdinventarios": 3097.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J009002050102",
+        "Equipamentos": "BRACO GIRATÓRIO STAHL 300 KG ( ILHA 1 )"
+    },
+    {
+        "cdinventarios": 3098.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J009002050001",
+        "Equipamentos": "LUBRIFICAÇÃO ILHA 01 C.C. 205/4"
+    },
+    {
+        "cdinventarios": 3099.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J009002050002",
+        "Equipamentos": "LUBRIFICAÇÃO ILHA 02 E 03  C.C. 205/4"
+    },
+    {
+        "cdinventarios": 3100.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J009002050003",
+        "Equipamentos": "LUBRIFICAÇÃO ILHA 04, 05, 06  C.C. 205/4"
+    },
+    {
+        "cdinventarios": 3101.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J009002050004",
+        "Equipamentos": "LUBRIFICAÇÃO ILHA 07, 09, 11  C.C. 205/4"
+    },
+    {
+        "cdinventarios": 3102.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J008993510015",
+        "Equipamentos": "MANUTENCAO DE DISPOSITIVOS 205/4"
+    },
+    {
+        "cdinventarios": 3103.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00898616205",
+        "Equipamentos": "SERVICOS GERAIS DE MANUTENCAO."
+    },
+    {
+        "cdinventarios": 3104.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "5545M00002050001",
+        "Equipamentos": "DOBRADEIRA SEMI-AUTOM. XUCRIPA"
+    },
+    {
+        "cdinventarios": 3105.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "5545M2084001",
+        "Equipamentos": "METALMAG – 150KG"
+    },
+    {
+        "cdinventarios": 3106.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "5545M2084002",
+        "Equipamentos": "METALMAG – 150KG"
+    },
+    {
+        "cdinventarios": 3862.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00018886",
+        "Equipamentos": "REBARBADORA AUTOMATICA ILHA 1"
+    },
+    {
+        "cdinventarios": 3934.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00186193",
+        "Equipamentos": "TANQUE ESTANQUEIDADE CAP. 200 LITROS"
+    },
+    {
+        "cdinventarios": 3938.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "5545M20841",
+        "Equipamentos": "METALMAG – 150KG"
+    },
+    {
+        "cdinventarios": 3939.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "554010007594",
+        "Equipamentos": "MILLE - CALIBRADORA TUBO"
+    },
+    {
+        "cdinventarios": 3940.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "554010010146",
+        "Equipamentos": "REBARBADORA OMP 6M"
+    },
+    {
+        "cdinventarios": 3941.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "5545M20842",
+        "Equipamentos": "METALMAG – 150KG"
+    },
+    {
+        "cdinventarios": 3942.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "j00420915",
+        "Equipamentos": "TALHA ELETRICA DE CORRENTE MOTORIZADA CA"
+    },
+    {
+        "cdinventarios": 3943.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00924422",
+        "Equipamentos": "DISP P/MONTAR PC 3521800143"
+    },
+    {
+        "cdinventarios": 3944.0,
+        "Area": "OCF",
+        "Centro de Custo": 2084,
+        "Inventarios": "J00930217",
+        "Equipamentos": "DISP.CALIBRAR BICO INJETOR PICHT.U.PRUFV"
+    }
+]

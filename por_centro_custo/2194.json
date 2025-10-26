@@ -1,0 +1,3411 @@
+[
+    {
+        "cdinventarios": 3.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "554010000592",
+        "Equipamentos": "PLATAF.ELEV.PARA CABINA PRIMER POSTO 1"
+    },
+    {
+        "cdinventarios": 4.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "554010000594",
+        "Equipamentos": "PLATAF.ELEV.PARA CABINA PRIMER POSTO 1"
+    },
+    {
+        "cdinventarios": 5.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "554J00225861",
+        "Equipamentos": "COMPRESSOR DE AR"
+    },
+    {
+        "cdinventarios": 8.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00014416",
+        "Equipamentos": "SIST.JUNIOR PARA PINTURA ESMALTE"
+    },
+    {
+        "cdinventarios": 11.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00014758",
+        "Equipamentos": "RTO (POS QUEIMADOR DE GASES KTL/PRI/ESM)"
+    },
+    {
+        "cdinventarios": 45.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00178951",
+        "Equipamentos": "CHAPA AQUECEDORA"
+    },
+    {
+        "cdinventarios": 54.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00186044",
+        "Equipamentos": "PTE ROL. 500KG E.ZOLCSAK 7500 MM"
+    },
+    {
+        "cdinventarios": 55.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00186045",
+        "Equipamentos": "BRACO GIRATORIO CAP.250KG.TORN EQUIPS"
+    },
+    {
+        "cdinventarios": 56.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00186048",
+        "Equipamentos": "ELEVADOR CARGA OTIS"
+    },
+    {
+        "cdinventarios": 57.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00186050",
+        "Equipamentos": "BRACO GIRATORIO C/COLUNA E LANCA-250K"
+    },
+    {
+        "cdinventarios": 61.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00189489",
+        "Equipamentos": "BRACO GIRATORIO CAP 500 KGS DEMAG"
+    },
+    {
+        "cdinventarios": 73.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00201947",
+        "Equipamentos": "TANQUE ACOND AGUA DESMINERALIZADA"
+    },
+    {
+        "cdinventarios": 74.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00202003",
+        "Equipamentos": "CONJ.DE DESMINERALIZADOR DE AGUA/"
+    },
+    {
+        "cdinventarios": 75.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00202055",
+        "Equipamentos": "FILTRO P/AR COMPRIMIDO-DELTECH"
+    },
+    {
+        "cdinventarios": 76.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00202056",
+        "Equipamentos": "FILTRO P/AR COMPRIMIDO-DELTECH"
+    },
+    {
+        "cdinventarios": 78.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00202841",
+        "Equipamentos": "SIST.EXAUSTAO ZAULI C/ACESS."
+    },
+    {
+        "cdinventarios": 79.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00203092",
+        "Equipamentos": "SIST.RECIRCULACAO AGUA INDUSTRIAL TAQ"
+    },
+    {
+        "cdinventarios": 80.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00203567",
+        "Equipamentos": "SIST. EXAUSTAO TQ ELETRODOS"
+    },
+    {
+        "cdinventarios": 81.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00203578",
+        "Equipamentos": "SIST.EXAUSTAO GASES-STRINGAL"
+    },
+    {
+        "cdinventarios": 83.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00204396",
+        "Equipamentos": "AQUECEDOR AR1118009722ET6254R57Y32D5 GEA"
+    },
+    {
+        "cdinventarios": 84.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00204888",
+        "Equipamentos": "SIST.EXAUSTAO P/PINT.METALICA-SENTER"
+    },
+    {
+        "cdinventarios": 86.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00205309",
+        "Equipamentos": "RESFRIADOR DE LIQUIDO HITACHI RCU"
+    },
+    {
+        "cdinventarios": 87.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00205335",
+        "Equipamentos": "PAINEL ELETRICO"
+    },
+    {
+        "cdinventarios": 88.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00205336",
+        "Equipamentos": "PAINEL ELETRICO"
+    },
+    {
+        "cdinventarios": 89.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00205861",
+        "Equipamentos": "RESFRIADOR DE LIQU HITACHI RCU 11004S"
+    },
+    {
+        "cdinventarios": 90.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00205877",
+        "Equipamentos": "CONFEC/INST TANQUE DE SOLV.COLETOR"
+    },
+    {
+        "cdinventarios": 92.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00208839",
+        "Equipamentos": "ELEVADOR DE CARGA MOD 0131"
+    },
+    {
+        "cdinventarios": 96.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00209388",
+        "Equipamentos": "TALHA ELETRICA DEMAG 250KG"
+    },
+    {
+        "cdinventarios": 97.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00209501",
+        "Equipamentos": "BRACO GIRATORIO VILLARES 300KG"
+    },
+    {
+        "cdinventarios": 98.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00209587",
+        "Equipamentos": "TALHA ELETRICA MUNCK 300KG"
+    },
+    {
+        "cdinventarios": 100.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00210098",
+        "Equipamentos": "TRANSP.P/CABINAS NA ESTACAO DE PRIMER"
+    },
+    {
+        "cdinventarios": 101.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00210099",
+        "Equipamentos": "TRANSP.P/CABINAS NA ESTACAO DE ESMALTE"
+    },
+    {
+        "cdinventarios": 104.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00232036",
+        "Equipamentos": "CONJ.RETIFICADOR KLT"
+    },
+    {
+        "cdinventarios": 107.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00234172",
+        "Equipamentos": "TRANSP.AEREO CAB.APLIC.PROT.BATIDA PEDRA"
+    },
+    {
+        "cdinventarios": 109.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00234456",
+        "Equipamentos": "EXAUSTOR AR TIPO CORTINA MOD. CFC-322HT"
+    },
+    {
+        "cdinventarios": 110.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00234457",
+        "Equipamentos": "EXAUSTOR AR TIPO CORTINA MOD. CFC-322HT"
+    },
+    {
+        "cdinventarios": 111.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00234458",
+        "Equipamentos": "EXAUSTOR AR TIPO CORTINA MOD. CFC-322HT"
+    },
+    {
+        "cdinventarios": 112.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00234459",
+        "Equipamentos": "EXAUSTOR AR TIPO CORTINA MOD. CFC-322HT"
+    },
+    {
+        "cdinventarios": 113.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00234460",
+        "Equipamentos": "EXAUSTOR AR TIPO CORTINA MOD. CFC-322HT"
+    },
+    {
+        "cdinventarios": 114.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00234461",
+        "Equipamentos": "EXAUSTOR AR TIPO CORTINA MOD. CFC-322HT"
+    },
+    {
+        "cdinventarios": 118.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00237762",
+        "Equipamentos": "TRANSP. PARA PINTURA KTL"
+    },
+    {
+        "cdinventarios": 119.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00238290",
+        "Equipamentos": "TALHA ELETRICA DEMAG EUDK10-1000KV1 P/1T"
+    },
+    {
+        "cdinventarios": 120.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00238291",
+        "Equipamentos": "TALHA ELETRICA DEMAG EUDK10-1000KV1 P/1T"
+    },
+    {
+        "cdinventarios": 125.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00238970",
+        "Equipamentos": "EXAUSTOR P/CABINE DE PINTURA"
+    },
+    {
+        "cdinventarios": 131.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00261493",
+        "Equipamentos": "ROBO DE PINTURA"
+    },
+    {
+        "cdinventarios": 134.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00264240",
+        "Equipamentos": "LIXADEIRA COM SUCCAO PNEUM.E ASP.ELETRICO"
+    },
+    {
+        "cdinventarios": 137.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00264686",
+        "Equipamentos": "PLATAF. LEVADICA P/LIXAMENTO POSTO 10"
+    },
+    {
+        "cdinventarios": 138.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00264687",
+        "Equipamentos": "PLATAF. LEVADICA P/LIXAMENTO POSTO 10"
+    },
+    {
+        "cdinventarios": 146.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00265547",
+        "Equipamentos": "PLATAF. HIDRAULICA-CONF. E INSTAL"
+    },
+    {
+        "cdinventarios": 153.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00269858",
+        "Equipamentos": "PLATAF. LEVADICA P/LIXAMENTO POSTO 17"
+    },
+    {
+        "cdinventarios": 154.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00269859",
+        "Equipamentos": "PLATAF. LEVADICA P/LIXAMENTO POSTO 17"
+    },
+    {
+        "cdinventarios": 155.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00269894",
+        "Equipamentos": "CENTRAL PURIFIC.DE AR MANDADOCAP.3000L"
+    },
+    {
+        "cdinventarios": 163.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00271776",
+        "Equipamentos": "TALHA ELETRICA CAP.300KG ALTURA DE 6MTS"
+    },
+    {
+        "cdinventarios": 165.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00273032",
+        "Equipamentos": "EQUIP.TRATAMENTO DE EFLUENTES C/KT"
+    },
+    {
+        "cdinventarios": 169.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00273633",
+        "Equipamentos": "SIST. AR CONDICIONADO SALA ROBOS"
+    },
+    {
+        "cdinventarios": 170.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00273733",
+        "Equipamentos": "CHILLER HITACHI P/SALA CONT.TEMP. TINTA"
+    },
+    {
+        "cdinventarios": 171.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00273850",
+        "Equipamentos": "SIST. REFRIG.P/PINTURA - CHILLER HITACHI"
+    },
+    {
+        "cdinventarios": 190.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00274365",
+        "Equipamentos": "PLATAF. ELEV. P/CABINA PINTURA ESMALTE"
+    },
+    {
+        "cdinventarios": 191.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00274366",
+        "Equipamentos": "PLATAF. ELEV. P/CABINA PINTURA ESMALTE"
+    },
+    {
+        "cdinventarios": 195.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00277483",
+        "Equipamentos": "TALHA CORRENTE CAP.500KG C/4MTS DE EL"
+    },
+    {
+        "cdinventarios": 196.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00280651",
+        "Equipamentos": "DISP. PNEUMAT DE SUBIDA/DESCIDA P/APERTO"
+    },
+    {
+        "cdinventarios": 198.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00280718",
+        "Equipamentos": "ELEVADOR DE CABINAS PINTURA NO 4"
+    },
+    {
+        "cdinventarios": 210.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00290095",
+        "Equipamentos": "PLATAF. ELEVAT.P/APLIC PVC LADO DIR./"
+    },
+    {
+        "cdinventarios": 223.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297507",
+        "Equipamentos": "RESERVATORIO DE AR COMPRIMIDO"
+    },
+    {
+        "cdinventarios": 224.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297515",
+        "Equipamentos": "TANQUE RESERVA FOSFATO"
+    },
+    {
+        "cdinventarios": 225.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297516",
+        "Equipamentos": "TANQUE DESENCRUSTANTE"
+    },
+    {
+        "cdinventarios": 226.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297517",
+        "Equipamentos": "TANQUE CONDENSADOR"
+    },
+    {
+        "cdinventarios": 227.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297520",
+        "Equipamentos": "ESTEIRA TRASPORTADORA P/ENXAGUE"
+    },
+    {
+        "cdinventarios": 228.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297521",
+        "Equipamentos": "L3 - ROBO P/PINTURA PRIMER 01"
+    },
+    {
+        "cdinventarios": 229.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297522",
+        "Equipamentos": "L3 - ROBO P/PINTURA PRIMER 02"
+    },
+    {
+        "cdinventarios": 230.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297523",
+        "Equipamentos": "L3 - ROBO P/PINTURA PRIMER + PAINEIS ELÉTRICO"
+    },
+    {
+        "cdinventarios": 231.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297524",
+        "Equipamentos": "L5 - ROBO P/PINTURA ESMALTE 01"
+    },
+    {
+        "cdinventarios": 232.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297525",
+        "Equipamentos": "L5 - ROBO P/PINTURA ESMALTE 02"
+    },
+    {
+        "cdinventarios": 233.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00297526",
+        "Equipamentos": "L5 - ROBO P/PINTURA ESMALTE + PAINEIS ELÉTRICO"
+    },
+    {
+        "cdinventarios": 234.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298157",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 235.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298158",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 236.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298159",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 237.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298160",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 238.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298161",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 239.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298162",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 240.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298163",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 241.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298164",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 242.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298165",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 243.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298166",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 244.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298167",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 245.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298168",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 246.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298169",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 247.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298170",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 248.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298171",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 249.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298172",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 250.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298173",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 251.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298174",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 252.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298175",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 253.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298176",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 254.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298177",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 255.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298178",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 256.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298179",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 257.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298180",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 258.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298181",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 259.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298182",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 260.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00298183",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 286.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00316171",
+        "Equipamentos": "PLATAF. P/ PROLONG.DE TRILHOS DO PUFFER"
+    },
+    {
+        "cdinventarios": 299.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00322650",
+        "Equipamentos": "CONJ.APOIO DIANT/TRAS TRENO KTL P/CABINE"
+    },
+    {
+        "cdinventarios": 300.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00322651",
+        "Equipamentos": "CONJ.APOIO PINT.PRIM./ESM.CAB.LTC(100UN)"
+    },
+    {
+        "cdinventarios": 309.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00325648",
+        "Equipamentos": "DISP.APOIO P/SKIDS PRIM./ESMALTE NTC/100"
+    },
+    {
+        "cdinventarios": 310.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00325649",
+        "Equipamentos": "DISP. DE ICAMENTO P/ BAT.DE PEDRA NTC/08"
+    },
+    {
+        "cdinventarios": 311.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00325650",
+        "Equipamentos": "DISP. ICAMENTO TRANSF DO SKID KTL PRIME"
+    },
+    {
+        "cdinventarios": 312.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00325651",
+        "Equipamentos": "DISP. PORTAS NTC(CABINA CURTA/RYCKSACK"
+    },
+    {
+        "cdinventarios": 313.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00325652",
+        "Equipamentos": "DISP. PORTAS NTC(LEITO T.ALTO/BAIXO)/100"
+    },
+    {
+        "cdinventarios": 324.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00326418",
+        "Equipamentos": "PLATAF. DE LIXAM. POSTOS 10,17 E 13"
+    },
+    {
+        "cdinventarios": 344.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00331518",
+        "Equipamentos": "REDE DE VAPOR P/CASAS DE AR DA LINHA DE"
+    },
+    {
+        "cdinventarios": 345.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00332883",
+        "Equipamentos": "DISP.P/PINTURA DE CAPO(120 UN)"
+    },
+    {
+        "cdinventarios": 347.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00333470",
+        "Equipamentos": "DISP. P/PINTURA PARALAMAS HPN(200 UN)"
+    },
+    {
+        "cdinventarios": 348.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00333471",
+        "Equipamentos": "DISP. P/PINTURA GRADE FPN (50 UN)"
+    },
+    {
+        "cdinventarios": 349.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00333639",
+        "Equipamentos": "DISP P/PINT.(SUP P/SKIDS PRIMER/ESMALTE)"
+    },
+    {
+        "cdinventarios": 353.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00358302",
+        "Equipamentos": "VALVULAS P/ SISTEMA DE DILUVIO + OF 1800"
+    },
+    {
+        "cdinventarios": 354.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00358425",
+        "Equipamentos": "ANEMOMETRO DIGITAL,TEMPERATURA DE FUNCIO"
+    },
+    {
+        "cdinventarios": 355.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00361519",
+        "Equipamentos": "SIST. DE EXAUSTAO P/ CAPTACAO GASES"
+    },
+    {
+        "cdinventarios": 356.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00365341",
+        "Equipamentos": "TANQUE RESERVA FOSFATO"
+    },
+    {
+        "cdinventarios": 357.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00365343",
+        "Equipamentos": "TANQUE MISTURADOR DE TINTA"
+    },
+    {
+        "cdinventarios": 366.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00401074",
+        "Equipamentos": "TRANSP. PTF-STOTZ P/LINHA PINT CABINE"
+    },
+    {
+        "cdinventarios": 370.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00401767",
+        "Equipamentos": "BRACO GIRATORIO C/ TALHA ELETR 250 KGS"
+    },
+    {
+        "cdinventarios": 372.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00402013",
+        "Equipamentos": "BRACO GIRATORIO TALHA ELETR 250KG"
+    },
+    {
+        "cdinventarios": 373.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00402062",
+        "Equipamentos": "SIST. MONOVIA ATLAS CAP 1TN ME 1120"
+    },
+    {
+        "cdinventarios": 374.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00403571",
+        "Equipamentos": "BRACO GIRATORIO COLUNA STTI CAP 500KG"
+    },
+    {
+        "cdinventarios": 387.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00405130",
+        "Equipamentos": "PLATAF. ELEVAT. C/MOTOR CAP.300 KG"
+    },
+    {
+        "cdinventarios": 388.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00405131",
+        "Equipamentos": "PLATAF. ELEVAT. C/MOTOR CAP.300 KG"
+    },
+    {
+        "cdinventarios": 421.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00406000",
+        "Equipamentos": "TRANSP. P/ESTOCAGEM TRENOS 52,4 M"
+    },
+    {
+        "cdinventarios": 422.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00406100",
+        "Equipamentos": "TRANSP. P/ESTOCAR TRENOS  52.4 MT."
+    },
+    {
+        "cdinventarios": 427.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00410707",
+        "Equipamentos": "TALHA PNEUMATICA CAP. 220 KG -  B 901002"
+    },
+    {
+        "cdinventarios": 428.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00410754",
+        "Equipamentos": "TERMOMETRO DIGITAL INDUSTRIAL INFRAVERME"
+    },
+    {
+        "cdinventarios": 429.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00410755",
+        "Equipamentos": "TERMOMETRO DIGITAL INDUSTRIAL INFRAVERME"
+    },
+    {
+        "cdinventarios": 430.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00410756",
+        "Equipamentos": "TERMOMETRO DIGITAL INDUSTRIAL INFRAVERME"
+    },
+    {
+        "cdinventarios": 431.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00411586",
+        "Equipamentos": "NO BREAKS PARA ROBOS DE PINTURA"
+    },
+    {
+        "cdinventarios": 432.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00411587",
+        "Equipamentos": "NO BREAKS PARA ROBOS DE PINTURA"
+    },
+    {
+        "cdinventarios": 438.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00418088",
+        "Equipamentos": "L2 - ROBO SIST.APLICACAO TINTA RESITENTE BAT"
+    },
+    {
+        "cdinventarios": 439.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00420823",
+        "Equipamentos": "RETIFICADOR INDUSTRIAL P/ PINTURA"
+    },
+    {
+        "cdinventarios": 440.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00523513",
+        "Equipamentos": "TRENO DE PINTURA P/CABINA"
+    },
+    {
+        "cdinventarios": 441.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J005235130026",
+        "Equipamentos": "TRENO DE PINTURA P/CABINA"
+    },
+    {
+        "cdinventarios": 442.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J005235130028",
+        "Equipamentos": "TRENO DE PINTURA P/CABINA"
+    },
+    {
+        "cdinventarios": 443.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J005235130061",
+        "Equipamentos": "TRENO DE PINTURA P/CABINA"
+    },
+    {
+        "cdinventarios": 444.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J005235130127",
+        "Equipamentos": "TRENO DE PINTURA P/CABINA"
+    },
+    {
+        "cdinventarios": 445.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J005235130155",
+        "Equipamentos": "TRENO DE PINTURA P/CABINA"
+    },
+    {
+        "cdinventarios": 446.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J005235130170",
+        "Equipamentos": "TRENO DE PINTURA P/CABINA"
+    },
+    {
+        "cdinventarios": 447.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00523514",
+        "Equipamentos": "TRENO DE PINTURA P/CABINA"
+    },
+    {
+        "cdinventarios": 448.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00523515",
+        "Equipamentos": "TRENO DE PINTURA P/CABINA"
+    },
+    {
+        "cdinventarios": 449.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00523516",
+        "Equipamentos": "TRENO DE PINTURA P/CABINA"
+    },
+    {
+        "cdinventarios": 450.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00611376",
+        "Equipamentos": "DIVISOES METALICAS TELA CHAPA-20MTS"
+    },
+    {
+        "cdinventarios": 451.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00614189",
+        "Equipamentos": "SIST. PROT.INCENDIO-RESMAT"
+    },
+    {
+        "cdinventarios": 452.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00617732",
+        "Equipamentos": "SIST. PROT INCENDIO P/SEMI CABINES"
+    },
+    {
+        "cdinventarios": 453.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00617733",
+        "Equipamentos": "SIST. PROT INCENDIO P/SEMI CABINES"
+    },
+    {
+        "cdinventarios": 461.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00637556",
+        "Equipamentos": "PLATAF. P/ACESSO EXTERNO"
+    },
+    {
+        "cdinventarios": 463.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00640584",
+        "Equipamentos": "EQUIP.P/APLICACAO DE PVC MUELLER"
+    },
+    {
+        "cdinventarios": 464.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00640585",
+        "Equipamentos": "EQUIP.P/APLICACAO DE PVC MUELLER"
+    },
+    {
+        "cdinventarios": 491.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008982190001",
+        "Equipamentos": "SERVICOS GERAIS DO C.C. 219.4"
+    },
+    {
+        "cdinventarios": 492.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008982190002",
+        "Equipamentos": "SERVICOS DE SEGURANCA CC.219/4"
+    },
+    {
+        "cdinventarios": 579.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00898514",
+        "Equipamentos": "RONDA - COMPLEXO DE PINTURA 219.4"
+    },
+    {
+        "cdinventarios": 580.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000000",
+        "Equipamentos": "DISP.DA LINHA DE PINTURA"
+    },
+    {
+        "cdinventarios": 581.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000001",
+        "Equipamentos": "PAINEL Z - ELEV.Z L. 1A"
+    },
+    {
+        "cdinventarios": 582.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000002",
+        "Equipamentos": "PAINEL PRE - CABINE PRE-TRATA."
+    },
+    {
+        "cdinventarios": 583.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000003",
+        "Equipamentos": "PAINEL P - PORTAS DE ESGUICHO KTL"
+    },
+    {
+        "cdinventarios": 584.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000004",
+        "Equipamentos": "PAINEL S4-TRANSPORTADOR KTL ÁREA 5"
+    },
+    {
+        "cdinventarios": 585.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000005",
+        "Equipamentos": "PAINEL 3 - PAINEL DO COMPR. NR 1."
+    },
+    {
+        "cdinventarios": 586.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000006",
+        "Equipamentos": "PAINEL 3A - PAINEL DO COMPR. NR 2."
+    },
+    {
+        "cdinventarios": 587.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000007",
+        "Equipamentos": "PAINEL KTL - PAINEL DO ELEVADOR KTL"
+    },
+    {
+        "cdinventarios": 588.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000008",
+        "Equipamentos": "PAINEL L  - PAINEL CAB. LIXAMENTO KTL"
+    },
+    {
+        "cdinventarios": 589.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000009",
+        "Equipamentos": "PAINEL D8-PAINEL DESV.C/ TRANSF.MOTORIZ."
+    },
+    {
+        "cdinventarios": 590.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000010",
+        "Equipamentos": "PAINEL 2A-PAINEL DAS LINHAS(VERF. TEXTO)"
+    },
+    {
+        "cdinventarios": 591.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000011",
+        "Equipamentos": "PAINEL S 3- ACIONAMENTO ESTUFA KTL"
+    },
+    {
+        "cdinventarios": 592.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000014",
+        "Equipamentos": "PAINEL S1 -PLC AREA 05"
+    },
+    {
+        "cdinventarios": 593.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000015",
+        "Equipamentos": "PAINEL 5B-PAINEL RECIRC.QUEIM.ESTUFA KTL"
+    },
+    {
+        "cdinventarios": 594.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000016",
+        "Equipamentos": "PAINEL S 2 - ACIONAMENTO BOMBAS KTL"
+    },
+    {
+        "cdinventarios": 595.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000017",
+        "Equipamentos": "PAINEL 5K- MESA TRANF.SKID ACUM.SKID"
+    },
+    {
+        "cdinventarios": 596.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000018",
+        "Equipamentos": "PAINEL C1  - PAINEL CASA DE AR ESMALTE"
+    },
+    {
+        "cdinventarios": 597.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000019",
+        "Equipamentos": "PAINEL C2  - PAINEL CASA DE AR ESMALTE"
+    },
+    {
+        "cdinventarios": 598.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000020",
+        "Equipamentos": "PAINEL 10  - PAINEL DIVS. (VIDE TEXTO)"
+    },
+    {
+        "cdinventarios": 599.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000021",
+        "Equipamentos": "PAINEL I-PAINEL INTERL.ESM./PRIM./M.L17"
+    },
+    {
+        "cdinventarios": 600.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000027",
+        "Equipamentos": "PAINEL 9A- RECIRC. CORTINA AR ESMALTE"
+    },
+    {
+        "cdinventarios": 601.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000030",
+        "Equipamentos": "PAINEL LP- CABINE DE LIXAMENTO PRIMER"
+    },
+    {
+        "cdinventarios": 602.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000031",
+        "Equipamentos": "PAINEL CR-PAINEL RETOQUE C/ SIST.SECAGEM"
+    },
+    {
+        "cdinventarios": 603.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000032",
+        "Equipamentos": "PAINEL 11 - COMANDO DIVS (VIDE TEXTO)"
+    },
+    {
+        "cdinventarios": 604.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000033",
+        "Equipamentos": "PAINEL DA MISTURA DE TINTA - PR.41"
+    },
+    {
+        "cdinventarios": 605.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000034",
+        "Equipamentos": "PAINEL DO TANQUE COAG.ESMALTE/ PRIMER"
+    },
+    {
+        "cdinventarios": 606.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000035",
+        "Equipamentos": "PAINEL EXAUS. CASAS DE AR ESMALTE/PRIMER"
+    },
+    {
+        "cdinventarios": 607.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000036",
+        "Equipamentos": "PAINEL EOM"
+    },
+    {
+        "cdinventarios": 608.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000037",
+        "Equipamentos": "PAINEL DA MISTURA DE TINTA - PR.49"
+    },
+    {
+        "cdinventarios": 609.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000038",
+        "Equipamentos": "PAINEL MESAS TRANSF.DO KTL P/ PRIMER"
+    },
+    {
+        "cdinventarios": 610.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000039",
+        "Equipamentos": "PAINEL DA TRAVA 80"
+    },
+    {
+        "cdinventarios": 611.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000040",
+        "Equipamentos": "PAINEL DO RETIFICADOR KTL"
+    },
+    {
+        "cdinventarios": 612.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400000041",
+        "Equipamentos": "PAINEL 1,2 DOS SHUNTS DOS CABOS KTL"
+    },
+    {
+        "cdinventarios": 613.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140041",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - PR41"
+    },
+    {
+        "cdinventarios": 614.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140049",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - PR49"
+    },
+    {
+        "cdinventarios": 615.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490003",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - N. 01 - PR49"
+    },
+    {
+        "cdinventarios": 616.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490004",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - N. 02 - PR49"
+    },
+    {
+        "cdinventarios": 617.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490005",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - N. 03 - PR49"
+    },
+    {
+        "cdinventarios": 618.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490006",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - N. 04 - PR49"
+    },
+    {
+        "cdinventarios": 619.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490007",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - N. 05 - PR49"
+    },
+    {
+        "cdinventarios": 620.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490008",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - N. 06 - PR49"
+    },
+    {
+        "cdinventarios": 621.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490015",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - N. 07 - PR49"
+    },
+    {
+        "cdinventarios": 622.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490025",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - N. 08 - PR49"
+    },
+    {
+        "cdinventarios": 623.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490026",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - N. 26- PR49"
+    },
+    {
+        "cdinventarios": 624.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490027",
+        "Equipamentos": "BOMBAS DA SALA DE TINTA - N. 27 - PR49"
+    },
+    {
+        "cdinventarios": 625.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490030",
+        "Equipamentos": "BOMBAS PNEUMATICAS SALA TINTA-N.30-PR49"
+    },
+    {
+        "cdinventarios": 626.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490031",
+        "Equipamentos": "BOMBAS PNEUMATICAS SALA TINTA-N.31-PR49"
+    },
+    {
+        "cdinventarios": 627.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490032",
+        "Equipamentos": "BOMBAS PNEUMATICAS SALA TINTA-N.32-PR49"
+    },
+    {
+        "cdinventarios": 628.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851400490033",
+        "Equipamentos": "BOMBAS PNEUMATICAS SALA TINTA N.33-PR49"
+    },
+    {
+        "cdinventarios": 629.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140100",
+        "Equipamentos": "L1 - LINHAS AEREAS (PRE/KTL)"
+    },
+    {
+        "cdinventarios": 630.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140101",
+        "Equipamentos": "L1 - PRE-TRATAMENTO/DESENGRAXANTE"
+    },
+    {
+        "cdinventarios": 631.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401010001",
+        "Equipamentos": "L1 - PRE-TRATAMENTO BOMBA DESENGRAXANTE"
+    },
+    {
+        "cdinventarios": 632.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401010002",
+        "Equipamentos": "L1 - BOMBA PRE-MIX DESENGRAXANTE"
+    },
+    {
+        "cdinventarios": 633.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140102",
+        "Equipamentos": "L1 - PRE-TRATAMENTO/ENX. DESENGRAXANTE"
+    },
+    {
+        "cdinventarios": 634.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401020001",
+        "Equipamentos": "L1 - PRE-TRAT./BOMBA ENXAG. DESENGRAX."
+    },
+    {
+        "cdinventarios": 635.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401020002",
+        "Equipamentos": "L1 - PRE-TRATAMENTO/ENXAGUAMENTO"
+    },
+    {
+        "cdinventarios": 636.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140103",
+        "Equipamentos": "L1 - PRE-TRATAMENTO/REFINADOR"
+    },
+    {
+        "cdinventarios": 637.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401030001",
+        "Equipamentos": "L1 - PRE-TRATAMENTO/BOMBA DO REFINADOR"
+    },
+    {
+        "cdinventarios": 638.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401030002",
+        "Equipamentos": "L1 - PRE-TRAT./BOMBA PREMIX REFINADOR"
+    },
+    {
+        "cdinventarios": 639.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401030003",
+        "Equipamentos": "L1 - PRE-TRATAMENTO/BOMBA REFIN.NITRITO"
+    },
+    {
+        "cdinventarios": 640.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140104",
+        "Equipamentos": "L1 - PRE-TRATAMENTO / FOSFATO"
+    },
+    {
+        "cdinventarios": 641.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401040001",
+        "Equipamentos": "L1 - PRE-TRAT./ BOMBA DO FOSFATO"
+    },
+    {
+        "cdinventarios": 642.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401040002",
+        "Equipamentos": "L1 - PRE-TRAT./ BOMBA AQUEC. FOSFATO"
+    },
+    {
+        "cdinventarios": 643.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401040003",
+        "Equipamentos": "L1 - PRE-TRAT/BOMBA CIRC.FOSFATO RESERVA"
+    },
+    {
+        "cdinventarios": 644.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401040004",
+        "Equipamentos": "L1 - PRE-TRAT./ BOMBA RETIR.LODO FOSFATO"
+    },
+    {
+        "cdinventarios": 645.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401040005",
+        "Equipamentos": "L1 - PRE-TRAT./ BOMBA EXAGAMENTO FOSFATO"
+    },
+    {
+        "cdinventarios": 646.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401040006",
+        "Equipamentos": "L1 - PRE-TRAT./BOMBA RECIRC.TROC.CALOR"
+    },
+    {
+        "cdinventarios": 647.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140105",
+        "Equipamentos": "L1 - PRE-TRATAMENTO / ENX. FOSFATO"
+    },
+    {
+        "cdinventarios": 648.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401050001",
+        "Equipamentos": "L1 - PRE-TRAT/ENX.FOSF.-BOMBA RECIC.LAV2"
+    },
+    {
+        "cdinventarios": 649.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140106",
+        "Equipamentos": "L1 - PRE-TRATAMENTO / PASSIVACAO"
+    },
+    {
+        "cdinventarios": 650.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401060001",
+        "Equipamentos": "L1 - PRE-TRAT./BOMBA PASSIVACAO"
+    },
+    {
+        "cdinventarios": 651.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140107",
+        "Equipamentos": "L1 - PRE-TRATAMENTO / ENX. PASSIVACAO"
+    },
+    {
+        "cdinventarios": 652.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401070001",
+        "Equipamentos": "L1 - PRE-TRAT/BOMBA1 ENX. PASSIVACAO"
+    },
+    {
+        "cdinventarios": 653.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401070002",
+        "Equipamentos": "L1 - PRE-TRAT/BOMBA2 ENX. PASSIVACAO"
+    },
+    {
+        "cdinventarios": 654.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401070003",
+        "Equipamentos": "L1 - PRE-TRAT/BOMBA ESGUICHO PASSIVACAO"
+    },
+    {
+        "cdinventarios": 655.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140108",
+        "Equipamentos": "L1 - PRE-TRATAMENTO / ELEVADOR KTL"
+    },
+    {
+        "cdinventarios": 656.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140109",
+        "Equipamentos": "L1 - PRE-TRATAMENTO / TANQUE  KTL"
+    },
+    {
+        "cdinventarios": 657.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090001",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA PNEUM.1 TANQ.KTL"
+    },
+    {
+        "cdinventarios": 658.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090002",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA PNEUM.2 TANQ.KTL"
+    },
+    {
+        "cdinventarios": 659.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090003",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA PNEUM.3 TANQ.KTL"
+    },
+    {
+        "cdinventarios": 660.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090004",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA PNEUM.4 TANQ.KTL"
+    },
+    {
+        "cdinventarios": 661.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090005",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA CIRC.ULTR.FILTRO"
+    },
+    {
+        "cdinventarios": 662.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090006",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA RESERVA"
+    },
+    {
+        "cdinventarios": 663.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090007",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA CIRC.FILTRO 1"
+    },
+    {
+        "cdinventarios": 664.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090008",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA CIRC.FILTRO 2"
+    },
+    {
+        "cdinventarios": 665.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090009",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA TANQUE ANOLITO 1"
+    },
+    {
+        "cdinventarios": 666.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090010",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA TANQUE ANOLITO 2"
+    },
+    {
+        "cdinventarios": 667.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090011",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA ULTRA FILTRO 1"
+    },
+    {
+        "cdinventarios": 668.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401090012",
+        "Equipamentos": "L1 - PRE-TRAT/KTL BOMBA ULTRA FILTRO 2"
+    },
+    {
+        "cdinventarios": 669.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140110",
+        "Equipamentos": "L1 - PRE-TRAT./ ENX 1 - FILTRADO SUJO"
+    },
+    {
+        "cdinventarios": 670.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401100001",
+        "Equipamentos": "L1 - PRE-TRAT/ENX1-FILT.SUJO ESG.EST.1"
+    },
+    {
+        "cdinventarios": 671.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401100002",
+        "Equipamentos": "L1 - PRE-TRAT/ENX1-FILTRAGEM MEMBRANA UF"
+    },
+    {
+        "cdinventarios": 672.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140111",
+        "Equipamentos": "L1 - PRE-TRAT./ ENX 2 - FILTRADO LIMPO"
+    },
+    {
+        "cdinventarios": 673.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401110001",
+        "Equipamentos": "L1 - PRE-TRAT./ENX 2- BOMBA FILTR.LIMPO"
+    },
+    {
+        "cdinventarios": 674.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401110002",
+        "Equipamentos": "L1 - PRE-TRAT./ENX 2- BOMBA ESGUIC.EST.2"
+    },
+    {
+        "cdinventarios": 675.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140112",
+        "Equipamentos": "L1 - PRE-TRATAMENTO / ESTUFA KTL"
+    },
+    {
+        "cdinventarios": 676.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140113",
+        "Equipamentos": "L1 - PRE-TRAT./ELEVADOR 4-(SAIDAEST.KTL)"
+    },
+    {
+        "cdinventarios": 677.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140114",
+        "Equipamentos": "ESTACAO DE TRATAMENTO DE EFLUENTES KTL"
+    },
+    {
+        "cdinventarios": 678.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140177",
+        "Equipamentos": "MESAS DE TRANSF./ROLETES - SAIDA KTL"
+    },
+    {
+        "cdinventarios": 679.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140188",
+        "Equipamentos": "L1 - LINHA DE RETORNO DE SKIDS"
+    },
+    {
+        "cdinventarios": 680.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990455",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.455"
+    },
+    {
+        "cdinventarios": 681.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990550",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.550"
+    },
+    {
+        "cdinventarios": 682.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990551",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.551"
+    },
+    {
+        "cdinventarios": 683.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990554",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.554"
+    },
+    {
+        "cdinventarios": 684.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990555",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.555"
+    },
+    {
+        "cdinventarios": 685.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990559",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.559"
+    },
+    {
+        "cdinventarios": 686.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990562",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.562"
+    },
+    {
+        "cdinventarios": 687.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990565",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.565"
+    },
+    {
+        "cdinventarios": 688.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990566",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.566"
+    },
+    {
+        "cdinventarios": 689.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990568",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.568"
+    },
+    {
+        "cdinventarios": 690.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990570",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.570"
+    },
+    {
+        "cdinventarios": 691.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990571",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.571"
+    },
+    {
+        "cdinventarios": 692.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990572",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.572"
+    },
+    {
+        "cdinventarios": 693.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990642",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.642"
+    },
+    {
+        "cdinventarios": 694.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990643",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.643"
+    },
+    {
+        "cdinventarios": 695.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990700",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.700"
+    },
+    {
+        "cdinventarios": 696.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990711",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.711"
+    },
+    {
+        "cdinventarios": 697.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990712",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.712"
+    },
+    {
+        "cdinventarios": 698.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990713",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.713"
+    },
+    {
+        "cdinventarios": 699.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990714",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.714"
+    },
+    {
+        "cdinventarios": 700.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990715",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.715"
+    },
+    {
+        "cdinventarios": 701.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851401990716",
+        "Equipamentos": "L1 - PRE-TRAT./VENT./EXAUST/INSUL.NR.716"
+    },
+    {
+        "cdinventarios": 702.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140200",
+        "Equipamentos": "L2 - LINHAS AEREAS BATIDA PEDRA"
+    },
+    {
+        "cdinventarios": 703.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402000001",
+        "Equipamentos": "CARRO EOM 01"
+    },
+    {
+        "cdinventarios": 704.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402000002",
+        "Equipamentos": "CARRO EOM 02"
+    },
+    {
+        "cdinventarios": 705.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402000003",
+        "Equipamentos": "CARRO EOM 03"
+    },
+    {
+        "cdinventarios": 706.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402000004",
+        "Equipamentos": "CARRO EOM 04"
+    },
+    {
+        "cdinventarios": 707.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402000005",
+        "Equipamentos": "CARRO EOM  05"
+    },
+    {
+        "cdinventarios": 708.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140201",
+        "Equipamentos": "L2 - CABINE DE PVC"
+    },
+    {
+        "cdinventarios": 709.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402010001",
+        "Equipamentos": "L2 - CABINE DE PVC-BOMBA PNEUM.1+VALVULA"
+    },
+    {
+        "cdinventarios": 710.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402010002",
+        "Equipamentos": "L2 - CABINE DE PVC-BOMBA PNEUM.2+VALVULA"
+    },
+    {
+        "cdinventarios": 711.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402010003",
+        "Equipamentos": "L2 - CABINE DE PVC-BOMBA PNEUM.3+VALVULA"
+    },
+    {
+        "cdinventarios": 712.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402010004",
+        "Equipamentos": "L2 - CABINE PVC-PLATAF.AC. PNEUM.PH1-PH2"
+    },
+    {
+        "cdinventarios": 713.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140202",
+        "Equipamentos": "L2 - CABINE DE LIXAMENTO KTL"
+    },
+    {
+        "cdinventarios": 714.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402020001",
+        "Equipamentos": "L2 - CABINE LIXAMENTO KTL-LINHA PREP."
+    },
+    {
+        "cdinventarios": 715.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402020002",
+        "Equipamentos": "L2 - PLATAF.HIDRAUL.CABINE LIXAMENTO KTL"
+    },
+    {
+        "cdinventarios": 716.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140203",
+        "Equipamentos": "L2 - ELEVADOR 11 SAIDA DO EOM"
+    },
+    {
+        "cdinventarios": 717.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140204",
+        "Equipamentos": "L2 - CABINE BATIDA DE PEDRA"
+    },
+    {
+        "cdinventarios": 718.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140206",
+        "Equipamentos": "L2 - ELEVADOR 10 ENTRADA DO EOM"
+    },
+    {
+        "cdinventarios": 719.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140288",
+        "Equipamentos": "L2 - TRANSPORTADOR DE ARRASTE"
+    },
+    {
+        "cdinventarios": 720.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402990707",
+        "Equipamentos": "L2 - SIST. VENTIL/EXAUST/INSULFL. NR.707"
+    },
+    {
+        "cdinventarios": 721.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402990708",
+        "Equipamentos": "L2 - SIST. VENTIL/EXAUST/INSULFL. NR.708"
+    },
+    {
+        "cdinventarios": 722.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402990709",
+        "Equipamentos": "L2 - SIST. VENTIL/EXAUST/INSULFL. NR.709"
+    },
+    {
+        "cdinventarios": 723.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851402990710",
+        "Equipamentos": "L2 - SIST. VENTIL/EXAUST/INSULFL. NR.710"
+    },
+    {
+        "cdinventarios": 724.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140301",
+        "Equipamentos": "L3 - CABINE PINTURA PRIMER E CASAS DE AR"
+    },
+    {
+        "cdinventarios": 725.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140304",
+        "Equipamentos": "L3 - CABINE PRIMER - EQUIPTOS. PINTURA"
+    },
+    {
+        "cdinventarios": 726.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140305",
+        "Equipamentos": "L3 - ESTUFA PRIMER"
+    },
+    {
+        "cdinventarios": 727.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140306",
+        "Equipamentos": "TANQUE DE COAGULACAO PRIMER"
+    },
+    {
+        "cdinventarios": 728.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403060001",
+        "Equipamentos": "BOMBA N° 1 - TANQUE DE COAGULACAO PRIMER"
+    },
+    {
+        "cdinventarios": 729.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403060002",
+        "Equipamentos": "BOMBA N° 2 - TANQUE DE COAGULACAO PRIMER"
+    },
+    {
+        "cdinventarios": 730.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403060003",
+        "Equipamentos": "BOMBA N° 3 - TANQUE DE COAGULACAO PRIMER"
+    },
+    {
+        "cdinventarios": 731.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403060004",
+        "Equipamentos": "BOMBA N° 4 - TANQUE DE COAGULACAO PRIMER"
+    },
+    {
+        "cdinventarios": 732.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403060005",
+        "Equipamentos": "BOMBA N° 5 - TANQUE DE COAGULACAO PRIMER"
+    },
+    {
+        "cdinventarios": 733.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140377",
+        "Equipamentos": "MESAS DE TRANSFERENCIA/ROLETES - PINTURA"
+    },
+    {
+        "cdinventarios": 734.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140388",
+        "Equipamentos": "L3 - TRANSPORTADOR DE ARRASTE"
+    },
+    {
+        "cdinventarios": 735.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990438",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.438"
+    },
+    {
+        "cdinventarios": 736.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990439",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.439"
+    },
+    {
+        "cdinventarios": 737.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990440",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.440"
+    },
+    {
+        "cdinventarios": 738.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990441",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.441"
+    },
+    {
+        "cdinventarios": 739.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990516",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.516"
+    },
+    {
+        "cdinventarios": 740.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990517",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.517"
+    },
+    {
+        "cdinventarios": 741.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990518",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.518"
+    },
+    {
+        "cdinventarios": 742.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990519",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.519"
+    },
+    {
+        "cdinventarios": 743.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990520",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.520"
+    },
+    {
+        "cdinventarios": 744.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990521",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.521"
+    },
+    {
+        "cdinventarios": 745.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990522",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.522"
+    },
+    {
+        "cdinventarios": 746.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990523",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.523"
+    },
+    {
+        "cdinventarios": 747.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990524",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.524"
+    },
+    {
+        "cdinventarios": 748.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990525",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.525"
+    },
+    {
+        "cdinventarios": 749.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990526",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.526"
+    },
+    {
+        "cdinventarios": 750.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990527",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.527"
+    },
+    {
+        "cdinventarios": 751.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990528",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.528"
+    },
+    {
+        "cdinventarios": 752.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990529",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.529"
+    },
+    {
+        "cdinventarios": 753.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990530",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.530"
+    },
+    {
+        "cdinventarios": 754.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990531",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.531"
+    },
+    {
+        "cdinventarios": 755.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990532",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.532"
+    },
+    {
+        "cdinventarios": 756.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990533",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.533"
+    },
+    {
+        "cdinventarios": 757.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990534",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.534"
+    },
+    {
+        "cdinventarios": 758.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990535",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.535"
+    },
+    {
+        "cdinventarios": 759.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990536",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.536"
+    },
+    {
+        "cdinventarios": 760.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990537",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.537"
+    },
+    {
+        "cdinventarios": 761.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990538",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.538"
+    },
+    {
+        "cdinventarios": 762.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990539",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.539"
+    },
+    {
+        "cdinventarios": 763.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851403990540",
+        "Equipamentos": "L3 - SIST.VENTIL/EXAUST/INSULFL. NR.540"
+    },
+    {
+        "cdinventarios": 764.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140401",
+        "Equipamentos": "L4 - CABINE DE LIMPEZA  PRIMER"
+    },
+    {
+        "cdinventarios": 765.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140402",
+        "Equipamentos": "L4 - CABINE DE LIXAMENTO PRIMER"
+    },
+    {
+        "cdinventarios": 766.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851404020001",
+        "Equipamentos": "L4 - PLATAF. HIDR. DA CABINE LIX. PRIMER"
+    },
+    {
+        "cdinventarios": 767.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851404990704",
+        "Equipamentos": "L4 - SIST.VENTIL/EXAUST/INSULFL. NR.704"
+    },
+    {
+        "cdinventarios": 768.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851404990705",
+        "Equipamentos": "L4 - SIST.VENTIL/EXAUST/INSULFL. NR.705"
+    },
+    {
+        "cdinventarios": 769.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851404990706",
+        "Equipamentos": "L4 - SIST.VENTIL/EXAUST/INSULFL. NR.706"
+    },
+    {
+        "cdinventarios": 770.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140501",
+        "Equipamentos": "L5 - CABINE DURR - ESMALTE E CASAS DE AR"
+    },
+    {
+        "cdinventarios": 771.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140504",
+        "Equipamentos": "L5 - CABINE ESMALTE - EQPTOS. PINTURA"
+    },
+    {
+        "cdinventarios": 772.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140505",
+        "Equipamentos": "L5 - ESTUFA ESMALTE"
+    },
+    {
+        "cdinventarios": 773.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140506",
+        "Equipamentos": "TANQUE DE COAGULACAO ESMALTE"
+    },
+    {
+        "cdinventarios": 774.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405060001",
+        "Equipamentos": "BOMBA N° 1 - TANQ. DE COAGULACAO ESMALTE"
+    },
+    {
+        "cdinventarios": 775.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405060002",
+        "Equipamentos": "BOMBA N° 2 - TANQ. DE COAGULACAO ESMALTE"
+    },
+    {
+        "cdinventarios": 776.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405060003",
+        "Equipamentos": "BOMBA N° 3 - TANQ. DE COAGULACAO ESMALTE"
+    },
+    {
+        "cdinventarios": 777.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405060004",
+        "Equipamentos": "BOMBA N° 4 - TANQ.DE COAGULACAO ESMALTE"
+    },
+    {
+        "cdinventarios": 778.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405060005",
+        "Equipamentos": "BOMBA N° 5 - TANQ. DE COAGULACAO ESMALTE"
+    },
+    {
+        "cdinventarios": 779.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140507",
+        "Equipamentos": "L5 - MESA ELEVATÓRIA CABINE INSPEÇÃO"
+    },
+    {
+        "cdinventarios": 780.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990420",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.420"
+    },
+    {
+        "cdinventarios": 781.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990421",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.421"
+    },
+    {
+        "cdinventarios": 782.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990422",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.422"
+    },
+    {
+        "cdinventarios": 783.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990423",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.423"
+    },
+    {
+        "cdinventarios": 784.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990424",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.424"
+    },
+    {
+        "cdinventarios": 785.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990425",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.425"
+    },
+    {
+        "cdinventarios": 786.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990426",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.426"
+    },
+    {
+        "cdinventarios": 787.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990427",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.427"
+    },
+    {
+        "cdinventarios": 788.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990428",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.428"
+    },
+    {
+        "cdinventarios": 789.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990429",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.429"
+    },
+    {
+        "cdinventarios": 790.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990430",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.430"
+    },
+    {
+        "cdinventarios": 791.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990431",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.431"
+    },
+    {
+        "cdinventarios": 792.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990432",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.432"
+    },
+    {
+        "cdinventarios": 793.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990433",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.433"
+    },
+    {
+        "cdinventarios": 794.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990434",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.434"
+    },
+    {
+        "cdinventarios": 795.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990435",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.435"
+    },
+    {
+        "cdinventarios": 796.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990436",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.436"
+    },
+    {
+        "cdinventarios": 797.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990443",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.443"
+    },
+    {
+        "cdinventarios": 798.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990444",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.444"
+    },
+    {
+        "cdinventarios": 799.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990446",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.446"
+    },
+    {
+        "cdinventarios": 800.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990447",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.447"
+    },
+    {
+        "cdinventarios": 801.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990448",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.448"
+    },
+    {
+        "cdinventarios": 802.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990450",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.450"
+    },
+    {
+        "cdinventarios": 803.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990451",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.451"
+    },
+    {
+        "cdinventarios": 804.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990452",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.452"
+    },
+    {
+        "cdinventarios": 805.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990453",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.453"
+    },
+    {
+        "cdinventarios": 806.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990560",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.560"
+    },
+    {
+        "cdinventarios": 807.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990561",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.561"
+    },
+    {
+        "cdinventarios": 808.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990563",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.563"
+    },
+    {
+        "cdinventarios": 809.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990564",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.564"
+    },
+    {
+        "cdinventarios": 810.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990638",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.638"
+    },
+    {
+        "cdinventarios": 811.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990717",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.717"
+    },
+    {
+        "cdinventarios": 812.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990718",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.718"
+    },
+    {
+        "cdinventarios": 813.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851405990719",
+        "Equipamentos": "L5 - SIST.VENTIL/EXAUST/INSULFL. NR.719"
+    },
+    {
+        "cdinventarios": 814.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140601",
+        "Equipamentos": "L6 - CABINE DE RETOQUE 1"
+    },
+    {
+        "cdinventarios": 815.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140602",
+        "Equipamentos": "L6 - CABINE DE RETOQUE 2"
+    },
+    {
+        "cdinventarios": 816.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140603",
+        "Equipamentos": "L6 - CABINE DE RETOQUE 3"
+    },
+    {
+        "cdinventarios": 817.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851406990701",
+        "Equipamentos": "L6 - SIST.VENT.EXAUST/INSULFL.N.701(RET)"
+    },
+    {
+        "cdinventarios": 818.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851406990702",
+        "Equipamentos": "L6 - SIST.VENT.EXAUST/INSULFL.N.702(RET)"
+    },
+    {
+        "cdinventarios": 819.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851406990703",
+        "Equipamentos": "L6 - SIST.VENT.EXAUST/INSULFL.N.703(RET)"
+    },
+    {
+        "cdinventarios": 820.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851406990704",
+        "Equipamentos": "RECIRCULADOR PÓS-QUEIMADOR - RTO"
+    },
+    {
+        "cdinventarios": 821.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140701",
+        "Equipamentos": "PUFFER CABINES - LINHAS ARRASTE-(24-37)"
+    },
+    {
+        "cdinventarios": 822.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985140706",
+        "Equipamentos": "PUFFER DE CABINES - GERENCIADOR"
+    },
+    {
+        "cdinventarios": 823.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008985144149",
+        "Equipamentos": "SALA DE MISTURA DE TINTA PR.41 E 49"
+    },
+    {
+        "cdinventarios": 824.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851441490001",
+        "Equipamentos": "CONT.TEMP.TINTA PRÉDIO 4L"
+    },
+    {
+        "cdinventarios": 825.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851441490002",
+        "Equipamentos": "CONT.TEMP.TINTA PRÉDIO 49"
+    },
+    {
+        "cdinventarios": 826.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851441490003",
+        "Equipamentos": "BOMBAS DE TINTA PRÉDIO 41"
+    },
+    {
+        "cdinventarios": 827.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851441490004",
+        "Equipamentos": "BOMBAS DE TINTA PRÉDIO 49"
+    },
+    {
+        "cdinventarios": 828.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851441490005",
+        "Equipamentos": "BOMBAS PNEUMÁTICAS PRÉDIO 41"
+    },
+    {
+        "cdinventarios": 829.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851441490006",
+        "Equipamentos": "BOMBAS PNEUMÁTICAS PRÉDIO 49"
+    },
+    {
+        "cdinventarios": 830.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851441490007",
+        "Equipamentos": "CONTR.TEMP.TINTA(L.07/41)VERM.FSK 3636"
+    },
+    {
+        "cdinventarios": 831.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851441490008",
+        "Equipamentos": "CONTR.TEMP.TINTA(L.08/41)VERM.MET 0333"
+    },
+    {
+        "cdinventarios": 832.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851441490009",
+        "Equipamentos": "CONTR. TEMPER. TINTA(LINHA 09/41) PRIMER"
+    },
+    {
+        "cdinventarios": 833.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089851441490010",
+        "Equipamentos": "CONT.TEMP.TINTA(LINHA 10/41)BRANCO 9004"
+    },
+    {
+        "cdinventarios": 885.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089921921901",
+        "Equipamentos": "PLANO DE SEGURANÇA - LINHAS AÉREAS 219/4"
+    },
+    {
+        "cdinventarios": 886.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089921921902",
+        "Equipamentos": "PLANO DE SEGURANÇA - ÁREA LIXAM.KTL /EOM"
+    },
+    {
+        "cdinventarios": 887.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089921921903",
+        "Equipamentos": "PLANO DE SEGURANÇA - LIXAM.PRIMER+L.ESM."
+    },
+    {
+        "cdinventarios": 888.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089921921904",
+        "Equipamentos": "PLANO DE SEGURANÇA - ÁREA DO PUFFER"
+    },
+    {
+        "cdinventarios": 905.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780002",
+        "Equipamentos": "ELEVADOR DEMAG 1600KG(ATRAS CAB.ESMALTE)"
+    },
+    {
+        "cdinventarios": 906.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780003",
+        "Equipamentos": "TALHA DEMAG 250KG"
+    },
+    {
+        "cdinventarios": 907.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780004",
+        "Equipamentos": "TALHA STAHL 300KG"
+    },
+    {
+        "cdinventarios": 908.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780005",
+        "Equipamentos": "PONTE DEMAG 1000KG"
+    },
+    {
+        "cdinventarios": 909.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780006",
+        "Equipamentos": "PONTE DEMAG 1000KG"
+    },
+    {
+        "cdinventarios": 910.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780007",
+        "Equipamentos": "PTE ROL. STAHL 1000KG"
+    },
+    {
+        "cdinventarios": 911.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780008",
+        "Equipamentos": "BRACO FIXO VILLARES 500 KG"
+    },
+    {
+        "cdinventarios": 912.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780009",
+        "Equipamentos": "MONOVIA VILLARES 1000KG"
+    },
+    {
+        "cdinventarios": 913.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780010",
+        "Equipamentos": "TALHA DEMAG 1000KG"
+    },
+    {
+        "cdinventarios": 914.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780011",
+        "Equipamentos": "ELEVADOR DEMAG 1600 KG"
+    },
+    {
+        "cdinventarios": 918.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780017",
+        "Equipamentos": "TALHA DEMAG 125KG"
+    },
+    {
+        "cdinventarios": 920.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780019",
+        "Equipamentos": "PTE ROL. DEMAG 2000 KG"
+    },
+    {
+        "cdinventarios": 921.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780020",
+        "Equipamentos": "BRACO GIRATORIO TALHA DEMAG 500KG- Nº 9"
+    },
+    {
+        "cdinventarios": 922.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780021",
+        "Equipamentos": "MONOVIA STAHL  300 KG (KTL)"
+    },
+    {
+        "cdinventarios": 923.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780022",
+        "Equipamentos": "BRACO GIRATORIO DEMAG 250 KG PK2"
+    },
+    {
+        "cdinventarios": 924.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780023",
+        "Equipamentos": "BRACO GIRATORIO 500 KG DEMAG PK5"
+    },
+    {
+        "cdinventarios": 925.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780042",
+        "Equipamentos": "TALHA PNEUMATICA ATLAS COPCO 500KG"
+    },
+    {
+        "cdinventarios": 926.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008992780049",
+        "Equipamentos": "MONOVIA DEMAG 500KG"
+    },
+    {
+        "cdinventarios": 973.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089928900810000",
+        "Equipamentos": "LINHA AEREA 1A"
+    },
+    {
+        "cdinventarios": 974.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089928900820000",
+        "Equipamentos": "LINHA AEREA 1B"
+    },
+    {
+        "cdinventarios": 975.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089928900830000",
+        "Equipamentos": "LINHA AEREA RETORNO ELETRODO 1C"
+    },
+    {
+        "cdinventarios": 976.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089928900840000",
+        "Equipamentos": "LINHA AEREA 2 - PRE-TRATAMENTO"
+    },
+    {
+        "cdinventarios": 977.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089928900850000",
+        "Equipamentos": "LINHA AEREA 3 - KTL"
+    },
+    {
+        "cdinventarios": 978.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089928900860000",
+        "Equipamentos": "LINHA AEREA ESTUFA KTL"
+    },
+    {
+        "cdinventarios": 1021.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00899311",
+        "Equipamentos": "ELEVADORES DE CARGA TINTAS"
+    },
+    {
+        "cdinventarios": 1022.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931100230000",
+        "Equipamentos": "ELEVADOR CABINES DA ENTRADA DO PUFFER"
+    },
+    {
+        "cdinventarios": 1023.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931100380000",
+        "Equipamentos": "ELEVADOR DE CABINAS DA SAIDA DO PUFFER"
+    },
+    {
+        "cdinventarios": 1024.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00899312",
+        "Equipamentos": "TRANSP. DE ARRASTE"
+    },
+    {
+        "cdinventarios": 1025.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008993120001",
+        "Equipamentos": "PUFFER-LINHAS ARRASTE(1-7 INF./1-7 SUP.)"
+    },
+    {
+        "cdinventarios": 1026.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931200230000",
+        "Equipamentos": "ELEVADORES DE CABINAS 23"
+    },
+    {
+        "cdinventarios": 1027.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931200310000",
+        "Equipamentos": "LINHA DE ARRASTE SUPERIOR 31"
+    },
+    {
+        "cdinventarios": 1028.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931200320000",
+        "Equipamentos": "LINHA ARRASTE INFERIOR32"
+    },
+    {
+        "cdinventarios": 1029.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931200350000",
+        "Equipamentos": "LINHA DE ARRASTE SUPERIOR 35"
+    },
+    {
+        "cdinventarios": 1030.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931200360000",
+        "Equipamentos": "LINHA DE ARRASTE INFERIOR 36"
+    },
+    {
+        "cdinventarios": 1031.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J008993120038",
+        "Equipamentos": "TRANSP. DE ARRASTE INFERIOR DO PUFFER"
+    },
+    {
+        "cdinventarios": 1032.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931200380000",
+        "Equipamentos": "LINHA DE ARRASTE 38"
+    },
+    {
+        "cdinventarios": 1033.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931202310000",
+        "Equipamentos": "CARRO DE TRANSF.1 INFERIOR DE ENTRADA"
+    },
+    {
+        "cdinventarios": 1034.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931202320000",
+        "Equipamentos": "CARRO DE TRANSF.1 SUPERIOR DE ENTRADA"
+    },
+    {
+        "cdinventarios": 1035.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931202330000",
+        "Equipamentos": "CARRO DE TRANSF.2 INFERIOR DE ENTRADA"
+    },
+    {
+        "cdinventarios": 1036.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931203810000",
+        "Equipamentos": "CARRO DE TRANSFERENCIA 1 INF.DE SAIDA"
+    },
+    {
+        "cdinventarios": 1037.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931203820000",
+        "Equipamentos": "CARRO DE TRANSF. 1 SUPERIOR DE SAIDA"
+    },
+    {
+        "cdinventarios": 1038.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089931203830000",
+        "Equipamentos": "CARRO DE TRANSF. 2 INFERIOR DE SAIDA"
+    },
+    {
+        "cdinventarios": 1088.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089980403810000",
+        "Equipamentos": "MESA DE ELEVACAO 38A ( M1 )"
+    },
+    {
+        "cdinventarios": 1089.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089980403820000",
+        "Equipamentos": "MESA DE ELEVACAO 38B ( M2 )"
+    },
+    {
+        "cdinventarios": 1090.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089980403830000",
+        "Equipamentos": "MESA DE ELEVACAO 38C ( M3 )"
+    },
+    {
+        "cdinventarios": 1091.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J0089980403840000",
+        "Equipamentos": "MESA DE ELEVACAO 38D ( M4 )"
+    },
+    {
+        "cdinventarios": 1096.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00944544",
+        "Equipamentos": "SUP. P/BOBINA DE PAPEL P/PC 6886000001"
+    },
+    {
+        "cdinventarios": 1097.0,
+        "Area": "OCB",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00944545",
+        "Equipamentos": "SUP P/BOBINA DE PAPEL P/PC 6886000001"
+    },
+    {
+        "cdinventarios": 2569.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00410565",
+        "Equipamentos": "CABINE DE RETOQUE DE PINTURA Nº 01"
+    },
+    {
+        "cdinventarios": 2570.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00410566",
+        "Equipamentos": "CABINE DE RETOQUE DE PINTURA Nº 02"
+    },
+    {
+        "cdinventarios": 2571.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00410567",
+        "Equipamentos": "CABINE DE RETOQUE DE PINTURA Nº 03"
+    },
+    {
+        "cdinventarios": 2572.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00410568",
+        "Equipamentos": "CABINE DE RETOQUE DE PINTURA Nº 04"
+    },
+    {
+        "cdinventarios": 2649.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00260351",
+        "Equipamentos": "QUEIMADOR COM CABEÇOTE DE 03 LÂMPADAS"
+    },
+    {
+        "cdinventarios": 2650.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00151493",
+        "Equipamentos": "QUEIMADOR P/ SECAGEM INFRAVERMELHO 01 LÂMPADA"
+    },
+    {
+        "cdinventarios": 2651.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00151490",
+        "Equipamentos": "QUEIMADOR P/ SECAGEM INFRAVERMELHO 01 LÂMPADA"
+    },
+    {
+        "cdinventarios": 2722.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J000189550001",
+        "Equipamentos": "EXAUS. 1 CAB. PINT. PR. 124 COMPL."
+    },
+    {
+        "cdinventarios": 2723.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J000189550002",
+        "Equipamentos": "EXAUS. 2 CAB. PINT. PR. 124 COMPL."
+    },
+    {
+        "cdinventarios": 2724.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J000189550003",
+        "Equipamentos": "EXAUS. 3 CAB. PINT. PR. 124 COMPL."
+    },
+    {
+        "cdinventarios": 2725.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J000189550004",
+        "Equipamentos": "EXAUS. 4 CAB. PINT. PR. 124 COMPL."
+    },
+    {
+        "cdinventarios": 2726.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J000189550005",
+        "Equipamentos": "EXAUS. 5 CAB. PINT. PR. 124 COMPL."
+    },
+    {
+        "cdinventarios": 2727.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J000189550006",
+        "Equipamentos": "EXAUS. 6 CAB. PINT. PR. 124 COMPL."
+    },
+    {
+        "cdinventarios": 2737.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00280795",
+        "Equipamentos": "QUEIMADOR P/ PINTURA C/ CABEÇOTE DE 01 LÂMPADA"
+    },
+    {
+        "cdinventarios": 2738.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00182422",
+        "Equipamentos": "QUEIMADOR P/ PINTURA C/ CABEÇOTE DE 03 LÂMPADA"
+    },
+    {
+        "cdinventarios": 2739.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00151491",
+        "Equipamentos": "QUEIMADOR P/ PINTURA  ART. POR INFRAVERM."
+    },
+    {
+        "cdinventarios": 2740.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00151494",
+        "Equipamentos": "QUEIMADOR P/ PINTURA   POR INFRAVERM."
+    },
+    {
+        "cdinventarios": 2741.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00151495",
+        "Equipamentos": "QUEIMADOR P/ PINTURA   POR INFRAVERM."
+    },
+    {
+        "cdinventarios": 2742.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00151496",
+        "Equipamentos": "QUEIMADOR P/ PINTURA   POR INFRAVERM."
+    },
+    {
+        "cdinventarios": 2743.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00305522",
+        "Equipamentos": "SECADOR MANUAL COM 1 LÂMPADA"
+    },
+    {
+        "cdinventarios": 2744.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J003055240001",
+        "Equipamentos": "SECADOR MOVEL COM 1 CASSETE DE 02 LAMP"
+    },
+    {
+        "cdinventarios": 2745.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J003055240002",
+        "Equipamentos": "SECADOR MOVEL COM 1 CASSETE DE 02 LAMP"
+    },
+    {
+        "cdinventarios": 2746.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J003055240003",
+        "Equipamentos": "SECADOR MOVEL COM 1 CASSETE DE 02 LAMP"
+    },
+    {
+        "cdinventarios": 2747.0,
+        "Area": "OCC",
+        "Centro de Custo": 2194,
+        "Inventarios": "J00260350",
+        "Equipamentos": "SECADOR MÓVEL DE TINTA POR INFRAVERMELHO"
+    }
+]

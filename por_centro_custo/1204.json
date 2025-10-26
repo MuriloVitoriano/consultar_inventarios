@@ -1,0 +1,1241 @@
+[
+    {
+        "cdinventarios": 2532.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00259704",
+        "Equipamentos": "BANCO DE TESTE DE FREIO Nº 01"
+    },
+    {
+        "cdinventarios": 2634.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999730011",
+        "Equipamentos": "EXAUSTOR 1 - TESTE 1 EFICIENCIA"
+    },
+    {
+        "cdinventarios": 2635.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999730021",
+        "Equipamentos": "EXAUSTOR 1 - TESTE 2 EFICIENCIA"
+    },
+    {
+        "cdinventarios": 2636.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999730002",
+        "Equipamentos": "EXAUSTOR 2 - BOX REV.VEICULOS PR.42"
+    },
+    {
+        "cdinventarios": 2648.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00273371",
+        "Equipamentos": "PLATAFORMA ELEVATORIA  C/MOTORIZACAO"
+    },
+    {
+        "cdinventarios": 2665.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00290948",
+        "Equipamentos": "TERMINAIS DE DIAGNOSE SIEMENS MPS6 C/ CARREGADOR"
+    },
+    {
+        "cdinventarios": 2666.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00295403",
+        "Equipamentos": "TERMINAIS DE DIAGNOSE SIEMENS MPS6 C/ CARREGADOR"
+    },
+    {
+        "cdinventarios": 2671.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00295762",
+        "Equipamentos": "TERMINAIS DE DIAGNOSE SIEMENS MPS6 C/ CARREGADOR"
+    },
+    {
+        "cdinventarios": 2763.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350014",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 1000 KG"
+    },
+    {
+        "cdinventarios": 2764.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350015",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 1000 KG"
+    },
+    {
+        "cdinventarios": 2765.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350018",
+        "Equipamentos": "MONOVIA COM TALHA DEMAG 1000 KG"
+    },
+    {
+        "cdinventarios": 2766.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350027",
+        "Equipamentos": "MONOVIA TALHA STAHL 2000 KG"
+    },
+    {
+        "cdinventarios": 2767.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350066",
+        "Equipamentos": "MONOVIA TALHA STAHL 2000 KG"
+    },
+    {
+        "cdinventarios": 2768.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350100",
+        "Equipamentos": "B. GIR. TALHA STAHL 300 KG (POSTO 11)"
+    },
+    {
+        "cdinventarios": 2769.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350102",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 1000 KG"
+    },
+    {
+        "cdinventarios": 2770.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350103",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 2000 KG"
+    },
+    {
+        "cdinventarios": 2771.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350104",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 2000 KG"
+    },
+    {
+        "cdinventarios": 2772.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350107",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 125 KG"
+    },
+    {
+        "cdinventarios": 2773.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350108",
+        "Equipamentos": "P. ROLANTE TALHA SAMM 250 KG"
+    },
+    {
+        "cdinventarios": 2774.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350109",
+        "Equipamentos": "P. ROLANTE TALHA MUNCK 2000 KG"
+    },
+    {
+        "cdinventarios": 2775.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350110",
+        "Equipamentos": "P. ROLANTE TALHA MUNCK 2000 KG"
+    },
+    {
+        "cdinventarios": 2776.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350111",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 125 KG"
+    },
+    {
+        "cdinventarios": 2777.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350112",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 630 KG"
+    },
+    {
+        "cdinventarios": 2778.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350113",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 2000 KG"
+    },
+    {
+        "cdinventarios": 2779.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350114",
+        "Equipamentos": "P. ROL. COM TALHA DEMAG 250 KG"
+    },
+    {
+        "cdinventarios": 2780.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350115",
+        "Equipamentos": "P. ROL. COM TALHA ELETRICA DEMAG 500 KG"
+    },
+    {
+        "cdinventarios": 2781.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350118",
+        "Equipamentos": "P. ROLANTE TALHA MUNCK 3000 KG"
+    },
+    {
+        "cdinventarios": 2782.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350119",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 2000 KG"
+    },
+    {
+        "cdinventarios": 2783.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350121",
+        "Equipamentos": "MONOVIA TALHA DEMAG 1600 KG"
+    },
+    {
+        "cdinventarios": 2784.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350122",
+        "Equipamentos": "MONOVIA TALHA DEMAG 1600 KG"
+    },
+    {
+        "cdinventarios": 2785.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350136",
+        "Equipamentos": "MONOVIA TALHA DEMAG 500 KG"
+    },
+    {
+        "cdinventarios": 2786.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350138",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 500 KG"
+    },
+    {
+        "cdinventarios": 2787.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350146",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 3200 KG"
+    },
+    {
+        "cdinventarios": 2788.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350152",
+        "Equipamentos": "PONTE ROLANTE TALHA STAHL 125 KG"
+    },
+    {
+        "cdinventarios": 2789.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350165",
+        "Equipamentos": "PONTE ROLANTE TALHA  SAMM 125 KG"
+    },
+    {
+        "cdinventarios": 2790.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350166",
+        "Equipamentos": "PONTE ROLANTE TALHA 125KG SAMM"
+    },
+    {
+        "cdinventarios": 2791.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350167",
+        "Equipamentos": "PONTE ROLANTE TALHA 125KG SAMM"
+    },
+    {
+        "cdinventarios": 2792.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350168",
+        "Equipamentos": "PONTE ROLANTE TALHA 125KG SAMM"
+    },
+    {
+        "cdinventarios": 2793.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350169",
+        "Equipamentos": "PONTE ROLANTE TALHA 125KG SAMM"
+    },
+    {
+        "cdinventarios": 2794.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350172",
+        "Equipamentos": "B. GIRATORIO TALHA DEMAG 1000 KG"
+    },
+    {
+        "cdinventarios": 2795.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350174",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 250 KG"
+    },
+    {
+        "cdinventarios": 2796.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350176",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 3200 KG"
+    },
+    {
+        "cdinventarios": 2797.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350181",
+        "Equipamentos": "PONTE ROLANTE TALHA 500 KG DEMAG"
+    },
+    {
+        "cdinventarios": 2798.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350195",
+        "Equipamentos": "PONTE ROLANTE TALHA 125 KG DEMAG"
+    },
+    {
+        "cdinventarios": 2799.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350196",
+        "Equipamentos": "PONTE ROLANTE TALHA 125 KG SAMM"
+    },
+    {
+        "cdinventarios": 2800.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350230",
+        "Equipamentos": "PONTE ROLANTE TALHA SAMM 300 KG"
+    },
+    {
+        "cdinventarios": 2801.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350231",
+        "Equipamentos": "PONTE ROLANTE TALHA  SAMM 300 KG"
+    },
+    {
+        "cdinventarios": 2802.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350232",
+        "Equipamentos": "PONTE ROLANTE TALHA  SAMM 300 KG"
+    },
+    {
+        "cdinventarios": 2803.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350233",
+        "Equipamentos": "PONTE ROLANTE TALHA  SAMM 300 KG"
+    },
+    {
+        "cdinventarios": 2804.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350234",
+        "Equipamentos": "PONTE ROLANTE TALHA  DEMAG 250 KG"
+    },
+    {
+        "cdinventarios": 2805.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350235",
+        "Equipamentos": "PONTE ROLANTE TALHA  SAMM 300 KG"
+    },
+    {
+        "cdinventarios": 2806.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350236",
+        "Equipamentos": "PONTE ROLANTE TALHA  STAHL 300 KG"
+    },
+    {
+        "cdinventarios": 2807.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350237",
+        "Equipamentos": "PONTE ROLANTE TALHA  SAMM 300 KG"
+    },
+    {
+        "cdinventarios": 2808.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350238",
+        "Equipamentos": "PONTE ROLANTE TALHA DEMAG 250 KG"
+    },
+    {
+        "cdinventarios": 2809.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350239",
+        "Equipamentos": "PONTE ROLANTE TALHA DEMAG 250KG"
+    },
+    {
+        "cdinventarios": 2810.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350240",
+        "Equipamentos": "PONTE ROLANTE TALHA SAMM 300KG"
+    },
+    {
+        "cdinventarios": 2811.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350241",
+        "Equipamentos": "PONTE ROLANTE TALHA DEMAG 5000 KG"
+    },
+    {
+        "cdinventarios": 2812.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350242",
+        "Equipamentos": "P. ROLANTE T. DEMAG 6300 KG"
+    },
+    {
+        "cdinventarios": 2813.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350243",
+        "Equipamentos": "P. ROLANTE T. DEMAG 3200 KG"
+    },
+    {
+        "cdinventarios": 2814.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350244",
+        "Equipamentos": "P. ROLANTE TALHA SAMM 250 KG"
+    },
+    {
+        "cdinventarios": 2815.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350245",
+        "Equipamentos": "P. ROLANTE TALHA SAMM 250 KG"
+    },
+    {
+        "cdinventarios": 2816.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350246",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 500 KG"
+    },
+    {
+        "cdinventarios": 2817.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350247",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 500 KG"
+    },
+    {
+        "cdinventarios": 2818.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999350248",
+        "Equipamentos": "P. ROLANTE TALHA DEMAG 500 KG"
+    },
+    {
+        "cdinventarios": 2819.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00410476",
+        "Equipamentos": "APERTADEIRA MULTIPLA 4 FUSOS P/ GRAMPO"
+    },
+    {
+        "cdinventarios": 2820.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770022",
+        "Equipamentos": "BANCADA MONT. CONEXOES DA MANG. DO REBOQUE"
+    },
+    {
+        "cdinventarios": 2821.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770019",
+        "Equipamentos": "BANCADA MONT. DE VALVULAS"
+    },
+    {
+        "cdinventarios": 2822.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770025",
+        "Equipamentos": "BANCADA PRE-MONT.GRADE FRONTAL  SUP.MERC"
+    },
+    {
+        "cdinventarios": 2823.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00954159",
+        "Equipamentos": "BANCADA MONT. CONJ. QUADRO"
+    },
+    {
+        "cdinventarios": 2828.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00898403",
+        "Equipamentos": "BOMBA PNEUMATICA DE GRAXA Nº 01"
+    },
+    {
+        "cdinventarios": 2829.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J006399100002",
+        "Equipamentos": "BOMBA PNEUMATICA DE GRAXA Nº 02"
+    },
+    {
+        "cdinventarios": 2830.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008982440001",
+        "Equipamentos": "BOMBA PNEUMATICA DE GRAXA PISTOLA  Nº 01 - LINHA 1"
+    },
+    {
+        "cdinventarios": 2831.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008982440002",
+        "Equipamentos": "BOMBA PNEUMATICA DE GRAXA PISTOLA  Nº 02 - LINHA 1"
+    },
+    {
+        "cdinventarios": 2832.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008982440003",
+        "Equipamentos": "BOMBA PNEUMATICA DE GRAXA PISTOLA  Nº 03 - LINHA 2"
+    },
+    {
+        "cdinventarios": 2833.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00898941",
+        "Equipamentos": "BRACO ARTICULADO PARA  APERT. L. DIR (POSTO 12)"
+    },
+    {
+        "cdinventarios": 2834.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00898936",
+        "Equipamentos": "BRACO ARTICULADO PARA  APERT. L. ESQ (POSTO M2)"
+    },
+    {
+        "cdinventarios": 2835.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00898938",
+        "Equipamentos": "BRACO ARTICULADO PARA  APERT. L. ESQ (POSTO 12)"
+    },
+    {
+        "cdinventarios": 2836.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00898940",
+        "Equipamentos": "BRACO ARTICULADO PARA  APERT. L. ESQ (POSTO 12)"
+    },
+    {
+        "cdinventarios": 2837.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00898939",
+        "Equipamentos": "BRACO ARTICULADO PARA  APERT. L. ESQ (POSTO 5)"
+    },
+    {
+        "cdinventarios": 2838.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200121",
+        "Equipamentos": "CARRINHO DE MONTAGEM SUSPENSAO AXOR N.1"
+    },
+    {
+        "cdinventarios": 2839.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200122",
+        "Equipamentos": "CARRINHO DE MONTAGEM SUSPENSAO AXOR N.2"
+    },
+    {
+        "cdinventarios": 2840.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200123",
+        "Equipamentos": "CARRINHO DE MONTAGEM SUSPENSAO AXOR N.3"
+    },
+    {
+        "cdinventarios": 2841.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200124",
+        "Equipamentos": "CARRINHO DE MONTAGEM SUSPENSAO AXOR N.4"
+    },
+    {
+        "cdinventarios": 2842.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200125",
+        "Equipamentos": "CARRINHO DE MONTAGEM SUSPENSAO AXOR N.5"
+    },
+    {
+        "cdinventarios": 2843.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200126",
+        "Equipamentos": "CARRINHO DE MONTAGEM SUSPENSAO AXOR N.6"
+    },
+    {
+        "cdinventarios": 2844.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200111",
+        "Equipamentos": "CARRINHO NEDERMAN - AERO VENTO Nº 01"
+    },
+    {
+        "cdinventarios": 2845.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200112",
+        "Equipamentos": "CARRINHO NEDERMAN - AERO VENTO Nº 02"
+    },
+    {
+        "cdinventarios": 2846.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200113",
+        "Equipamentos": "CARRINHO NEDERMAN - AERO VENTO Nº 03"
+    },
+    {
+        "cdinventarios": 2847.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200114",
+        "Equipamentos": "CARRINHO NEDERMAN - AERO VENTO Nº 04"
+    },
+    {
+        "cdinventarios": 2848.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200115",
+        "Equipamentos": "CARRINHO NEDERMAN - AERO VENTO Nº 05"
+    },
+    {
+        "cdinventarios": 2849.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J002657851001",
+        "Equipamentos": "CARRINHO P/ TRANSP. DE QUADROS"
+    },
+    {
+        "cdinventarios": 2850.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00265322",
+        "Equipamentos": "CARRINHO PARA SUSPENSAO EIXO RANDON"
+    },
+    {
+        "cdinventarios": 2851.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00265323",
+        "Equipamentos": "CARRINHO PARA SUSPENSAO EIXO RANDON"
+    },
+    {
+        "cdinventarios": 2852.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00899040",
+        "Equipamentos": "CARRINHOS DA LINHA DE ARRASTE"
+    },
+    {
+        "cdinventarios": 2853.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008990400001",
+        "Equipamentos": "CARRINHOS DA LINHA DE ARRASTE Nº 01 E Nº 02"
+    },
+    {
+        "cdinventarios": 2854.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M00012040025",
+        "Equipamentos": "DISP. BASCULAMENTO DE CABINE 25"
+    },
+    {
+        "cdinventarios": 2855.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M00012040026",
+        "Equipamentos": "DISP. BASCULAMENTO DE CABINE 26"
+    },
+    {
+        "cdinventarios": 2856.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M00012040027",
+        "Equipamentos": "DISP. BASCULAMENTO DE CABINE 27"
+    },
+    {
+        "cdinventarios": 2857.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M00012040028",
+        "Equipamentos": "DISP. BASCULAMENTO DE CABINE 28"
+    },
+    {
+        "cdinventarios": 2858.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M00012040029",
+        "Equipamentos": "DISP. BASCULAMENTO DE CABINE 29"
+    },
+    {
+        "cdinventarios": 2859.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770028",
+        "Equipamentos": "DISP. ABRIR CARDA N. 1 (CARRINHO)"
+    },
+    {
+        "cdinventarios": 2860.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770029",
+        "Equipamentos": "DISP. ABRIR CARDA N. 2 (CARRINHO)"
+    },
+    {
+        "cdinventarios": 2861.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770023",
+        "Equipamentos": "DISP.P/ TESTE DAS LUZES REBOQUE"
+    },
+    {
+        "cdinventarios": 2862.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770005",
+        "Equipamentos": "DISP. COLOCAR PNEU Nº 01 ( LADO ESQUERDO )"
+    },
+    {
+        "cdinventarios": 2863.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770006",
+        "Equipamentos": "DISP. COLOCAR PNEU Nº 02 ( LADO DIREITO )"
+    },
+    {
+        "cdinventarios": 2864.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770002",
+        "Equipamentos": "DISP. DE ABRIR AMORTECEDOR"
+    },
+    {
+        "cdinventarios": 2865.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770024",
+        "Equipamentos": "DISP. DE ALINHAR DIREÇÃO"
+    },
+    {
+        "cdinventarios": 2866.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00265730",
+        "Equipamentos": "DISP. DE VIRAR CHASSIS"
+    },
+    {
+        "cdinventarios": 2867.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770017",
+        "Equipamentos": "DISP. MONTAR BRAÇO TENSOR"
+    },
+    {
+        "cdinventarios": 2868.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00334744",
+        "Equipamentos": "DISP.P/ PREMONTAR CJ BALANCIM 6X4 AXOR"
+    },
+    {
+        "cdinventarios": 2869.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00899959",
+        "Equipamentos": "ELEV. PARA TAMBOR DE GRAXA"
+    },
+    {
+        "cdinventarios": 2872.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00281565",
+        "Equipamentos": "EQUIP. P/GRAVAR CHASSIS"
+    },
+    {
+        "cdinventarios": 2873.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00898510",
+        "Equipamentos": "ESTEIRA DE ROLETES DA MONT.  ( LINHA ROXA )"
+    },
+    {
+        "cdinventarios": 2874.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J002320170007",
+        "Equipamentos": "EXAUSTOR DE GASES DE ESCAPE"
+    },
+    {
+        "cdinventarios": 2875.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00898108",
+        "Equipamentos": "INTENSIFICADOR DE AR"
+    },
+    {
+        "cdinventarios": 2876.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M0001204",
+        "Equipamentos": "LEVANTADOR MAGNETICO  -  250K  - LTR"
+    },
+    {
+        "cdinventarios": 2877.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00265785",
+        "Equipamentos": "LINHA MONTAGEM DE QUADROS"
+    },
+    {
+        "cdinventarios": 2878.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J004011040001",
+        "Equipamentos": "LINHA MONTAGEM \"1\""
+    },
+    {
+        "cdinventarios": 2879.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J004011040002",
+        "Equipamentos": "LINHA MONTAGEM \"2\""
+    },
+    {
+        "cdinventarios": 2880.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00018924",
+        "Equipamentos": "MAQ .P/ ENCHER FLUIDO EMBR.FRIGOFRANCE"
+    },
+    {
+        "cdinventarios": 2881.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00018923",
+        "Equipamentos": "MAQ. P/ ENCHER FLUIDO EM DIR.HIDR.FRIGOFRANCE"
+    },
+    {
+        "cdinventarios": 2882.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00018922",
+        "Equipamentos": "MAQ. P/ ENCHER FLUIDO EM RAD FRIGOFRANCE"
+    },
+    {
+        "cdinventarios": 2883.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J002657850001",
+        "Equipamentos": "MOTORIZ.DA LINHA DE MONTAGEM QUADROS"
+    },
+    {
+        "cdinventarios": 2884.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J004011040003",
+        "Equipamentos": "MOTORIZ. DA LINHA Nº 01"
+    },
+    {
+        "cdinventarios": 2885.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J004011040004",
+        "Equipamentos": "MOTORIZ. DA LINHA Nº 02"
+    },
+    {
+        "cdinventarios": 2886.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00273083",
+        "Equipamentos": "NO BREAK DO GRAVADOR DE CHASSIS"
+    },
+    {
+        "cdinventarios": 2887.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008989200002",
+        "Equipamentos": "PERIFÉRICOS ELETRÔNICOS DE APERTADEIRAS"
+    },
+    {
+        "cdinventarios": 2888.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500023",
+        "Equipamentos": "POSTO DE TRABALHO M1 SUPERMERCADO"
+    },
+    {
+        "cdinventarios": 2889.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500024",
+        "Equipamentos": "POSTO DE TRABALHO M3  SUPERMERCADO"
+    },
+    {
+        "cdinventarios": 2890.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500025",
+        "Equipamentos": "POSTO DE TRABALHO M4 SUPERMERCADO"
+    },
+    {
+        "cdinventarios": 2891.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500022",
+        "Equipamentos": "POSTO DE TRABALHO N. 22 - LINHA 2"
+    },
+    {
+        "cdinventarios": 2892.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500001",
+        "Equipamentos": "POSTO DE TRABALHO Nº 01  - MONT. QUADROS"
+    },
+    {
+        "cdinventarios": 2893.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500002",
+        "Equipamentos": "POSTO DE TRABALHO Nº 02  - MONT. QUADROS"
+    },
+    {
+        "cdinventarios": 2894.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500003",
+        "Equipamentos": "POSTO DE TRABALHO Nº 03  - MONT. QUADROS"
+    },
+    {
+        "cdinventarios": 2895.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500004",
+        "Equipamentos": "POSTO DE TRABALHO Nº 04  - MONT. QUADROS"
+    },
+    {
+        "cdinventarios": 2896.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500005",
+        "Equipamentos": "POSTO DE TRABALHO Nº 05  - MONT. QUADROS"
+    },
+    {
+        "cdinventarios": 2897.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500006",
+        "Equipamentos": "POSTO DE TRABALHO Nº 06  - MONT. QUADROS"
+    },
+    {
+        "cdinventarios": 2898.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500007",
+        "Equipamentos": "POSTO DE TRABALHO Nº 07  - MONT. QUADROS"
+    },
+    {
+        "cdinventarios": 2899.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500008",
+        "Equipamentos": "POSTO DE TRABALHO Nº 08  - LINHA ROXA"
+    },
+    {
+        "cdinventarios": 2900.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500009",
+        "Equipamentos": "POSTO DE TRABALHO Nº 09  - LINHA ROXA"
+    },
+    {
+        "cdinventarios": 2901.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500010",
+        "Equipamentos": "POSTO DE TRABALHO Nº 10  - LINHA ROXA"
+    },
+    {
+        "cdinventarios": 2902.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500011",
+        "Equipamentos": "POSTO DE TRABALHO Nº 11  - LINHA ROXA"
+    },
+    {
+        "cdinventarios": 2903.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500012",
+        "Equipamentos": "POSTO DE TRABALHO Nº 12  - LINHA ROXA"
+    },
+    {
+        "cdinventarios": 2904.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500013",
+        "Equipamentos": "POSTO DE TRABALHO Nº 13  - LINHA 1"
+    },
+    {
+        "cdinventarios": 2905.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500014",
+        "Equipamentos": "POSTO DE TRABALHO Nº 14  - LINHA 1"
+    },
+    {
+        "cdinventarios": 2906.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500015",
+        "Equipamentos": "POSTO DE TRABALHO Nº 15  - LINHA 1"
+    },
+    {
+        "cdinventarios": 2907.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500016",
+        "Equipamentos": "POSTO DE TRABALHO Nº 16  - LINHA 1"
+    },
+    {
+        "cdinventarios": 2908.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500017",
+        "Equipamentos": "POSTO DE TRABALHO Nº 17 - LINHA 2"
+    },
+    {
+        "cdinventarios": 2909.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500018",
+        "Equipamentos": "POSTO DE TRABALHO Nº 18 - LINHA 2"
+    },
+    {
+        "cdinventarios": 2910.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500019",
+        "Equipamentos": "POSTO DE TRABALHO Nº 19 - LINHA 2"
+    },
+    {
+        "cdinventarios": 2911.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500020",
+        "Equipamentos": "POSTO DE TRABALHO Nº 20 - LINHA 2"
+    },
+    {
+        "cdinventarios": 2912.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008993500021",
+        "Equipamentos": "POSTO DE TRABALHO Nº 21 - LINHA 2"
+    },
+    {
+        "cdinventarios": 2913.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00648493",
+        "Equipamentos": "APERTADEIRA"
+    },
+    {
+        "cdinventarios": 2914.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00898120",
+        "Equipamentos": "RONDA"
+    },
+    {
+        "cdinventarios": 2915.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008989200001",
+        "Equipamentos": "SERVIÇOS DE SEGURANÇA"
+    },
+    {
+        "cdinventarios": 2916.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00898920",
+        "Equipamentos": "SERVIÇOS GERAIS"
+    },
+    {
+        "cdinventarios": 2917.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00189481",
+        "Equipamentos": "SIST. TRANSF. SUBTER. CAR. LINHA 2 PARA LINHA 1"
+    },
+    {
+        "cdinventarios": 2918.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00293084",
+        "Equipamentos": "SIST. TRANSF.  DE CARRINHO LINHA 1"
+    },
+    {
+        "cdinventarios": 2919.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J0064822205",
+        "Equipamentos": "SIST.ECOS/ADAPTADOR DE BATERIA"
+    },
+    {
+        "cdinventarios": 2920.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J0064822203",
+        "Equipamentos": "SIST.ECOS/ALICATE MEDICAO DE CORRENTE"
+    },
+    {
+        "cdinventarios": 2921.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J0064822204",
+        "Equipamentos": "SIST.ECOS/ALICATE MEDICAO DE CORRENTE"
+    },
+    {
+        "cdinventarios": 2922.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00648222",
+        "Equipamentos": "SISTEMA ECOS/ESTACAO FINAL TESTES"
+    },
+    {
+        "cdinventarios": 2923.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00648492",
+        "Equipamentos": "TERMINAL MANUAL P/PONTO TESTES"
+    },
+    {
+        "cdinventarios": 2924.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00281323",
+        "Equipamentos": "TRANSP. RETORNO DE GASES DE ESCAPAMENTO"
+    },
+    {
+        "cdinventarios": 2946.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J00333752",
+        "Equipamentos": "DISP P/PRENSAR COXIM NA BARRA AXOR - PR 31 / 40"
+    },
+    {
+        "cdinventarios": 2947.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M12000120001",
+        "Equipamentos": "DISP DE MONTAGEM DA CELA  F5  0012542"
+    },
+    {
+        "cdinventarios": 2948.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M12000120002",
+        "Equipamentos": "DISP DE MONTAGEM DA CELA  UP F5  0022730"
+    },
+    {
+        "cdinventarios": 2950.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200105",
+        "Equipamentos": "VENTILADOR N.105 PR.34 ESTAMPARIA"
+    },
+    {
+        "cdinventarios": 2951.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200106",
+        "Equipamentos": "VENTILADOR N.106 PR.34 ESTAMPARIA"
+    },
+    {
+        "cdinventarios": 2952.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200107",
+        "Equipamentos": "VENTILADOR N.107 PR.34 ESTAMPARIA"
+    },
+    {
+        "cdinventarios": 2953.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008999770020",
+        "Equipamentos": "DISP. MOTAGEM TANQUE DE AR DO AXOR"
+    },
+    {
+        "cdinventarios": 2954.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "J008981200108",
+        "Equipamentos": "VENTILADOR N.108 PR.34 ESTAMPARIA"
+    },
+    {
+        "cdinventarios": 2955.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M12000120010",
+        "Equipamentos": "POSTO DE TRAB. L.1"
+    },
+    {
+        "cdinventarios": 2956.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M12000120011",
+        "Equipamentos": "POSTO DE TRAB. L.2"
+    },
+    {
+        "cdinventarios": 2957.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M12000120012",
+        "Equipamentos": "POSTO DE TRAB. MA."
+    },
+    {
+        "cdinventarios": 2958.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M12000120013",
+        "Equipamentos": "POSTO DE TRAB. AM"
+    },
+    {
+        "cdinventarios": 3375.0,
+        "Area": "OCC",
+        "Centro de Custo": 1204,
+        "Inventarios": "5545M12000140311",
+        "Equipamentos": "MOVIA DEMAG 250KG - 311 (MONTAGEM DE EIXO)"
+    }
+]

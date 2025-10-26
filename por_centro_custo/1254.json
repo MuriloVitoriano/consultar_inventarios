@@ -1,0 +1,212 @@
+[
+    {
+        "cdinventarios": 1,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J00420163",
+        "Equipamentos": "Banco de Provas Burke JDF: J00420163 "
+    },
+    {
+        "cdinventarios": 2534.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J00418198",
+        "Equipamentos": "BANCO DE PROVA 1 - (DURR)"
+    },
+    {
+        "cdinventarios": 0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J00420112",
+        "Equipamentos": "Alinhador de Eixo Volante e faróis JDF: J00420112 "
+    },
+    {
+        "cdinventarios": 4472.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002000",
+        "Equipamentos": "ALINHADOR DE VOLANTES N.2"
+    },
+    {
+        "cdinventarios": 4473.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J00292180",
+        "Equipamentos": "DISP. DE ALINHAR DIREÇÃO (VOLANTE)"
+    },
+    {
+        "cdinventarios": 4474.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J00410624",
+        "Equipamentos": "ALINHADOR DE FAROL - LUMINOSCOPE Nº1"
+    },
+    {
+        "cdinventarios": 4475.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002510",
+        "Equipamentos": "SISTEMA BOMBEAMENTO FLUIDO BOMBA DE ÓLEO CAMBIO AUT. N.2"
+    },
+    {
+        "cdinventarios": 4476.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1003000",
+        "Equipamentos": "ALINHADOR DE FAROL - LUMINOSCOPE Nº2"
+    },
+    {
+        "cdinventarios": 4477.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J00274662",
+        "Equipamentos": "BANCO DE PROVA 2 - (BURKE E.PORTER)"
+    },
+    {
+        "cdinventarios": 4479.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J00418498",
+        "Equipamentos": "EIXO DIANTEIRO"
+    },
+    {
+        "cdinventarios": 4480.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J008999730014",
+        "Equipamentos": "VENTILADOR 1 - TESTE 1 EFICIENCIA"
+    },
+    {
+        "cdinventarios": 4481.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J008999730024",
+        "Equipamentos": "VENTILADOR 1 - TESTE 2 EFICIENCIA"
+    },
+    {
+        "cdinventarios": 4482.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002501",
+        "Equipamentos": "SISTEMA BOMBEAMENTO FLUIDO BOMBA GRAXA  N.1"
+    },
+    {
+        "cdinventarios": 4483.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002502",
+        "Equipamentos": "SISTEMA BOMBEAMENTO FLUIDO BOMBA GRAXA  N.2"
+    },
+    {
+        "cdinventarios": 4484.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002503",
+        "Equipamentos": "SISTEMA BOMBEAMENTO FLUIDO BOMBA DE ÓLEO DA EMBREAGEM N.1"
+    },
+    {
+        "cdinventarios": 4485.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002504",
+        "Equipamentos": "SISTEMA BOMBEAMENTO FLUIDO BOMBA DE ÓLEO DA EMBREAGEM N.2"
+    },
+    {
+        "cdinventarios": 4486.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002505",
+        "Equipamentos": "SISTEMA BOMBEAMENTO FLUIDO BOMBA DE ÓLEO DO BASCULAMENTO N.1"
+    },
+    {
+        "cdinventarios": 4487.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002506",
+        "Equipamentos": "SISTEMA BOMBEAMENTO FLUIDO BOMBA DE ÓLEO DO BASCULAMENTO N.2"
+    },
+    {
+        "cdinventarios": 4488.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002507",
+        "Equipamentos": "SISTEMA BOMBEAMENTO FLUIDO BOMBA DE ÓLEO TRANSFERENCIA BALANCIN N.1"
+    },
+    {
+        "cdinventarios": 4489.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002508",
+        "Equipamentos": "SISTEMA BOMBEAMENTO FLUIDO BOMBA DE ÓLEO TRANSFERENCIA BALANCIN N.2"
+    },
+    {
+        "cdinventarios": 4490.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1002509",
+        "Equipamentos": "SISTEMA BOMBEAMENTO FLUIDO BOMBA DE ÓLEO CAMBIO AUT. N.1"
+    },
+    {
+        "cdinventarios": 4861.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M0001254",
+        "Equipamentos": "SERVIÇOS GERAIS"
+    },
+    {
+        "cdinventarios": 4865.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1003105",
+        "Equipamentos": "VALETAS DE INSPEÇÃO"
+    },
+    {
+        "cdinventarios": 4866.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1003106",
+        "Equipamentos": "CABINE DE CERA Nº 1"
+    },
+    {
+        "cdinventarios": 4867.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1003107",
+        "Equipamentos": "CABINE DE CERA Nº 2"
+    },
+    {
+        "cdinventarios": 4868.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "5545M1003108",
+        "Equipamentos": "CABINE DE CERA Nº 3"
+    },
+    {
+        "cdinventarios": 4982.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "554010020363",
+        "Equipamentos": "ALINHADOR DE FAROL - LUMINOSCOPE Nº3"
+    },
+    {
+        "cdinventarios": 4984.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J00898414",
+        "Equipamentos": "ALINHADOR DE FAROL"
+    },
+    {
+        "cdinventarios": 4987.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J008996360001",
+        "Equipamentos": "BOMBA PNEUMATICA Nº1 - OLEO DIRECAO HIDR."
+    },
+    {
+        "cdinventarios": 4988.0,
+        "Area": "OCC",
+        "Centro de Custo": 1254,
+        "Inventarios": "J008996360002",
+        "Equipamentos": "BOMBA PNEUMATICA Nº1 - OLEO EMBREAGEM."
+    }
+]

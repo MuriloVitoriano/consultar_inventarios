@@ -1,0 +1,37 @@
+[
+    {
+        "cdinventarios": 3315.0,
+        "Area": "OCF",
+        "Centro de Custo": 3254,
+        "Inventarios": "J008991740009",
+        "Equipamentos": "PONTE DE 16 TON. DEMAG"
+    },
+    {
+        "cdinventarios": 3316.0,
+        "Area": "OCF",
+        "Centro de Custo": 3254,
+        "Inventarios": "J008991740011",
+        "Equipamentos": "PONTE ROLANTE STAHL 5 TON. ALMOX. CHAPAS"
+    },
+    {
+        "cdinventarios": 3317.0,
+        "Area": "OCF",
+        "Centro de Custo": 3254,
+        "Inventarios": "J008991740012",
+        "Equipamentos": "PONTE ROLANTE STAHL 5 TON. ALMOX. CHAPAS"
+    },
+    {
+        "cdinventarios": 3318.0,
+        "Area": "OCF",
+        "Centro de Custo": 3254,
+        "Inventarios": "J008991740013",
+        "Equipamentos": "PONTE ROLANTE 3 T X 10M ALMOXAR. TUBOS"
+    },
+    {
+        "cdinventarios": 3319.0,
+        "Area": "OCF",
+        "Centro de Custo": 3254,
+        "Inventarios": "J008991740014",
+        "Equipamentos": "PONTE ROLANTE 3 T X 5,7 M ALMOXAR. TUBOS"
+    }
+]

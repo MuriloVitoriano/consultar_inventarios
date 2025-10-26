@@ -1,0 +1,618 @@
+[
+    {
+        "cdinventarios": 3226.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00011767",
+        "Equipamentos": "PRENSA EXC. 800 TON.-SCHULER"
+    },
+    {
+        "cdinventarios": 3227.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00012745",
+        "Equipamentos": "PRENSA EXC.400 TON"
+    },
+    {
+        "cdinventarios": 3228.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00012746",
+        "Equipamentos": "PRENSA EXC.400 TON"
+    },
+    {
+        "cdinventarios": 3229.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00012761",
+        "Equipamentos": "PRENSA EXC.400 TON"
+    },
+    {
+        "cdinventarios": 3230.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00012762",
+        "Equipamentos": "PRENSA EXC. 400 TON. SCHULER"
+    },
+    {
+        "cdinventarios": 3231.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00013775",
+        "Equipamentos": "PRENSA HIDR.MUELLER 1600 TON"
+    },
+    {
+        "cdinventarios": 3232.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00013781",
+        "Equipamentos": "PRENSA EXCENTRICA 500 TON.SCHULLER"
+    },
+    {
+        "cdinventarios": 3233.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00014222",
+        "Equipamentos": "PRENSA EXC.400 TON. 2 BIELAS SCHULER"
+    },
+    {
+        "cdinventarios": 3234.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00014223",
+        "Equipamentos": "PRENSA EXCENT.400 TON.2 BIELAS SCHULER"
+    },
+    {
+        "cdinventarios": 3235.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00014467",
+        "Equipamentos": "PRENSA EXC.400 TON"
+    },
+    {
+        "cdinventarios": 3236.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00014468",
+        "Equipamentos": "PRENSA EXCENT.400 TON. 2 BIELAS SCHULER"
+    },
+    {
+        "cdinventarios": 3237.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00014532",
+        "Equipamentos": "PRENSA EXC.400 TON"
+    },
+    {
+        "cdinventarios": 3238.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00014873",
+        "Equipamentos": "PRENSA EXC.400 TON"
+    },
+    {
+        "cdinventarios": 3239.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00014874",
+        "Equipamentos": "PRENSA EXC.400 TON"
+    },
+    {
+        "cdinventarios": 3240.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00014905",
+        "Equipamentos": "PRENSA EXC.250 TON"
+    },
+    {
+        "cdinventarios": 3241.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00015866",
+        "Equipamentos": "PRENSA EXCENTRICA 800 TON. SCHULER"
+    },
+    {
+        "cdinventarios": 3242.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00016057",
+        "Equipamentos": "PRENSA EXC.400 TON"
+    },
+    {
+        "cdinventarios": 3243.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00016058",
+        "Equipamentos": "PRENSA EXCENTRICA 400 TONS"
+    },
+    {
+        "cdinventarios": 3244.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00016059",
+        "Equipamentos": "PRENSA EXCENTRICA SHULER-400T."
+    },
+    {
+        "cdinventarios": 3245.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00016190",
+        "Equipamentos": "PRENSA HIDRL 400TON SCHULER"
+    },
+    {
+        "cdinventarios": 3246.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00016497",
+        "Equipamentos": "DOBRADEIRA FOBESA 80 TON"
+    },
+    {
+        "cdinventarios": 3247.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00016882",
+        "Equipamentos": "PRENSA HIDR.SCHULER 1600 TON"
+    },
+    {
+        "cdinventarios": 3248.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00017138",
+        "Equipamentos": "PRENSA EXC.250 TON"
+    },
+    {
+        "cdinventarios": 3249.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00017299",
+        "Equipamentos": "FURADEIRA DE BANCADA (PMC)"
+    },
+    {
+        "cdinventarios": 3250.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00018625",
+        "Equipamentos": "SERRA DE FITA VERTICAL SERIE 130 (PMC)"
+    },
+    {
+        "cdinventarios": 3251.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00018933",
+        "Equipamentos": "PRENSA EXCENTRICA 1000 TON."
+    },
+    {
+        "cdinventarios": 3252.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00185193",
+        "Equipamentos": "VAGONETA P/TRANSP/ARMAZ ESTAMPOS"
+    },
+    {
+        "cdinventarios": 3253.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00185645",
+        "Equipamentos": "MESA ELEVADORA HIDR ZELOSO MEML 5012"
+    },
+    {
+        "cdinventarios": 3254.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00185677",
+        "Equipamentos": "ESMERIL C/02 REBOLOS - (PMC)"
+    },
+    {
+        "cdinventarios": 3255.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00185678",
+        "Equipamentos": "MESA ELEVADORA HIDR ZELOSO MEML 5012"
+    },
+    {
+        "cdinventarios": 3256.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00228838",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3257.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00228839",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3258.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00228840",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3259.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00228841",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3260.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00228842",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3261.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00228843",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3262.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00228844",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3263.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00230531",
+        "Equipamentos": "TRANSPORTADORA  DE ESTEIRA TECON TIPO I"
+    },
+    {
+        "cdinventarios": 3264.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00230532",
+        "Equipamentos": "TRANSPORTADORA  DE ESTEIRA TECON TIPO I"
+    },
+    {
+        "cdinventarios": 3265.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00230533",
+        "Equipamentos": "TRANSPORTADORA  DE ESTEIRA TECON TIPO I"
+    },
+    {
+        "cdinventarios": 3266.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00230534",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3267.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00232385",
+        "Equipamentos": "CENTRAL DE LUBRIFICACAO P/PRENSAS - LINH"
+    },
+    {
+        "cdinventarios": 3268.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00232386",
+        "Equipamentos": "CENTRAL DE LUBRIFICACAO P/PRENSAS - LINH"
+    },
+    {
+        "cdinventarios": 3269.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00232387",
+        "Equipamentos": "CENTRAL DE LUBRIFICACAO P/PRENSAS - LINH"
+    },
+    {
+        "cdinventarios": 3270.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00254354",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3271.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00254355",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3272.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00254356",
+        "Equipamentos": "CARRINHO ESTEIRA P/ TRANSP. DE PEÇAS (PR"
+    },
+    {
+        "cdinventarios": 3273.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00260975",
+        "Equipamentos": "MQ SOLDA - SOLTRONIC (PMC 245)"
+    },
+    {
+        "cdinventarios": 3274.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00283800",
+        "Equipamentos": "MESA ELEVATORIA HIDRAULICA"
+    },
+    {
+        "cdinventarios": 3275.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00283801",
+        "Equipamentos": "MESA ELEVATORIA HIDRAULICA"
+    },
+    {
+        "cdinventarios": 3276.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00296473",
+        "Equipamentos": "TAMBOR ROTATIVO P/REBARBAR MBB"
+    },
+    {
+        "cdinventarios": 3277.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00306858",
+        "Equipamentos": "EQUIP. P/CRAVAMENTO DE PORCA M8"
+    },
+    {
+        "cdinventarios": 3278.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00400507",
+        "Equipamentos": "TRANSPORTADOR P/RETALHOS 2 KABELSCHLEPP"
+    },
+    {
+        "cdinventarios": 3279.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00400510",
+        "Equipamentos": "TRANSPORTADOR P/RETALHOS 1 HECKEL"
+    },
+    {
+        "cdinventarios": 3280.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00400514",
+        "Equipamentos": "TRANSPORTADOR P/RETALHOS 3 KABELSCHLEPP"
+    },
+    {
+        "cdinventarios": 3281.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00407374",
+        "Equipamentos": "MAQINA DE LAVAR PISO COM 2 ESCOVAS E 1 R"
+    },
+    {
+        "cdinventarios": 3282.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00417701",
+        "Equipamentos": "ESTEIRA PARA TRANSPORTE DE PECAS"
+    },
+    {
+        "cdinventarios": 3283.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00417702",
+        "Equipamentos": "ESTEIRA PARA TRANSPORTE DE PECAS"
+    },
+    {
+        "cdinventarios": 3284.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00417703",
+        "Equipamentos": "ESTEIRA PARA TRANSPORTE DE PECAS"
+    },
+    {
+        "cdinventarios": 3285.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00417704",
+        "Equipamentos": "ESTEIRA PARA TRANSPORTE DE PECAS"
+    },
+    {
+        "cdinventarios": 3286.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00417705",
+        "Equipamentos": "ESTEIRA PARA TRANSPORTE DE PECAS"
+    },
+    {
+        "cdinventarios": 3287.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00898616245",
+        "Equipamentos": "SERVIÇOS GERAIS DE MANUTENÇÃO"
+    },
+    {
+        "cdinventarios": 3288.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J008990060001",
+        "Equipamentos": "BRACO GIRAT - 1TON (PORAO MANUT)"
+    },
+    {
+        "cdinventarios": 3289.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J008990060002",
+        "Equipamentos": "PONTE 10T (CORREDOR)"
+    },
+    {
+        "cdinventarios": 3290.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J008990060005",
+        "Equipamentos": "PONTE  50 T (PREDIO 34)"
+    },
+    {
+        "cdinventarios": 3291.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J008990060006",
+        "Equipamentos": "BRACO GIRATORIO - DEMAG 500KG - (PMC)"
+    },
+    {
+        "cdinventarios": 3292.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J008990060007",
+        "Equipamentos": "PONTE  25 T (PREDIO 34)"
+    },
+    {
+        "cdinventarios": 3293.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J008990060009",
+        "Equipamentos": "PONTE 25T (PREDIO 117)"
+    },
+    {
+        "cdinventarios": 3294.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J008990060015",
+        "Equipamentos": "MONOVIA STAHL  2 TON  (TETO DAS PRENSAS)"
+    },
+    {
+        "cdinventarios": 3295.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J008990060016",
+        "Equipamentos": "TALHA 1 TON  ( MONTADA NO CAVALETE PR. 1"
+    },
+    {
+        "cdinventarios": 3296.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J008990060019",
+        "Equipamentos": "PONTE ROLANTE ATLAS 2 T CARREG. BATERIAS"
+    },
+    {
+        "cdinventarios": 3297.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00899016",
+        "Equipamentos": "BOX DE LAVAGEM DE FERRAMENTAS"
+    },
+    {
+        "cdinventarios": 3298.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00899400",
+        "Equipamentos": "ELEVADOR DE CARGA (TATUZÃO)"
+    },
+    {
+        "cdinventarios": 3299.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00899557",
+        "Equipamentos": "COMANDOS BI-MANUAIS"
+    },
+    {
+        "cdinventarios": 3300.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J009002450001",
+        "Equipamentos": "LUBRIFICAÇÃO MÁQUINAS  C.C. 245/4"
+    },
+    {
+        "cdinventarios": 3301.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "J00938119",
+        "Equipamentos": "EQUIP P/PRENSAGEM PORCAS PROFIL"
+    },
+    {
+        "cdinventarios": 3302.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010007659",
+        "Equipamentos": "ESTEIRA TRANSPORTE PECAS 4680MM"
+    },
+    {
+        "cdinventarios": 3303.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010007660",
+        "Equipamentos": "ESTEIRA TRANSPORTE PECAS 4680MM"
+    },
+    {
+        "cdinventarios": 3304.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010007661",
+        "Equipamentos": "ESTEIRA TRANSPORTE PECAS 4680MM"
+    },
+    {
+        "cdinventarios": 3305.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010007662",
+        "Equipamentos": "ESTEIRA TRANSPORTE PECAS 4680MM"
+    },
+    {
+        "cdinventarios": 3306.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010007663",
+        "Equipamentos": "ESTEIRA TRANSPORTE PECAS 4680MM"
+    },
+    {
+        "cdinventarios": 3307.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010007664",
+        "Equipamentos": "ESTEIRA TRANSPORTE PECAS 4680MM"
+    },
+    {
+        "cdinventarios": 3308.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010007665",
+        "Equipamentos": "ESTEIRA TRANSPORTE PECAS 4680MM"
+    },
+    {
+        "cdinventarios": 3309.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010007666",
+        "Equipamentos": "ESTEIRA TRANSPORTE PECAS 3580MM"
+    },
+    {
+        "cdinventarios": 3310.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010007667",
+        "Equipamentos": "ESTEIRA TRANSPORTE PECAS 3580MM"
+    },
+    {
+        "cdinventarios": 3311.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010007668",
+        "Equipamentos": "ESTEIRA TRANSPORTE PECAS 3580MM"
+    },
+    {
+        "cdinventarios": 3312.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010010059",
+        "Equipamentos": "DOBRADEIRA CHAPAS HIDRÁULICA - NEWTON - 135 TON"
+    },
+    {
+        "cdinventarios": 3313.0,
+        "Area": "OCF",
+        "Centro de Custo": 2454,
+        "Inventarios": "554010010597",
+        "Equipamentos": "PONTE ROLANTE – TEREX/ DEMAG - 50/25 TON"
+    }
+]

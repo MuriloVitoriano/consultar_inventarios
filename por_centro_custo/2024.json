@@ -1,0 +1,660 @@
+[
+    {
+        "cdinventarios": 4711.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2021001",
+        "Equipamentos": "TRIM - ELEVADOR 01"
+    },
+    {
+        "cdinventarios": 4712.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2021002",
+        "Equipamentos": "TRIM - ELEVADOR 02"
+    },
+    {
+        "cdinventarios": 4713.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2021003",
+        "Equipamentos": "TRIM - ELEVADOR LOGÍSTICA 1"
+    },
+    {
+        "cdinventarios": 4714.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2021004",
+        "Equipamentos": "TRIM - ELEVADOR LOGÍSTICA 2"
+    },
+    {
+        "cdinventarios": 4715.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022001",
+        "Equipamentos": "TRIM - AGV 01"
+    },
+    {
+        "cdinventarios": 4716.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022002",
+        "Equipamentos": "TRIM - AGV 02"
+    },
+    {
+        "cdinventarios": 4717.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022003",
+        "Equipamentos": "TRIM - AGV 03"
+    },
+    {
+        "cdinventarios": 4718.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022004",
+        "Equipamentos": "TRIM - AGV 04"
+    },
+    {
+        "cdinventarios": 4719.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022005",
+        "Equipamentos": "TRIM - AGV 05"
+    },
+    {
+        "cdinventarios": 4720.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022006",
+        "Equipamentos": "TRIM - AGV 06"
+    },
+    {
+        "cdinventarios": 4721.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022007",
+        "Equipamentos": "TRIM - AGV 07"
+    },
+    {
+        "cdinventarios": 4722.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022008",
+        "Equipamentos": "TRIM - AGV 08"
+    },
+    {
+        "cdinventarios": 4723.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022009",
+        "Equipamentos": "TRIM - AGV 09"
+    },
+    {
+        "cdinventarios": 4724.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022010",
+        "Equipamentos": "TRIM - AGV 10"
+    },
+    {
+        "cdinventarios": 4725.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022011",
+        "Equipamentos": "TRIM - AGV 11"
+    },
+    {
+        "cdinventarios": 4726.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022012",
+        "Equipamentos": "TRIM - AGV 12"
+    },
+    {
+        "cdinventarios": 4727.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022013",
+        "Equipamentos": "TRIM - AGV 13"
+    },
+    {
+        "cdinventarios": 4728.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022014",
+        "Equipamentos": "TRIM - AGV 14"
+    },
+    {
+        "cdinventarios": 4729.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022015",
+        "Equipamentos": "TRIM - AGV 15"
+    },
+    {
+        "cdinventarios": 4730.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022016",
+        "Equipamentos": "TRIM - AGV 16"
+    },
+    {
+        "cdinventarios": 4731.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022017",
+        "Equipamentos": "TRIM - AGV 17"
+    },
+    {
+        "cdinventarios": 4732.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022018",
+        "Equipamentos": "TRIM - AGV 18"
+    },
+    {
+        "cdinventarios": 4733.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022019",
+        "Equipamentos": "TRIM - AGV 19"
+    },
+    {
+        "cdinventarios": 4734.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022020",
+        "Equipamentos": "TRIM - AGV 20"
+    },
+    {
+        "cdinventarios": 4735.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022021",
+        "Equipamentos": "TRIM - AGV 21"
+    },
+    {
+        "cdinventarios": 4736.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022022",
+        "Equipamentos": "TRIM - AGV 22"
+    },
+    {
+        "cdinventarios": 4737.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022023",
+        "Equipamentos": "TRIM - AGV 23"
+    },
+    {
+        "cdinventarios": 4738.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022024",
+        "Equipamentos": "TRIM - AGV 24"
+    },
+    {
+        "cdinventarios": 4739.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022025",
+        "Equipamentos": "TRIM - AGV 25"
+    },
+    {
+        "cdinventarios": 4740.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022026",
+        "Equipamentos": "TRIM - AGV 26"
+    },
+    {
+        "cdinventarios": 4741.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022027",
+        "Equipamentos": "TRIM - AGV 27"
+    },
+    {
+        "cdinventarios": 4742.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022028",
+        "Equipamentos": "TRIM - AGV 28"
+    },
+    {
+        "cdinventarios": 4743.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022029",
+        "Equipamentos": "TRIM - AGV 29"
+    },
+    {
+        "cdinventarios": 4744.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022030",
+        "Equipamentos": "TRIM - AGV 30"
+    },
+    {
+        "cdinventarios": 4745.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022031",
+        "Equipamentos": "TRIM - AGV 31"
+    },
+    {
+        "cdinventarios": 4746.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022032",
+        "Equipamentos": "TRIM - AGV 32"
+    },
+    {
+        "cdinventarios": 4747.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022033",
+        "Equipamentos": "TRIM - AGV 33"
+    },
+    {
+        "cdinventarios": 4748.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022034",
+        "Equipamentos": "TRIM - AGV 34"
+    },
+    {
+        "cdinventarios": 4749.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022035",
+        "Equipamentos": "TRIM - AGV 35"
+    },
+    {
+        "cdinventarios": 4750.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022036",
+        "Equipamentos": "TRIM - AGV 36"
+    },
+    {
+        "cdinventarios": 4751.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022037",
+        "Equipamentos": "TRIM - AGV 37"
+    },
+    {
+        "cdinventarios": 4752.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022038",
+        "Equipamentos": "TRIM - AGV 38"
+    },
+    {
+        "cdinventarios": 4753.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022039",
+        "Equipamentos": "TRIM - AGV 39"
+    },
+    {
+        "cdinventarios": 4754.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022040",
+        "Equipamentos": "TRIM - AGV 40"
+    },
+    {
+        "cdinventarios": 4755.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022041",
+        "Equipamentos": "TRIM - AGV 41"
+    },
+    {
+        "cdinventarios": 4756.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022042",
+        "Equipamentos": "TRIM - AGV 42"
+    },
+    {
+        "cdinventarios": 4757.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022043",
+        "Equipamentos": "TRIM - AGV 43"
+    },
+    {
+        "cdinventarios": 4758.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022044",
+        "Equipamentos": "TRIM - AGV 44"
+    },
+    {
+        "cdinventarios": 4759.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022045",
+        "Equipamentos": "TRIM - AGV 45"
+    },
+    {
+        "cdinventarios": 4760.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022046",
+        "Equipamentos": "TRIM - AGV 46"
+    },
+    {
+        "cdinventarios": 4761.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022047",
+        "Equipamentos": "TRIM - AGV 47"
+    },
+    {
+        "cdinventarios": 4762.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022048",
+        "Equipamentos": "TRIM - AGV 48"
+    },
+    {
+        "cdinventarios": 4763.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022049",
+        "Equipamentos": "TRIM - AGV 49"
+    },
+    {
+        "cdinventarios": 4764.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022050",
+        "Equipamentos": "TRIM - AGV 50"
+    },
+    {
+        "cdinventarios": 4765.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022051",
+        "Equipamentos": "TRIM - AGV 51"
+    },
+    {
+        "cdinventarios": 4766.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022052",
+        "Equipamentos": "TRIM - AGV 52"
+    },
+    {
+        "cdinventarios": 4767.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022053",
+        "Equipamentos": "TRIM - AGV 53"
+    },
+    {
+        "cdinventarios": 4768.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022054",
+        "Equipamentos": "TRIM - AGV 54"
+    },
+    {
+        "cdinventarios": 4769.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022055",
+        "Equipamentos": "TRIM - AGV 55"
+    },
+    {
+        "cdinventarios": 4770.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022056",
+        "Equipamentos": "TRIM - AGV 56"
+    },
+    {
+        "cdinventarios": 4771.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022057",
+        "Equipamentos": "TRIM - AGV 57"
+    },
+    {
+        "cdinventarios": 4772.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022058",
+        "Equipamentos": "TRIM - AGV 58"
+    },
+    {
+        "cdinventarios": 4773.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022059",
+        "Equipamentos": "TRIM - AGV 59"
+    },
+    {
+        "cdinventarios": 4774.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022060",
+        "Equipamentos": "TRIM - AGV 60"
+    },
+    {
+        "cdinventarios": 4775.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022061",
+        "Equipamentos": "TRIM - AGV 61"
+    },
+    {
+        "cdinventarios": 4776.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022062",
+        "Equipamentos": "TRIM - AGV 62"
+    },
+    {
+        "cdinventarios": 4777.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022063",
+        "Equipamentos": "TRIM - AGV 63"
+    },
+    {
+        "cdinventarios": 4778.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022064",
+        "Equipamentos": "TRIM - AGV 64"
+    },
+    {
+        "cdinventarios": 4779.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022065",
+        "Equipamentos": "TRIM - AGV 65"
+    },
+    {
+        "cdinventarios": 4780.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022066",
+        "Equipamentos": "TRIM - AGV 66"
+    },
+    {
+        "cdinventarios": 4781.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022067",
+        "Equipamentos": "TRIM - AGV 67"
+    },
+    {
+        "cdinventarios": 4782.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022068",
+        "Equipamentos": "TRIM - AGV 68"
+    },
+    {
+        "cdinventarios": 4783.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022069",
+        "Equipamentos": "TRIM - AGV 69"
+    },
+    {
+        "cdinventarios": 4784.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022070",
+        "Equipamentos": "TRIM - AGV 70"
+    },
+    {
+        "cdinventarios": 4785.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022071",
+        "Equipamentos": "TRIM - AGV 71"
+    },
+    {
+        "cdinventarios": 4786.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022072",
+        "Equipamentos": "TRIM - AGV 72"
+    },
+    {
+        "cdinventarios": 4787.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022073",
+        "Equipamentos": "TRIM - AGV 73"
+    },
+    {
+        "cdinventarios": 4788.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022074",
+        "Equipamentos": "TRIM - AGV 74"
+    },
+    {
+        "cdinventarios": 4789.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2022075",
+        "Equipamentos": "TRIM - AGV 75"
+    },
+    {
+        "cdinventarios": 4790.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025001",
+        "Equipamentos": "TRIM - MANIPULADOR PORTAS - RETIRADA"
+    },
+    {
+        "cdinventarios": 4791.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025002",
+        "Equipamentos": "TRIM - MANIPULADOR PORTAS - MONTAGEM"
+    },
+    {
+        "cdinventarios": 4792.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025003",
+        "Equipamentos": "TRIM - MANIPULADOR DE PAINÉIS - 1° AND"
+    },
+    {
+        "cdinventarios": 4793.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025004",
+        "Equipamentos": "TRIM - MANIPULADOR DE BANCOS - MOTORISTA"
+    },
+    {
+        "cdinventarios": 4794.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025005",
+        "Equipamentos": "TRIM - MANIPULADOR DE BANCOS - PASSAGEIRO"
+    },
+    {
+        "cdinventarios": 4795.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025006",
+        "Equipamentos": "TRIM - MANIPULADOR DA CAMA"
+    },
+    {
+        "cdinventarios": 4796.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025007",
+        "Equipamentos": "TRIM - MANIPULADOR DA GELADEIRA"
+    },
+    {
+        "cdinventarios": 4797.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025008",
+        "Equipamentos": "TRIM - MANIPULADOR INSERÇÃO PARABRISA"
+    },
+    {
+        "cdinventarios": 4798.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025009",
+        "Equipamentos": "TRIM - MANIPULADOR ABASTECIMENTO CÉLULA PARABRISA"
+    },
+    {
+        "cdinventarios": 4799.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025010",
+        "Equipamentos": "TRIM - MANIPULADOR DA GRADE FRONTAL"
+    },
+    {
+        "cdinventarios": 4800.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025011",
+        "Equipamentos": "TRIM - MANIPULADOR PORTA OBJETOS"
+    },
+    {
+        "cdinventarios": 4801.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025012",
+        "Equipamentos": "TRIM - MANIPULADOR DO REVESTIMENTO DO TETO"
+    },
+    {
+        "cdinventarios": 4802.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2025013",
+        "Equipamentos": "TRIM - MANIPULADOR DE PAINÉIS - TÉRREO"
+    },
+    {
+        "cdinventarios": 4803.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2026001",
+        "Equipamentos": "TRIM - ESTEIRA 1 ELEV LOGI 1"
+    },
+    {
+        "cdinventarios": 4804.0,
+        "Area": "OCB",
+        "Centro de Custo": 2024,
+        "Inventarios": "5545M2026002",
+        "Equipamentos": "TRIM - ESTEIRA 2 ELEV LOGI 2"
+    }
+]

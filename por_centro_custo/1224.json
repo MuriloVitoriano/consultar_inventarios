@@ -1,0 +1,975 @@
+[
+    {
+        "cdinventarios": 2202.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060051",
+        "Equipamentos": "BANCADA DE PRÉ MONT. MÓD. DE SENS DO SILENCIOSO"
+    },
+    {
+        "cdinventarios": 2203.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060028",
+        "Equipamentos": "BANCADA DE MONTAR AMORTECEDOR CABINA  ATEGO"
+    },
+    {
+        "cdinventarios": 2204.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060020",
+        "Equipamentos": "BANCADA MONT.CONJ.MOLA/AMORT.DA CABINE (FPN/HPN)"
+    },
+    {
+        "cdinventarios": 2205.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060038",
+        "Equipamentos": "BANCADA PRE-MONT. GRADE FRONTAL"
+    },
+    {
+        "cdinventarios": 2206.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060031",
+        "Equipamentos": "BANCADA PRE-MONTAGEM PARA-CHOQUE"
+    },
+    {
+        "cdinventarios": 2214.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J00326097",
+        "Equipamentos": "DISPOS. MONT. CAIXA BAT. SIL. ATEGO"
+    },
+    {
+        "cdinventarios": 2215.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J00330840",
+        "Equipamentos": "DISPOS. MONT. CAIXA BAT. SIL. ATEGO"
+    },
+    {
+        "cdinventarios": 2216.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060037",
+        "Equipamentos": "DISPOS. DE MONTAR BATERIA"
+    },
+    {
+        "cdinventarios": 2217.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J00329335",
+        "Equipamentos": "DISPOS. MONT. TANQUE AR ATEGO"
+    },
+    {
+        "cdinventarios": 2218.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J00333372",
+        "Equipamentos": "DISPOS. PRE-MONTAR BARRA ESTAB. ATEGO"
+    },
+    {
+        "cdinventarios": 2219.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060048",
+        "Equipamentos": "DISPOS. MONT. CX. BATERIAS E TANQ.DE AR (HPN/FPN) TLF2806E"
+    },
+    {
+        "cdinventarios": 2220.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060047",
+        "Equipamentos": "DISPOS. MONT. CX. BATERIAS E TANQ.DE ARLA (ATEGO) TLF2807E"
+    },
+    {
+        "cdinventarios": 2221.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060007",
+        "Equipamentos": "DISPOS. BALANCIN"
+    },
+    {
+        "cdinventarios": 2222.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060010",
+        "Equipamentos": "DISPOS. CORTAR IDENTIFICAÇÃO"
+    },
+    {
+        "cdinventarios": 2223.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060019",
+        "Equipamentos": "DISPOS. P/ ABRIR AMORTECEDOR"
+    },
+    {
+        "cdinventarios": 2225.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060030",
+        "Equipamentos": "DISPOS. MONTAR BARRA ESTABILIZADORA"
+    },
+    {
+        "cdinventarios": 2226.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060029",
+        "Equipamentos": "DISPOS. DE CORTAR MANTA"
+    },
+    {
+        "cdinventarios": 2227.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J00364997",
+        "Equipamentos": "DISPOS. DE MONTAGEM DA GRADE FRONTAL"
+    },
+    {
+        "cdinventarios": 2228.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060049",
+        "Equipamentos": "DISPOS. DE MONTAGEM DO SILENCIOSO EURO 5 Nº01"
+    },
+    {
+        "cdinventarios": 2229.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060050",
+        "Equipamentos": "DISPOS. DE MONTAGEM DO SILENCIOSO EURO 5 Nº02"
+    },
+    {
+        "cdinventarios": 2230.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060040",
+        "Equipamentos": "DISPOS. P/ MONTAGEM DE TANQUES DE AR 10 LITROS"
+    },
+    {
+        "cdinventarios": 2231.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060046",
+        "Equipamentos": "DISPOS. P/ MONTAGEM DE TANQUES DE AR 30,0 LITROS"
+    },
+    {
+        "cdinventarios": 2232.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060041",
+        "Equipamentos": "DISPOS. P/ MONTAGEM DE TANQUES DE AR 5,4 LITROS"
+    },
+    {
+        "cdinventarios": 2243.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008981140100",
+        "Equipamentos": "FURADEIRA RADIAL-SR/23-NF568- O MUELLER - OFICINA PMC"
+    },
+    {
+        "cdinventarios": 2244.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008981140103",
+        "Equipamentos": "FURADEIRA COORDENADAS FF20 S.BLANES - OFICINA PMC"
+    },
+    {
+        "cdinventarios": 2247.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M0001144",
+        "Equipamentos": "LEVANTADOR MAGNETICO  -  250K  - LTR"
+    },
+    {
+        "cdinventarios": 2248.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M0011144",
+        "Equipamentos": "LEVANTADOR MAGNETICO  -  250K  - LTR"
+    },
+    {
+        "cdinventarios": 2249.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M0002144",
+        "Equipamentos": "LEVANTADOR MAGNETICO  -  250K  - LTR"
+    },
+    {
+        "cdinventarios": 2250.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008981140104",
+        "Equipamentos": "MAQ SOLDA MIG 300A SOLTRN. 22491/22 - OFICINA PMC"
+    },
+    {
+        "cdinventarios": 2253.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008999060034",
+        "Equipamentos": "PISTOLA  DOSADOR DE OLEO DA TRANSMISSÃO"
+    },
+    {
+        "cdinventarios": 2270.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "554010003090",
+        "Equipamentos": "PRENSA SUPORTE DA MOLA DO BALANCIM (INV.ANT. J00004347)"
+    },
+    {
+        "cdinventarios": 2271.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J00015644",
+        "Equipamentos": "PRENSA DO ROLAMENTO CÔNICO DO BALANCIM - CIOLA"
+    },
+    {
+        "cdinventarios": 2321.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008993070006",
+        "Equipamentos": "BANCADA DE  MONTAR QUADROS"
+    },
+    {
+        "cdinventarios": 2382.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J00410474",
+        "Equipamentos": "APERTADEIRA MULTIPLA 4 FUSOS P/ GRAMPO"
+    },
+    {
+        "cdinventarios": 2383.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J00410475",
+        "Equipamentos": "APERTADEIRA MULTIPLA 4 FUSOS P/ GRAMPO"
+    },
+    {
+        "cdinventarios": 2949.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M12000120003",
+        "Equipamentos": "DISP DE EMBUCHAR BARRA     F5  0039618"
+    },
+    {
+        "cdinventarios": 4076.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002122",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.22"
+    },
+    {
+        "cdinventarios": 4084.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M0001224",
+        "Equipamentos": "SERVIÇOS GERAIS"
+    },
+    {
+        "cdinventarios": 4287.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000600",
+        "Equipamentos": "EOM EIXO DURR - MONOVIA"
+    },
+    {
+        "cdinventarios": 4288.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000601",
+        "Equipamentos": "EOM EIXO DURR - CARRO N1"
+    },
+    {
+        "cdinventarios": 4289.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000602",
+        "Equipamentos": "EOM EIXO DURR - CARRO N2"
+    },
+    {
+        "cdinventarios": 4290.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000603",
+        "Equipamentos": "EOM EIXO DURR - CARRO N3"
+    },
+    {
+        "cdinventarios": 4291.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000604",
+        "Equipamentos": "EOM EIXO DURR - CARRO N4"
+    },
+    {
+        "cdinventarios": 4292.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000605",
+        "Equipamentos": "EOM EIXO DURR - CARRO N5"
+    },
+    {
+        "cdinventarios": 4293.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000606",
+        "Equipamentos": "EOM EIXO DURR - CARRO N6"
+    },
+    {
+        "cdinventarios": 4294.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000607",
+        "Equipamentos": "EOM EIXO DURR - CARRO N7"
+    },
+    {
+        "cdinventarios": 4295.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000714",
+        "Equipamentos": "POSTO 17 VIRADOR DE CHASSIS"
+    },
+    {
+        "cdinventarios": 4296.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000715",
+        "Equipamentos": "POSTO 18 VIRADOR DE CHASSIS - PLANO B"
+    },
+    {
+        "cdinventarios": 4297.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001801",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.01"
+    },
+    {
+        "cdinventarios": 4298.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001802",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.02"
+    },
+    {
+        "cdinventarios": 4299.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001803",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.03"
+    },
+    {
+        "cdinventarios": 4300.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001804",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.04"
+    },
+    {
+        "cdinventarios": 4301.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001805",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.05"
+    },
+    {
+        "cdinventarios": 4302.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001806",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.06"
+    },
+    {
+        "cdinventarios": 4303.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001808",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.08"
+    },
+    {
+        "cdinventarios": 4304.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001809",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.09"
+    },
+    {
+        "cdinventarios": 4305.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001810",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.10"
+    },
+    {
+        "cdinventarios": 4306.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001819",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.19"
+    },
+    {
+        "cdinventarios": 4307.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001820",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.20"
+    },
+    {
+        "cdinventarios": 4308.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001821",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.21"
+    },
+    {
+        "cdinventarios": 4309.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001822",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.22"
+    },
+    {
+        "cdinventarios": 4310.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001823",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.23"
+    },
+    {
+        "cdinventarios": 4311.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001824",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.24"
+    },
+    {
+        "cdinventarios": 4312.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001825",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.25"
+    },
+    {
+        "cdinventarios": 4313.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001826",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.26"
+    },
+    {
+        "cdinventarios": 4314.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001827",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.27"
+    },
+    {
+        "cdinventarios": 4315.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001828",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.28"
+    },
+    {
+        "cdinventarios": 4316.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001829",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.29"
+    },
+    {
+        "cdinventarios": 4318.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001853",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C2-N.53"
+    },
+    {
+        "cdinventarios": 4319.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001859",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C2-N.59"
+    },
+    {
+        "cdinventarios": 4323.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001899",
+        "Equipamentos": "AGV'S DE PRODUÇÃO"
+    },
+    {
+        "cdinventarios": 4324.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001901",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.01"
+    },
+    {
+        "cdinventarios": 4325.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001902",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.02"
+    },
+    {
+        "cdinventarios": 4326.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001903",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.03"
+    },
+    {
+        "cdinventarios": 4327.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001904",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.04"
+    },
+    {
+        "cdinventarios": 4328.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001905",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.05"
+    },
+    {
+        "cdinventarios": 4329.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001906",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.06"
+    },
+    {
+        "cdinventarios": 4330.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001908",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.08"
+    },
+    {
+        "cdinventarios": 4331.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001909",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.09"
+    },
+    {
+        "cdinventarios": 4332.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001910",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.10"
+    },
+    {
+        "cdinventarios": 4333.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001919",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.19"
+    },
+    {
+        "cdinventarios": 4334.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001920",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.20"
+    },
+    {
+        "cdinventarios": 4335.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001921",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.21"
+    },
+    {
+        "cdinventarios": 4336.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001922",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.22"
+    },
+    {
+        "cdinventarios": 4337.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001923",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.23"
+    },
+    {
+        "cdinventarios": 4338.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001924",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.24"
+    },
+    {
+        "cdinventarios": 4339.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001925",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.25"
+    },
+    {
+        "cdinventarios": 4340.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001926",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.26"
+    },
+    {
+        "cdinventarios": 4341.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001927",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.27"
+    },
+    {
+        "cdinventarios": 4342.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001928",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.28"
+    },
+    {
+        "cdinventarios": 4343.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001929",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.29"
+    },
+    {
+        "cdinventarios": 4350.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002100",
+        "Equipamentos": "AGV'S DRESS-UP EIXO"
+    },
+    {
+        "cdinventarios": 4351.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002101",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.01"
+    },
+    {
+        "cdinventarios": 4352.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002102",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.02"
+    },
+    {
+        "cdinventarios": 4353.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002103",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.03"
+    },
+    {
+        "cdinventarios": 4354.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002104",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.04"
+    },
+    {
+        "cdinventarios": 4355.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002105",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.05"
+    },
+    {
+        "cdinventarios": 4356.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002106",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.06"
+    },
+    {
+        "cdinventarios": 4357.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002107",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.07"
+    },
+    {
+        "cdinventarios": 4358.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002108",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.08"
+    },
+    {
+        "cdinventarios": 4359.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002109",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.09"
+    },
+    {
+        "cdinventarios": 4360.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002110",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.10"
+    },
+    {
+        "cdinventarios": 4361.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002111",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.11"
+    },
+    {
+        "cdinventarios": 4362.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002112",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.12"
+    },
+    {
+        "cdinventarios": 4363.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002113",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.13"
+    },
+    {
+        "cdinventarios": 4364.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002114",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.14"
+    },
+    {
+        "cdinventarios": 4365.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002115",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.15"
+    },
+    {
+        "cdinventarios": 4366.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002116",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.16"
+    },
+    {
+        "cdinventarios": 4367.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002117",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.17"
+    },
+    {
+        "cdinventarios": 4368.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002118",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.18"
+    },
+    {
+        "cdinventarios": 4369.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002119",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.19"
+    },
+    {
+        "cdinventarios": 4370.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002120",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.20"
+    },
+    {
+        "cdinventarios": 4371.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002121",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.21"
+    },
+    {
+        "cdinventarios": 4373.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002123",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.23"
+    },
+    {
+        "cdinventarios": 4374.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002124",
+        "Equipamentos": "AGV'S DRESS-UP EIXO N.24"
+    },
+    {
+        "cdinventarios": 4375.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002400",
+        "Equipamentos": "SISTEMA RECEBIMENTO DE EIXOS ESTEIRA ENTRADA"
+    },
+    {
+        "cdinventarios": 4376.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002401",
+        "Equipamentos": "SISTEMA RECEBIMENTO DE EIXOS ESTEIRA SAIDA"
+    },
+    {
+        "cdinventarios": 4377.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002402",
+        "Equipamentos": "SISTEMA RECEB EIXOS MESA TRANSF EMB N.1"
+    },
+    {
+        "cdinventarios": 4378.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002403",
+        "Equipamentos": "SISTEMA RECEB EIXOS MESA TRANSF EMB N.2"
+    },
+    {
+        "cdinventarios": 4379.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1002404",
+        "Equipamentos": "SISTEMA RECEB EIXOS ELEVADOR DE EMBALAGEM"
+    },
+    {
+        "cdinventarios": 4570.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M11500120102",
+        "Equipamentos": "DISPOSITIVO DE MONTAR MOLA"
+    },
+    {
+        "cdinventarios": 4877.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000711",
+        "Equipamentos": "POSTO DE TRABALHO Nº 11"
+    },
+    {
+        "cdinventarios": 4878.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000712",
+        "Equipamentos": "POSTO DE TRABALHO Nº 12"
+    },
+    {
+        "cdinventarios": 4923.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000708",
+        "Equipamentos": "POSTO DE TRABALHO Nº 8"
+    },
+    {
+        "cdinventarios": 4924.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000709",
+        "Equipamentos": "POSTO DE TRABALHO Nº 9"
+    },
+    {
+        "cdinventarios": 4925.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000710",
+        "Equipamentos": "POSTO DE TRABALHO Nº 10"
+    },
+    {
+        "cdinventarios": 4926.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000713",
+        "Equipamentos": "POSTO DE TRABALHO Nº 13"
+    },
+    {
+        "cdinventarios": 4928.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000717",
+        "Equipamentos": "POSTO DE TRABALHO Nº 15"
+    },
+    {
+        "cdinventarios": 4929.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1000718",
+        "Equipamentos": "POSTO DE TRABALHO Nº 16"
+    },
+    {
+        "cdinventarios": 4983.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008981140101",
+        "Equipamentos": "PRENSA HIDRAULICA AC10-CIOLA"
+    },
+    {
+        "cdinventarios": 4986.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "J008993070014",
+        "Equipamentos": "DISP. DA TRAVESSA F561140980211"
+    },
+    {
+        "cdinventarios": 4998.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001812",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.12"
+    },
+    {
+        "cdinventarios": 5000.0,
+        "Area": "OCC",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001841",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C2-N.41"
+    },
+    {
+        "cdinventarios": 5012.0,
+        "Area": "OCP",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001811",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.11"
+    },
+    {
+        "cdinventarios": 5013.0,
+        "Area": "OCP",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001813",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.13"
+    },
+    {
+        "cdinventarios": 5014.0,
+        "Area": "OCP",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001814",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV MESTRE C1 N.14"
+    },
+    {
+        "cdinventarios": 5016.0,
+        "Area": "OCP",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001911",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.11"
+    },
+    {
+        "cdinventarios": 5017.0,
+        "Area": "OCP",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001913",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.13"
+    },
+    {
+        "cdinventarios": 5018.0,
+        "Area": "OCP",
+        "Centro de Custo": 1224,
+        "Inventarios": "5545M1001914",
+        "Equipamentos": "AGV'S DE PRODUÇÃO- AGV ESCRAVO C1-N.14"
+    }
+]

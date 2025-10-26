@@ -1,0 +1,352 @@
+[
+    {
+        "cdinventarios": 1.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "5001017234",
+        "Equipamentos": "CURSOS"
+    },
+    {
+        "cdinventarios": 2.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "5002067234",
+        "Equipamentos": "TREINAMENTO E REUNIÃO DE PORTA VOZ"
+    },
+    {
+        "cdinventarios": 6.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00001711",
+        "Equipamentos": "FURAD RADIAL-SILVER-NF0255 -EMA"
+    },
+    {
+        "cdinventarios": 23.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00016155",
+        "Equipamentos": "MOTO ESMERIL BANCADA B 100 JOWA"
+    },
+    {
+        "cdinventarios": 24.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00016171",
+        "Equipamentos": "SERRA HIDRÁULICA H2000 COBI\tJ00016171"
+    },
+    {
+        "cdinventarios": 27.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00017165",
+        "Equipamentos": "TORNO REVÓLVER IMOR"
+    },
+    {
+        "cdinventarios": 28.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00017376",
+        "Equipamentos": "FRESADORA INDUSTRIAL ROMI6"
+    },
+    {
+        "cdinventarios": 29.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00017552",
+        "Equipamentos": "PRENSA VIRAD. HIDRÁULICA"
+    },
+    {
+        "cdinventarios": 30.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00017613",
+        "Equipamentos": "SERRA FITA VERTICAL MEL MOD 400"
+    },
+    {
+        "cdinventarios": 32.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00018021",
+        "Equipamentos": "TORNO PARALELO UNIVERSAL"
+    },
+    {
+        "cdinventarios": 34.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00018623",
+        "Equipamentos": "FURADEIRA DE BANCADA SANCHES"
+    },
+    {
+        "cdinventarios": 39.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00150225",
+        "Equipamentos": "MAQ. SOLDA ELETRICA PORTATIL - V145S"
+    },
+    {
+        "cdinventarios": 51.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00185964",
+        "Equipamentos": "ESMERIL DE BANCADA4"
+    },
+    {
+        "cdinventarios": 52.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00185968",
+        "Equipamentos": "EQUIPAMENTO DE SOLDA E CORTE CO2"
+    },
+    {
+        "cdinventarios": 103.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00226917",
+        "Equipamentos": "TORNO HORIZONTAL CNC"
+    },
+    {
+        "cdinventarios": 105.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00232517",
+        "Equipamentos": "RETIFICADOR DE SOLDAGEM SVI 300I/4HD"
+    },
+    {
+        "cdinventarios": 199.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00280797",
+        "Equipamentos": "MAQUINA SERRA DE FITA STARRET ST3720"
+    },
+    {
+        "cdinventarios": 261.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00300646",
+        "Equipamentos": "PRENSA BALANCIM NIOR COM VALV"
+    },
+    {
+        "cdinventarios": 272.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00305567",
+        "Equipamentos": "MAQ SOLDA ELÉTRICA GE"
+    },
+    {
+        "cdinventarios": 273.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00305568",
+        "Equipamentos": "GERADOR DE SOLDA ELÉTRICA"
+    },
+    {
+        "cdinventarios": 274.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00305569",
+        "Equipamentos": "GERADOR DE SOLDA ELÉTRICA"
+    },
+    {
+        "cdinventarios": 275.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00305570",
+        "Equipamentos": "GERADOR DE SOLDA ELÉTRICA"
+    },
+    {
+        "cdinventarios": 469.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008980410001",
+        "Equipamentos": "PLATAFORMA ELEVATÓRIA Nº 01"
+    },
+    {
+        "cdinventarios": 470.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008980410002",
+        "Equipamentos": "PLATAFORMA ELEVATÓRIA Nº 02"
+    },
+    {
+        "cdinventarios": 471.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008980410003",
+        "Equipamentos": "ESCADA HIDRÁULICA Nº 03"
+    },
+    {
+        "cdinventarios": 834.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008987230085",
+        "Equipamentos": "VENTILADOR Nº 85 = AREA DE LAZER"
+    },
+    {
+        "cdinventarios": 835.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008987230086",
+        "Equipamentos": "VENTILADOR Nº 86 = AREA DE LAZER6"
+    },
+    {
+        "cdinventarios": 836.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008987230088",
+        "Equipamentos": "VENTILADOR Nº 88 = PROX. BANC. ELETR."
+    },
+    {
+        "cdinventarios": 837.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008987230089",
+        "Equipamentos": "VENTILADOR Nº 89 = PROX. BANC. ELETR."
+    },
+    {
+        "cdinventarios": 838.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008987230090",
+        "Equipamentos": "VENTILADOR Nº 90 = PROX. TORNO"
+    },
+    {
+        "cdinventarios": 839.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008987230091",
+        "Equipamentos": "VENTILADOR Nº 91 = ÁREA DE SOLDA"
+    },
+    {
+        "cdinventarios": 840.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008987230092",
+        "Equipamentos": "VENTILADOR Nº 92 = PROX. BANC.MEC"
+    },
+    {
+        "cdinventarios": 841.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00898923",
+        "Equipamentos": "SERVICOS GERAIS C.C.7234"
+    },
+    {
+        "cdinventarios": 842.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008989230001",
+        "Equipamentos": "SERVIÇOS DE SEGURANÇA C.C. 7234"
+    },
+    {
+        "cdinventarios": 843.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00898924",
+        "Equipamentos": "EQUIPAMENTO DE SOLDA E CORTE CO2"
+    },
+    {
+        "cdinventarios": 1094.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008999620003",
+        "Equipamentos": "EXAUSTOR N.1 ÁREA DE LAZER"
+    },
+    {
+        "cdinventarios": 1095.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008999620004",
+        "Equipamentos": "EXAUSTOR N.2 AREA DE LAZER"
+    },
+    {
+        "cdinventarios": 2959.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008999620006",
+        "Equipamentos": "ARMÁRIO DE SECAGEM"
+    },
+    {
+        "cdinventarios": 2960.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00183175",
+        "Equipamentos": "BRAÇO GIRATÓRIO CAP.1000 KG - LOCAL. SETOR SOLDA"
+    },
+    {
+        "cdinventarios": 2961.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00185969",
+        "Equipamentos": "BRAÇO GIRATÓRIO CAP. 500 KG - LOCAL. ENTR. SETOR"
+    },
+    {
+        "cdinventarios": 2962.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00182754",
+        "Equipamentos": "BRAÇO GIRATÓRIO CAP. 600 KG - LOCAL. SOBRE BANC."
+    },
+    {
+        "cdinventarios": 2976.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00305584",
+        "Equipamentos": "GERADOR DE SOLDA ELÉTRICA GE"
+    },
+    {
+        "cdinventarios": 2977.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00014424",
+        "Equipamentos": "LIXADEIRA FITA"
+    },
+    {
+        "cdinventarios": 2980.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00185967",
+        "Equipamentos": "PRENSA HIDRÁULICA VERTICAL"
+    },
+    {
+        "cdinventarios": 2987.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00215471",
+        "Equipamentos": "TALHA DEMAG 1000 KG"
+    },
+    {
+        "cdinventarios": 2988.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00185970",
+        "Equipamentos": "TALHA DEMAG 500 KG"
+    },
+    {
+        "cdinventarios": 2989.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00182755",
+        "Equipamentos": "TALHA SATTI 600 KG"
+    },
+    {
+        "cdinventarios": 2990.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J008999620005",
+        "Equipamentos": "TANQUE DE LAVAGEM DE PEÇAS"
+    },
+    {
+        "cdinventarios": 2996.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00418503",
+        "Equipamentos": "SISTEMA DE EXAUSTAO BANCADAS SOLDA Nº1"
+    },
+    {
+        "cdinventarios": 2997.0,
+        "Area": "OCB",
+        "Centro de Custo": 7234,
+        "Inventarios": "J00418504",
+        "Equipamentos": "SISTEMA DE EXAUSTAO BANCADAS SOLDA Nº2"
+    }
+]

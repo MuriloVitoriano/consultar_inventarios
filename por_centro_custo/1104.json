@@ -1,0 +1,65 @@
+[
+    {
+        "cdinventarios": 2686.0,
+        "Area": "OCC",
+        "Centro de Custo": 1104,
+        "Inventarios": "J00898410",
+        "Equipamentos": "TESTE DE ESTANQUEIDADE"
+    },
+    {
+        "cdinventarios": 2708.0,
+        "Area": "OCC",
+        "Centro de Custo": 1104,
+        "Inventarios": "J00018955",
+        "Equipamentos": "CAB. P/ RETOQUE DE PINTURA"
+    },
+    {
+        "cdinventarios": 4115.0,
+        "Area": "OCC",
+        "Centro de Custo": 1104,
+        "Inventarios": "5545M0001104",
+        "Equipamentos": "SERVIÇOS GERAIS"
+    },
+    {
+        "cdinventarios": 4116.0,
+        "Area": "OCC",
+        "Centro de Custo": 1104,
+        "Inventarios": "5545M1003100",
+        "Equipamentos": "SISTEMA DE EXAUSTÃO PARA GASES"
+    },
+    {
+        "cdinventarios": 4117.0,
+        "Area": "OCC",
+        "Centro de Custo": 1104,
+        "Inventarios": "5545M1003101",
+        "Equipamentos": "BOX PARA REVISÃO N.1"
+    },
+    {
+        "cdinventarios": 4118.0,
+        "Area": "OCC",
+        "Centro de Custo": 1104,
+        "Inventarios": "5545M1003102",
+        "Equipamentos": "BOX PARA REVISÃO N.2"
+    },
+    {
+        "cdinventarios": 4119.0,
+        "Area": "OCC",
+        "Centro de Custo": 1104,
+        "Inventarios": "5545M1003103",
+        "Equipamentos": "BOX PARA REVISÃO N.3"
+    },
+    {
+        "cdinventarios": 4120.0,
+        "Area": "OCC",
+        "Centro de Custo": 1104,
+        "Inventarios": "5545M1003104",
+        "Equipamentos": "BOX PARA REVISÃO N.4"
+    },
+    {
+        "cdinventarios": 4886.0,
+        "Area": "OCC",
+        "Centro de Custo": 1104,
+        "Inventarios": "5545M1003109",
+        "Equipamentos": "PLATAFORMA DE ELEVAÇÃO PNEUMATICA"
+    }
+]

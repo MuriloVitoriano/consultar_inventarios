@@ -1,0 +1,1983 @@
+[
+    {
+        "cdinventarios": 26.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00016787",
+        "Equipamentos": "FURAD.BANCADA FB25 S.BLANES N.2197"
+    },
+    {
+        "cdinventarios": 33.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00018212",
+        "Equipamentos": "MAQUINA DE  SOLDA MIG 300A SOLTRN. 22491/16"
+    },
+    {
+        "cdinventarios": 35.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00018759",
+        "Equipamentos": "CABINA P/APLIC DE PRESERVANTES CETEC"
+    },
+    {
+        "cdinventarios": 37.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00019061",
+        "Equipamentos": "SIST.AUT.PRENSA ROBO TRANSFER.(ROBO 6)"
+    },
+    {
+        "cdinventarios": 38.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00019062",
+        "Equipamentos": "SIST.AUT.PRENSA ROBO TIRA PCS.(ROBO 7)"
+    },
+    {
+        "cdinventarios": 40.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00151701",
+        "Equipamentos": "MANIPULADOR P/MONT. DA CAMA CABINA ATEGO EST"
+    },
+    {
+        "cdinventarios": 42.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00153902",
+        "Equipamentos": "MAQUINA DE GRAVACAO PLAQUETAS VIN DE ALU"
+    },
+    {
+        "cdinventarios": 43.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00154006",
+        "Equipamentos": "TALHA CAP 1T P/PONTE P/ICAMENTO CABINAS("
+    },
+    {
+        "cdinventarios": 44.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00154007",
+        "Equipamentos": "TALHA CAP 1T P/PONTE P/ICAMENTO CABINAS("
+    },
+    {
+        "cdinventarios": 46.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00185922",
+        "Equipamentos": "ELEVADOR HIDRAULICO PR 41"
+    },
+    {
+        "cdinventarios": 47.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00185934",
+        "Equipamentos": "PLATAFORMA COLOCAR DO PARA-SOL NAS CABINAS"
+    },
+    {
+        "cdinventarios": 48.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00185935",
+        "Equipamentos": "BRACO GIRAT 250KG LANCA 5000MM STTI"
+    },
+    {
+        "cdinventarios": 49.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00185937",
+        "Equipamentos": "ELEVADOR P/ CARGA"
+    },
+    {
+        "cdinventarios": 50.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00185940",
+        "Equipamentos": "ELEVADOR P/ CARGA"
+    },
+    {
+        "cdinventarios": 53.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00186020",
+        "Equipamentos": "BRACO GIRAT CONFOR DESEN T100 5 873-7"
+    },
+    {
+        "cdinventarios": 59.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00186924",
+        "Equipamentos": "SIST. TRANSP AEREO P/MOVIM CAPO HPN"
+    },
+    {
+        "cdinventarios": 77.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00202157",
+        "Equipamentos": "SIST. BOMBEAR COLA-MASSA-CERA/3"
+    },
+    {
+        "cdinventarios": 94.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00209040",
+        "Equipamentos": "BRACO GIRATORIO MUNCK 250KG"
+    },
+    {
+        "cdinventarios": 99.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00209763",
+        "Equipamentos": "PAINEL ACIONAM.DISP DE SEG P/MONT COXINS"
+    },
+    {
+        "cdinventarios": 102.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00222393",
+        "Equipamentos": "TERMINAL GRAFICO PORTATIL SEAL PPT-4640-"
+    },
+    {
+        "cdinventarios": 117.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00237746",
+        "Equipamentos": "TALHA ELETRICA DEMAG TIPO LANGE 2X1 T"
+    },
+    {
+        "cdinventarios": 121.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00238769",
+        "Equipamentos": "MANIPULADOR PNEUMATICO P/PARA-BRISA"
+    },
+    {
+        "cdinventarios": 123.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00238933",
+        "Equipamentos": "CELULA MANUAL P/COLAGEM DE VIDROS-CAB.FSK"
+    },
+    {
+        "cdinventarios": 124.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00238950",
+        "Equipamentos": "TALHA ELET.(INST. NA CELULA DE COLAGEM)"
+    },
+    {
+        "cdinventarios": 127.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00257176",
+        "Equipamentos": "MANIPULADOR PNEUM.P/MONTAGEM PAINEL(SEMAN)"
+    },
+    {
+        "cdinventarios": 128.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00258565",
+        "Equipamentos": "GANCHO P/ TRANSP. DO BANCO DO LTC - 3UNI"
+    },
+    {
+        "cdinventarios": 129.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00261313",
+        "Equipamentos": "MANIPULADOR P/MONTAGEM DE BANCOS LTC"
+    },
+    {
+        "cdinventarios": 130.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00261314",
+        "Equipamentos": "MANIPULADOR P/MONTAGEM DE BANCOS LTC"
+    },
+    {
+        "cdinventarios": 132.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00261599",
+        "Equipamentos": "ELEVADOR SERVICO P/ DEPOVERT"
+    },
+    {
+        "cdinventarios": 135.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00264567",
+        "Equipamentos": "MANIPULADOR PARA BANCOS E CAMAS"
+    },
+    {
+        "cdinventarios": 136.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00264568",
+        "Equipamentos": "MANIPULADOR PARA BANCOS E CAMAS"
+    },
+    {
+        "cdinventarios": 139.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00265327",
+        "Equipamentos": "ROBO NACHI SA100"
+    },
+    {
+        "cdinventarios": 140.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00265328",
+        "Equipamentos": "BOMBA DE URETANO NORDSON 65:1"
+    },
+    {
+        "cdinventarios": 141.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00265329",
+        "Equipamentos": "BOMBA DE URETANO NORDSON 65:1"
+    },
+    {
+        "cdinventarios": 142.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00265330",
+        "Equipamentos": "MESA GIRAT.P/ CEL.ROBOT.COLAGEM VIDROS"
+    },
+    {
+        "cdinventarios": 143.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00265331",
+        "Equipamentos": "PAINEL IHM CEL.ROBOT.COLAGEM DE VIDROS"
+    },
+    {
+        "cdinventarios": 144.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00265332",
+        "Equipamentos": "EQUIPTO APLICACAO CLEANER / PRIMER"
+    },
+    {
+        "cdinventarios": 145.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00265333",
+        "Equipamentos": "EQUIPTO ALIMENTADOR/CORTADOR DE FELTRO"
+    },
+    {
+        "cdinventarios": 147.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00265553",
+        "Equipamentos": "MANIPULADOR PNEUMATICO DO PARABRISA NTC"
+    },
+    {
+        "cdinventarios": 149.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00266074",
+        "Equipamentos": "FIXADOR PNEUM.GUARNICAO BORR. C/CABECOTE"
+    },
+    {
+        "cdinventarios": 150.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00267983",
+        "Equipamentos": "MANIPULADOR PNEUM. P/ MONTAGEM DO PAINEL NTC"
+    },
+    {
+        "cdinventarios": 151.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00268387",
+        "Equipamentos": "PONTE ROLANTE KBK P/RELOCACAO DO MANIPULADOR"
+    },
+    {
+        "cdinventarios": 152.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00268508",
+        "Equipamentos": "CARRO MOTORIZADO DE TRANSF. P/ TRANSPDE"
+    },
+    {
+        "cdinventarios": 156.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00270079",
+        "Equipamentos": "PONTE ROLANTE DE 2 TON P/ PRE-MONTAGEM"
+    },
+    {
+        "cdinventarios": 157.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00270080",
+        "Equipamentos": "PONTE ROLANTE DE 2 TON P/ PRE-MONTAGEM"
+    },
+    {
+        "cdinventarios": 158.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00270081",
+        "Equipamentos": "PONTE ROLANTE DE 2 TONELADAS TELESCOPICA"
+    },
+    {
+        "cdinventarios": 159.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00270609",
+        "Equipamentos": "MESA TRANSF.CAB. PESADAS SAIDA LINHA 5"
+    },
+    {
+        "cdinventarios": 160.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00270610",
+        "Equipamentos": "MESA TRANSF.CAB. PESADAS SAIDA LINHA 5"
+    },
+    {
+        "cdinventarios": 161.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00270618",
+        "Equipamentos": "MESA TRANSP.P/ APOIO PALLET CABINAS PES"
+    },
+    {
+        "cdinventarios": 162.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00271198",
+        "Equipamentos": "EQUIPTO P/APLICACAO DE CERA EM CAVIDADES"
+    },
+    {
+        "cdinventarios": 166.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273175",
+        "Equipamentos": "TALHA ELET.CAPAC.2TON.CURSO DE ELEV.5MTS"
+    },
+    {
+        "cdinventarios": 167.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273234",
+        "Equipamentos": "POSTO DE RETRABALHO DE CABINAS"
+    },
+    {
+        "cdinventarios": 168.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273423",
+        "Equipamentos": "LINHA RET.SKIDS-SIST.GER.(PAINEL IHM)"
+    },
+    {
+        "cdinventarios": 172.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273860",
+        "Equipamentos": "AGV P/ TRANSPORTE DE CABINAS NR. 05"
+    },
+    {
+        "cdinventarios": 173.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273861",
+        "Equipamentos": "AGV P/ TRANSPORTE DE CABINAS NR. 02"
+    },
+    {
+        "cdinventarios": 174.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273862",
+        "Equipamentos": "AGV P/ TRANSPORTE DE CABINAS NR. 04"
+    },
+    {
+        "cdinventarios": 175.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273863",
+        "Equipamentos": "AGV P/ TRANSPORTE DE CABINAS NR. 08"
+    },
+    {
+        "cdinventarios": 176.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273864",
+        "Equipamentos": "AGV P/ TRANSPORTE DE CABINAS NR. 01"
+    },
+    {
+        "cdinventarios": 177.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273865",
+        "Equipamentos": "AGV P/ TRANSPORTE DE CABINAS NR. 03"
+    },
+    {
+        "cdinventarios": 178.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273866",
+        "Equipamentos": "AGV P/ TRANSPORTE DE CABINAS NR. 06"
+    },
+    {
+        "cdinventarios": 179.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273867",
+        "Equipamentos": "AGV P/ TRANSPORTE DE CABINAS NR. 09"
+    },
+    {
+        "cdinventarios": 180.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273868",
+        "Equipamentos": "AGV P/ TRANSPORTE DE CABINAS NR. 07"
+    },
+    {
+        "cdinventarios": 181.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273882",
+        "Equipamentos": "AGV SIST. DE CONTROLE E SUPERVISORIO"
+    },
+    {
+        "cdinventarios": 182.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00273893",
+        "Equipamentos": "SIST. ARMAZ. DEPOVERT (TRANSELEVADOR)"
+    },
+    {
+        "cdinventarios": 185.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00274029",
+        "Equipamentos": "SIST. ICAMENTO P/CARREGAMENTO CABINAS E C"
+    },
+    {
+        "cdinventarios": 186.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00274030",
+        "Equipamentos": "MESA ELEVATORIA P/MONTAGEM ESTRIBO/COXIM"
+    },
+    {
+        "cdinventarios": 187.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00274031",
+        "Equipamentos": "SIST. ICAMENTO P/TRANSPORTE E MONTAGEM DE"
+    },
+    {
+        "cdinventarios": 188.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00274032",
+        "Equipamentos": "SIST. ICAM.COMPLETO P/MANUT.DOS AGV'S"
+    },
+    {
+        "cdinventarios": 192.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00275946",
+        "Equipamentos": "PONTE ROLANTE ILHA TREIN. 2 TON VAO 5,60M"
+    },
+    {
+        "cdinventarios": 193.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00276850",
+        "Equipamentos": "MAQUINAS DE GRAVACAO PLAQUETAS VIN DE AL"
+    },
+    {
+        "cdinventarios": 194.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00276851",
+        "Equipamentos": "MAQUINAS DE GRAVACAO PLAQUETAS VIN DE AL"
+    },
+    {
+        "cdinventarios": 197.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00280717",
+        "Equipamentos": "SIST.MOVIMENTACAO P/CLIMATIZADOR C/CONTR"
+    },
+    {
+        "cdinventarios": 200.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00280989",
+        "Equipamentos": "TRANSPORTADOR E MESAS P/ LINHA 1 - MONTAG"
+    },
+    {
+        "cdinventarios": 201.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00280990",
+        "Equipamentos": "TRANSPORTADOR  E MESAS P/ LINHA 3 - MONTAG"
+    },
+    {
+        "cdinventarios": 202.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00280991",
+        "Equipamentos": "TRANSPORTADOR E MESAS P/ LINHA 5 - MONTAG"
+    },
+    {
+        "cdinventarios": 203.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00280992",
+        "Equipamentos": "TRANSPORTADOR E MESAS P/ LINHA 7 - MONTAG"
+    },
+    {
+        "cdinventarios": 209.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00286083",
+        "Equipamentos": "TALHA CORRENTE MOTORIZADA CAP.2TON C/DUP"
+    },
+    {
+        "cdinventarios": 211.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00290098",
+        "Equipamentos": "TRANSPORTADOR CROSS TRANSFER RETRABAL"
+    },
+    {
+        "cdinventarios": 216.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00292139",
+        "Equipamentos": "CARRO DE TRANSFERENCIA DE CABINAS"
+    },
+    {
+        "cdinventarios": 217.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00292140",
+        "Equipamentos": "CARRO DE TRANSFERENCIA DE CABINAS"
+    },
+    {
+        "cdinventarios": 218.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00292141",
+        "Equipamentos": "CARRO DE TRANSFERENCIA DE CABINAS"
+    },
+    {
+        "cdinventarios": 219.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00292375",
+        "Equipamentos": "PLATAFORMA BASCULANTE P/USO POSTO 6 - PA"
+    },
+    {
+        "cdinventarios": 221.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00295755",
+        "Equipamentos": "NO-BREAK 5KVA DEPOVERT PR-41"
+    },
+    {
+        "cdinventarios": 222.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00297464",
+        "Equipamentos": "MANIPULADOR HIDRAULICA PARA PARABRISAS"
+    },
+    {
+        "cdinventarios": 262.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00300654",
+        "Equipamentos": "LIXADEIRA DE FITA MBB"
+    },
+    {
+        "cdinventarios": 265.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00300977",
+        "Equipamentos": "CORTADOR TECIDOS MAIMIN"
+    },
+    {
+        "cdinventarios": 359.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00400465",
+        "Equipamentos": "PONTE ROLANTE1TONELADA VILLARES"
+    },
+    {
+        "cdinventarios": 360.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00400878",
+        "Equipamentos": "TALHA ELETR 1000KG VILLARES TP TE 120"
+    },
+    {
+        "cdinventarios": 361.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00400914",
+        "Equipamentos": "PONTE ROLANTE 1TON.VILLARES"
+    },
+    {
+        "cdinventarios": 362.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00400917",
+        "Equipamentos": "PONTE ROLANTE 1TON.VILLARES/ART"
+    },
+    {
+        "cdinventarios": 363.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00400920",
+        "Equipamentos": "PONTE ROLANTE 1TON VILLAR/ARTEP"
+    },
+    {
+        "cdinventarios": 364.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00400926",
+        "Equipamentos": "PONTE ROLANTE C/TALHA 1 TON MONTESE"
+    },
+    {
+        "cdinventarios": 365.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00400930",
+        "Equipamentos": "PONTE ROLANTE C/TALHA 1 TON MONTESE"
+    },
+    {
+        "cdinventarios": 367.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00401318",
+        "Equipamentos": "TALHA VILLARES-SR1/2-1T.P/TALHAS SUSP"
+    },
+    {
+        "cdinventarios": 368.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00401513",
+        "Equipamentos": "BRACO GIRAT P/BANCADA-MBB"
+    },
+    {
+        "cdinventarios": 369.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00401514",
+        "Equipamentos": "BRACO GIRAT P/BANCADA-MBB"
+    },
+    {
+        "cdinventarios": 376.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404182",
+        "Equipamentos": "TALHA ELETRICA C/MONOVIA DEMAG"
+    },
+    {
+        "cdinventarios": 377.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404184",
+        "Equipamentos": "TALHA ELETRICA 300KG 98 10274 STAHL"
+    },
+    {
+        "cdinventarios": 378.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404206",
+        "Equipamentos": "TALHA ELETRICA CAP 300 KG STAHL"
+    },
+    {
+        "cdinventarios": 379.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404212",
+        "Equipamentos": "TALHA ELETRICA 300KG 98 10285 STAHL"
+    },
+    {
+        "cdinventarios": 380.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404254",
+        "Equipamentos": "BRACO GIRATORIO C/TIRANTE CAP 300KG"
+    },
+    {
+        "cdinventarios": 381.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404255",
+        "Equipamentos": "BRACO GIRAT 250KG LANCA 5000MM STTI"
+    },
+    {
+        "cdinventarios": 382.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404286",
+        "Equipamentos": "PONTE ROLANTE KBKII 0,25TONX6,3TON"
+    },
+    {
+        "cdinventarios": 383.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404287",
+        "Equipamentos": "PONTE ROLANTE KBKII 0,25TONX6,3TON"
+    },
+    {
+        "cdinventarios": 384.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404295",
+        "Equipamentos": "TALHA ELETRICA STAHL 300KG X 2,5 MTS"
+    },
+    {
+        "cdinventarios": 385.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404354",
+        "Equipamentos": "BRACO GIRAT 250KG LANCA4000MM STTI"
+    },
+    {
+        "cdinventarios": 386.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00404672",
+        "Equipamentos": "PONTE ROLANTE P/CONJ TETO/25"
+    },
+    {
+        "cdinventarios": 389.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00405335",
+        "Equipamentos": "TALHA ELETRICA STAHL 300KG"
+    },
+    {
+        "cdinventarios": 390.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00405357",
+        "Equipamentos": "DISPOSITIVO P/ MOVIMENTACAO CAPO"
+    },
+    {
+        "cdinventarios": 391.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00405359",
+        "Equipamentos": "DISPOSITIVO P/ MOVIMENTACAO CAPO"
+    },
+    {
+        "cdinventarios": 392.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00405373",
+        "Equipamentos": "DISPOSITIVO P/ MOVIMENTACAO CAPO"
+    },
+    {
+        "cdinventarios": 393.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00405452",
+        "Equipamentos": "BRACO GIRAT P/DISP ALINHAR CABINE"
+    },
+    {
+        "cdinventarios": 394.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00405555",
+        "Equipamentos": "PONTE ROLANTE UMA VIGA EM PERF KBK II"
+    },
+    {
+        "cdinventarios": 395.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00405614",
+        "Equipamentos": "MONOVIA COM TROLLEY E GANCHO"
+    },
+    {
+        "cdinventarios": 396.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00405735",
+        "Equipamentos": "PONTE ROLANTE STTI CAP 1000 KG"
+    },
+    {
+        "cdinventarios": 397.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690001",
+        "Equipamentos": "TRANSELEVADOR - TRANSFERENCIA  CT1"
+    },
+    {
+        "cdinventarios": 398.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690002",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT2"
+    },
+    {
+        "cdinventarios": 399.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690003",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT3"
+    },
+    {
+        "cdinventarios": 400.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690004",
+        "Equipamentos": "TRANSELEVADOR - ELEVADOR 4"
+    },
+    {
+        "cdinventarios": 401.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690005",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT5"
+    },
+    {
+        "cdinventarios": 402.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690006",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT6"
+    },
+    {
+        "cdinventarios": 403.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690007",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT7"
+    },
+    {
+        "cdinventarios": 404.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690008",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT8"
+    },
+    {
+        "cdinventarios": 405.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690009",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT9 E MESA PRT9.1"
+    },
+    {
+        "cdinventarios": 406.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690010",
+        "Equipamentos": "TRANSELEVADOR - TRANSFERENCIA  PRT10"
+    },
+    {
+        "cdinventarios": 407.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690011",
+        "Equipamentos": "TRANSELEVADOR - MESA PR 11 E MESA PR 11.1"
+    },
+    {
+        "cdinventarios": 408.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690012",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT12 E MESA PRT 12.1"
+    },
+    {
+        "cdinventarios": 409.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690013",
+        "Equipamentos": "TRANSELEVADOR - TRANSFERENCIA CT 13"
+    },
+    {
+        "cdinventarios": 410.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690014",
+        "Equipamentos": "TRANSELEVADOR - ELEVADOR 14"
+    },
+    {
+        "cdinventarios": 411.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690015",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT15"
+    },
+    {
+        "cdinventarios": 412.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690016",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT16"
+    },
+    {
+        "cdinventarios": 413.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690017",
+        "Equipamentos": "TRANSELEVADOR - MESA PRT17"
+    },
+    {
+        "cdinventarios": 414.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690018",
+        "Equipamentos": "TRANSELEVADOR -MESA DE RETRABALHO 18"
+    },
+    {
+        "cdinventarios": 415.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690019",
+        "Equipamentos": "TRANSELEVADOR - MESA PORTAO CKD"
+    },
+    {
+        "cdinventarios": 416.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690020",
+        "Equipamentos": "TRANSELEVADOR -  PORTAO SAIDA PESADOS"
+    },
+    {
+        "cdinventarios": 417.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690023",
+        "Equipamentos": "MONOVIA SCHEFFER -300KG/1000KG - DEPOVERT"
+    },
+    {
+        "cdinventarios": 418.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J004059690025",
+        "Equipamentos": "MONOVIA DEMAG 1 TON - DEPOVERT"
+    },
+    {
+        "cdinventarios": 419.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00405979",
+        "Equipamentos": "MESA DE TRANSFERENCIA GIRATORIA"
+    },
+    {
+        "cdinventarios": 420.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00405980",
+        "Equipamentos": "MESA DE TRANSFERENCIA GIRATORIA"
+    },
+    {
+        "cdinventarios": 426.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00410447",
+        "Equipamentos": "ELEVADOR SUBIDA DE SKIDS - ENTRADA LINHA"
+    },
+    {
+        "cdinventarios": 433.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00414205",
+        "Equipamentos": "MANIPULADOR P/ GRADE DO CAPO"
+    },
+    {
+        "cdinventarios": 434.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00414399",
+        "Equipamentos": "DISPOSITIVO SKID PARA DEPOVERT"
+    },
+    {
+        "cdinventarios": 435.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00414706",
+        "Equipamentos": "DISPOSITIVO SKID PARA DEPOVERT"
+    },
+    {
+        "cdinventarios": 436.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00414809",
+        "Equipamentos": "MANIPULADOR PNEUMATICO P/ PAINEIS (DURR)"
+    },
+    {
+        "cdinventarios": 437.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00414810",
+        "Equipamentos": "MANIPULADOR PNEUMATICO P/ PAINEIS (DURR)"
+    },
+    {
+        "cdinventarios": 460.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00637290",
+        "Equipamentos": "LUMINARIAS LINHA 1 MONTG FINAL"
+    },
+    {
+        "cdinventarios": 466.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00647845",
+        "Equipamentos": "PLATAFORMA   COLOCAR CALHA/LANT.DO TETO ANTENA"
+    },
+    {
+        "cdinventarios": 468.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008749999",
+        "Equipamentos": "TRANSELEVADOR -MESA DE RETRABALHO 18"
+    },
+    {
+        "cdinventarios": 486.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008982150001",
+        "Equipamentos": "SERVICOS GERAIS DO C.C. 215.4"
+    },
+    {
+        "cdinventarios": 487.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008982150003",
+        "Equipamentos": "RONDA-LINHAS DE MONTAGEM/ARRASTE/AEREA"
+    },
+    {
+        "cdinventarios": 488.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008982150004",
+        "Equipamentos": "EQUIPTOS GERAIS LINHA AERA 215.4"
+    },
+    {
+        "cdinventarios": 489.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008982150005",
+        "Equipamentos": "EQUIPTO GERAIS LINHAS DE MONTAGEM 215.4"
+    },
+    {
+        "cdinventarios": 493.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008985030003",
+        "Equipamentos": "BOMBA PNEUMATICA GRACO 1 CAB.CERA"
+    },
+    {
+        "cdinventarios": 494.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008985030004",
+        "Equipamentos": "BOMBA PNEUMATICA GRACO 2 CAB.CERA"
+    },
+    {
+        "cdinventarios": 876.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089920620601",
+        "Equipamentos": "PLANO DE SEGURANÇA - CARROS AGV'S 206/4"
+    },
+    {
+        "cdinventarios": 878.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089921521501",
+        "Equipamentos": "PLANO DE SEGURANÇA - LINHA  1  CC-215/4"
+    },
+    {
+        "cdinventarios": 879.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089921521502",
+        "Equipamentos": "PLANO DE SEGURANÇA - LINHA  3  CC-215/4"
+    },
+    {
+        "cdinventarios": 880.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089921521503",
+        "Equipamentos": "PLANO DE SEGURANÇA - LINHA  5  CC-215/4"
+    },
+    {
+        "cdinventarios": 881.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089921521504",
+        "Equipamentos": "PLANO DE SEGURANÇA - LINHA  7  CC-215/4"
+    },
+    {
+        "cdinventarios": 882.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089921521505",
+        "Equipamentos": "PLANO DE SEGURANÇA - SISTEMA DEPOVERT"
+    },
+    {
+        "cdinventarios": 883.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089921521506",
+        "Equipamentos": "PLANO DE SEGURANÇA - CARROS AGV'S 215/4"
+    },
+    {
+        "cdinventarios": 889.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770001",
+        "Equipamentos": "MONOVIA DEMAG 2T (SALA TREINAMENTO"
+    },
+    {
+        "cdinventarios": 890.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770003",
+        "Equipamentos": "BRACO GIRAT DEMAG 250 KG (POSTO 1TETO HSK)"
+    },
+    {
+        "cdinventarios": 891.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770011",
+        "Equipamentos": "PONTE ROLANTE DEMAG 2 TON (POSTO 1)"
+    },
+    {
+        "cdinventarios": 892.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770012",
+        "Equipamentos": "PONTE ROLANTE DEMAG 2 TON (POSTO 1)"
+    },
+    {
+        "cdinventarios": 893.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770020",
+        "Equipamentos": "PONTE ROLANTE DEMAG 2 TON (MONTAGEM FSK)"
+    },
+    {
+        "cdinventarios": 894.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770021",
+        "Equipamentos": "MONOVIA DEMAG 2 TON (RETIRADA DE CABINAS)"
+    },
+    {
+        "cdinventarios": 895.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770022",
+        "Equipamentos": "PONTE ROLANTE DEMAG 2 TON DUPLA LAT.116/4"
+    },
+    {
+        "cdinventarios": 896.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770023",
+        "Equipamentos": "MONOVIA DEMAG 2600KG (ENT.CAB.P/ DEPOVERT)"
+    },
+    {
+        "cdinventarios": 897.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770024",
+        "Equipamentos": "TALHA DEMAG  500KG (MONTAGEM DO ESTRIBO)"
+    },
+    {
+        "cdinventarios": 898.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770025",
+        "Equipamentos": "PONTE ROLANTE DEMAG 1 TON (SAIDA CKD)"
+    },
+    {
+        "cdinventarios": 899.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770026",
+        "Equipamentos": "TALHA STAHL 300 KG (MESA 11)"
+    },
+    {
+        "cdinventarios": 900.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770027",
+        "Equipamentos": "TALHA STAHL 300 KG - (MESA 11)"
+    },
+    {
+        "cdinventarios": 901.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770028",
+        "Equipamentos": "PONTE ROLANTE DEMAG 1TON (COL. PARABRISA)"
+    },
+    {
+        "cdinventarios": 902.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770029",
+        "Equipamentos": "TALHA STAHL 300KG  (MANUTENCAO EL. 18)"
+    },
+    {
+        "cdinventarios": 903.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770030",
+        "Equipamentos": "TALHA STAHL 300KG  (MANUTENCAO EL. 13)"
+    },
+    {
+        "cdinventarios": 904.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992770033",
+        "Equipamentos": "MONOVIA DEMAG 2600KG(SAIDA CAB.P/DEPOVERT)"
+    },
+    {
+        "cdinventarios": 927.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992830002",
+        "Equipamentos": "ELEVADOR DE CAPO N.2"
+    },
+    {
+        "cdinventarios": 928.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992830004",
+        "Equipamentos": "ELEVADOR DE CAPO N. 4"
+    },
+    {
+        "cdinventarios": 929.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992830005",
+        "Equipamentos": "ELEVADOR DE CAPO N. 04"
+    },
+    {
+        "cdinventarios": 930.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992830012",
+        "Equipamentos": "ELEVADOR SKID DE CABINAS N. 12"
+    },
+    {
+        "cdinventarios": 931.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992830014",
+        "Equipamentos": "ELEVADOR MUNCK 1600 KG"
+    },
+    {
+        "cdinventarios": 937.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992880002",
+        "Equipamentos": "TRANSPORTADORES AEREOS - CAPO"
+    },
+    {
+        "cdinventarios": 938.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020001",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.1"
+    },
+    {
+        "cdinventarios": 939.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020002",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.2"
+    },
+    {
+        "cdinventarios": 940.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020003",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.3"
+    },
+    {
+        "cdinventarios": 941.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020004",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.4"
+    },
+    {
+        "cdinventarios": 942.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020005",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.5"
+    },
+    {
+        "cdinventarios": 943.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020006",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.6"
+    },
+    {
+        "cdinventarios": 944.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020008",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.8"
+    },
+    {
+        "cdinventarios": 945.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020009",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.9"
+    },
+    {
+        "cdinventarios": 946.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020013",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.13"
+    },
+    {
+        "cdinventarios": 947.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020015",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.15"
+    },
+    {
+        "cdinventarios": 948.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020018",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.18"
+    },
+    {
+        "cdinventarios": 949.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020019",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.19"
+    },
+    {
+        "cdinventarios": 950.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020020",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.20"
+    },
+    {
+        "cdinventarios": 951.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020021",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.21"
+    },
+    {
+        "cdinventarios": 952.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020023",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.23"
+    },
+    {
+        "cdinventarios": 953.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020025",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.25"
+    },
+    {
+        "cdinventarios": 954.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020026",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.26"
+    },
+    {
+        "cdinventarios": 955.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020028",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.28"
+    },
+    {
+        "cdinventarios": 956.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020030",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.30"
+    },
+    {
+        "cdinventarios": 957.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020031",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.31"
+    },
+    {
+        "cdinventarios": 958.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020032",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.32"
+    },
+    {
+        "cdinventarios": 959.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020033",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.33"
+    },
+    {
+        "cdinventarios": 960.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020035",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.35"
+    },
+    {
+        "cdinventarios": 961.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020036",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.36"
+    },
+    {
+        "cdinventarios": 962.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020037",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.37"
+    },
+    {
+        "cdinventarios": 963.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020040",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.40"
+    },
+    {
+        "cdinventarios": 964.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020042",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.42"
+    },
+    {
+        "cdinventarios": 965.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020044",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.44"
+    },
+    {
+        "cdinventarios": 966.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020046",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.46"
+    },
+    {
+        "cdinventarios": 967.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020047",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.47"
+    },
+    {
+        "cdinventarios": 968.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020048",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.48"
+    },
+    {
+        "cdinventarios": 969.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020050",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.50"
+    },
+    {
+        "cdinventarios": 970.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020051",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.51"
+    },
+    {
+        "cdinventarios": 971.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020054",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.54"
+    },
+    {
+        "cdinventarios": 972.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089928800020055",
+        "Equipamentos": "CARRO TRANSPORTE CAPO NR.55"
+    },
+    {
+        "cdinventarios": 979.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930001",
+        "Equipamentos": "LINHA MONTAGEM CABINAS - L.1"
+    },
+    {
+        "cdinventarios": 980.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300010001",
+        "Equipamentos": "MESA DE ENTRADA  -  TR01A"
+    },
+    {
+        "cdinventarios": 981.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300010002",
+        "Equipamentos": "MESA DE SAÍDA  -  TR01B"
+    },
+    {
+        "cdinventarios": 982.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300010020",
+        "Equipamentos": "MESA DE ENTRADA  -  TR20"
+    },
+    {
+        "cdinventarios": 983.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930002",
+        "Equipamentos": "CARRO DE TRANSFERENCIA N.2"
+    },
+    {
+        "cdinventarios": 984.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930003",
+        "Equipamentos": "LINHA MONTAGEM CABINAS - L.3"
+    },
+    {
+        "cdinventarios": 985.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300030001",
+        "Equipamentos": "MESA DE ENTRADA  -  TR03A"
+    },
+    {
+        "cdinventarios": 986.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300030002",
+        "Equipamentos": "MESA DE SAÍDA  -  TR03B"
+    },
+    {
+        "cdinventarios": 987.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300031000",
+        "Equipamentos": "CELULA AUTOMATICA COLAGEM DE VIDROS"
+    },
+    {
+        "cdinventarios": 988.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930004",
+        "Equipamentos": "CARRO DE TRANSFERENCIA N.4"
+    },
+    {
+        "cdinventarios": 989.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930005",
+        "Equipamentos": "LINHA MONTAGEM CABINAS - L.5"
+    },
+    {
+        "cdinventarios": 990.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300050001",
+        "Equipamentos": "MESA DE ENTRADA / SAÍDA  -  TR05A"
+    },
+    {
+        "cdinventarios": 991.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300050002",
+        "Equipamentos": "MESA DE SAÍDA  -  TR05B"
+    },
+    {
+        "cdinventarios": 992.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300050003",
+        "Equipamentos": "MESA SKID DE CABINAS  -  TR05"
+    },
+    {
+        "cdinventarios": 993.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930006",
+        "Equipamentos": "CARRO DE TRANSFERENCIA N.6"
+    },
+    {
+        "cdinventarios": 994.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300060001",
+        "Equipamentos": "CARRO DE TRANSFERÊNCIA N°6.1"
+    },
+    {
+        "cdinventarios": 995.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930007",
+        "Equipamentos": "LINHA MONTAGEM CABINAS - L.7"
+    },
+    {
+        "cdinventarios": 996.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300070001",
+        "Equipamentos": "MESA DE ENTRADA  -  TR07A"
+    },
+    {
+        "cdinventarios": 997.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300070002",
+        "Equipamentos": "MESA DE SAÍDA  -  TR07B"
+    },
+    {
+        "cdinventarios": 998.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930009",
+        "Equipamentos": "LINHA RETORNO DE SKIDS PORAO - L 4.1"
+    },
+    {
+        "cdinventarios": 999.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090001",
+        "Equipamentos": "ELEVADOR DE RETORNO SKIDS Nº1"
+    },
+    {
+        "cdinventarios": 1000.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090002",
+        "Equipamentos": "TRANSFERENCIA ENTRADA - L.9"
+    },
+    {
+        "cdinventarios": 1001.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090003",
+        "Equipamentos": "MESA  DE ENTRADA - L.9"
+    },
+    {
+        "cdinventarios": 1002.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090004",
+        "Equipamentos": "MESA  DE SAIDA - L.9"
+    },
+    {
+        "cdinventarios": 1003.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090005",
+        "Equipamentos": "MESA  DE CRUZAMENTO - L.9 - L11"
+    },
+    {
+        "cdinventarios": 1004.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090006",
+        "Equipamentos": "MESA  06 - L.9   - PORAO"
+    },
+    {
+        "cdinventarios": 1005.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090007",
+        "Equipamentos": "MESA  07 - L.9   - PORAO"
+    },
+    {
+        "cdinventarios": 1006.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090008",
+        "Equipamentos": "TRANSFERENCIA SAIDA INF. -08- LINHA.9 - PORAO"
+    },
+    {
+        "cdinventarios": 1007.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090009",
+        "Equipamentos": "ELEVADOR DE RETORNO SKIDS Nº9"
+    },
+    {
+        "cdinventarios": 1008.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090010",
+        "Equipamentos": "TRANSFERENCIA SAIDA SUPERIOR - LINHA.9 -"
+    },
+    {
+        "cdinventarios": 1009.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090011",
+        "Equipamentos": "MESA DE SAIDA SUPERIOR  11 -"
+    },
+    {
+        "cdinventarios": 1010.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090012",
+        "Equipamentos": "MESA DE SAIDA SUPERIOR  12 -"
+    },
+    {
+        "cdinventarios": 1011.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300090013",
+        "Equipamentos": "MESA DE SAIDA SUPERIOR  13 -"
+    },
+    {
+        "cdinventarios": 1012.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930011",
+        "Equipamentos": "MESA DE SAÍDA - TR01C"
+    },
+    {
+        "cdinventarios": 1013.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930031",
+        "Equipamentos": "MESA DE SAÍDA  -  TR03C"
+    },
+    {
+        "cdinventarios": 1014.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930051",
+        "Equipamentos": "MESA DE SAÍDA  -  TR05C"
+    },
+    {
+        "cdinventarios": 1015.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930090",
+        "Equipamentos": "PLATAFORMA BASCULANTE"
+    },
+    {
+        "cdinventarios": 1016.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930100",
+        "Equipamentos": "MANIPULADOR DE PAINEL- L5 AUTOMA CORMIK AXOR"
+    },
+    {
+        "cdinventarios": 1017.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992930200",
+        "Equipamentos": "MANIPULADOR MAQUINA DA SUSPENSAO ENTRADA"
+    },
+    {
+        "cdinventarios": 1018.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992980729",
+        "Equipamentos": "SIST.EXAUSTAO NR.729 - CELULA DE COLA"
+    },
+    {
+        "cdinventarios": 1019.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008992990726",
+        "Equipamentos": "SIST. VENTILACAO/EXAUSTAO NR.726 - CERA"
+    },
+    {
+        "cdinventarios": 1020.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008993050002",
+        "Equipamentos": "ESTEIRA DE ROLETES DO ELEVADOR DE CAPO 2"
+    },
+    {
+        "cdinventarios": 1078.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008996140001",
+        "Equipamentos": "POSTO DE TRABALHO N.01 - LEVE / MÉDIO"
+    },
+    {
+        "cdinventarios": 1079.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008996140002",
+        "Equipamentos": "POSTO DE TRABALHO N.02 - LEVE / MÉDIO"
+    },
+    {
+        "cdinventarios": 1080.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008996140003",
+        "Equipamentos": "POSTO DE TRABALHO N.03 - LEVE / MÉDIO"
+    },
+    {
+        "cdinventarios": 1081.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008996140004",
+        "Equipamentos": "POSTO DE TRABALHO N.04 - LEVE / MÉDIO"
+    },
+    {
+        "cdinventarios": 1082.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008996140005",
+        "Equipamentos": "POSTO DE TRABALHO N.05 - LEVE / MÉDIO"
+    },
+    {
+        "cdinventarios": 1083.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008996140006",
+        "Equipamentos": "POSTO DE TRABALHO N.06 - LEVE / MÉDIO"
+    },
+    {
+        "cdinventarios": 1084.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008996140007",
+        "Equipamentos": "POSTO DE TRABALHO N.07 - LEVE / MÉDIO"
+    },
+    {
+        "cdinventarios": 1085.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008996140008",
+        "Equipamentos": "POSTO DE TRABALHO N.01 - PESADO"
+    },
+    {
+        "cdinventarios": 1086.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008996140009",
+        "Equipamentos": "POSTO DE TRABALHO N.02 - PESADO"
+    },
+    {
+        "cdinventarios": 1087.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008996140010",
+        "Equipamentos": "POSTO DE TRABALHO N.03 - PESADO"
+    },
+    {
+        "cdinventarios": 1092.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008999100006",
+        "Equipamentos": "DISPOSITIVO MONTAR COXIM"
+    },
+    {
+        "cdinventarios": 1093.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J008999260011",
+        "Equipamentos": "TRANSPORTADOR ARRASTE (SKIDS)"
+    },
+    {
+        "cdinventarios": 1098.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00944786",
+        "Equipamentos": "PLATAFORMA P/PC 3848807556"
+    },
+    {
+        "cdinventarios": 1099.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00948768",
+        "Equipamentos": "CAVALETE DE APOIO P/PC 6826007001"
+    },
+    {
+        "cdinventarios": 1105.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J00963641",
+        "Equipamentos": "DISP P/PRE-MONTAR PC 3853201523"
+    },
+    {
+        "cdinventarios": 4852.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "J0089929300050004",
+        "Equipamentos": "MESA DE SKID DE PEÇAS TR05"
+    },
+    {
+        "cdinventarios": 4853.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "5545M2155001",
+        "Equipamentos": "MANIPULADOR DE BANCOS (MOTORISTA)"
+    },
+    {
+        "cdinventarios": 4854.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "5545M2155002",
+        "Equipamentos": "MANIPULADOR DE BANCOS (PASSAGEIRO)"
+    },
+    {
+        "cdinventarios": 4855.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "5545M2155004",
+        "Equipamentos": "MANIPULADOR DE PARA-BRISA (ROBÔ)"
+    },
+    {
+        "cdinventarios": 4856.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "5545M2155005",
+        "Equipamentos": "MANIPULADOR DE PARA-BRISA (LINHA)"
+    },
+    {
+        "cdinventarios": 4857.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "5545M2155006",
+        "Equipamentos": "MANIPULADOR DO REVESTIMENTO DE TETO"
+    },
+    {
+        "cdinventarios": 4858.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "554010011549",
+        "Equipamentos": "CÉLULA ROBOTIZADA APLICAÇÃO DE COLA DIMATEC"
+    },
+    {
+        "cdinventarios": 4859.0,
+        "Area": "OCB",
+        "Centro de Custo": 2154,
+        "Inventarios": "5545M2156000",
+        "Equipamentos": "ROBÔ MOTOMAN - APLICAÇÃO DE COLA"
+    }
+]

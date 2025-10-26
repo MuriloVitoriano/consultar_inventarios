@@ -1,0 +1,1430 @@
+[
+    {
+        "cdinventarios": 7.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00014402",
+        "Equipamentos": "MQ SOLDA SOLTRONIC N122134S7210226 9K"
+    },
+    {
+        "cdinventarios": 25.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00016713",
+        "Equipamentos": "SERRA FITA P/METAIS 600 MEL"
+    },
+    {
+        "cdinventarios": 31.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00017777",
+        "Equipamentos": "PRENSA HIDR TIPO C 10T CIOLA"
+    },
+    {
+        "cdinventarios": 36.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00018916",
+        "Equipamentos": "PRENSA HIDRAULICA MBBRAS"
+    },
+    {
+        "cdinventarios": 58.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00186721",
+        "Equipamentos": "BRACO GIRAT 125KG C/TALHA DS21340141"
+    },
+    {
+        "cdinventarios": 62.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00189519",
+        "Equipamentos": "TALHA ELETRICA STAHL CAP300KG"
+    },
+    {
+        "cdinventarios": 63.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00189530",
+        "Equipamentos": "TRANSP. ROLETES 1"
+    },
+    {
+        "cdinventarios": 64.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00189531",
+        "Equipamentos": "ELEVADOR PNEUS N.1 17 MTS"
+    },
+    {
+        "cdinventarios": 93.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00209034",
+        "Equipamentos": "TALHA ELETRICA MUNCK 300KG"
+    },
+    {
+        "cdinventarios": 95.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00209085",
+        "Equipamentos": "TALHA ELETRICA TOR 250KG"
+    },
+    {
+        "cdinventarios": 106.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2067001",
+        "Equipamentos": "DISPOSITIVO DE MONT. DO PARALAMA (LD)"
+    },
+    {
+        "cdinventarios": 108.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2067002",
+        "Equipamentos": "DISPOSITIVO DE MONT. DO PARALAMA (LE)"
+    },
+    {
+        "cdinventarios": 115.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2066001",
+        "Equipamentos": "DISPOSITIVO DO REVESTIMENTO DE TETO - 01"
+    },
+    {
+        "cdinventarios": 116.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2066002",
+        "Equipamentos": "DISPOSITIVO DO REVESTIMENTO DE TETO - 02"
+    },
+    {
+        "cdinventarios": 122.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2066003",
+        "Equipamentos": "DISPOSITIVO DO REVESTIMENTO DE TETO - 03"
+    },
+    {
+        "cdinventarios": 148.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00265773",
+        "Equipamentos": "ELEVADORES DE CARGA HIDRAULICO(VILLARTA)"
+    },
+    {
+        "cdinventarios": 164.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00272803",
+        "Equipamentos": "TALHA ELETRICA - CAP.125 KG P/PERFIL KBK"
+    },
+    {
+        "cdinventarios": 183.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00273902",
+        "Equipamentos": "APERTADEIRA ELETRICA ANGULAR"
+    },
+    {
+        "cdinventarios": 184.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00273998",
+        "Equipamentos": "BRACO GIRAT.125KG, LANCA 5M"
+    },
+    {
+        "cdinventarios": 189.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00274182",
+        "Equipamentos": "BANHO MARIA MARCA NOVA ETICA COM 2 BOCAS"
+    },
+    {
+        "cdinventarios": 204.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00281318",
+        "Equipamentos": "TALHA ELETRICA DE CORRENTE"
+    },
+    {
+        "cdinventarios": 205.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00286079",
+        "Equipamentos": "TALHA ELETRICA - CAP.125 KG -P/USO PONTE"
+    },
+    {
+        "cdinventarios": 206.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00235834",
+        "Equipamentos": "MANIPULADOR DE PARA-BRISAS - ERTEC"
+    },
+    {
+        "cdinventarios": 207.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00286081",
+        "Equipamentos": "TALHA ELETRICA - CAP.125 KG -P/USO PONTE"
+    },
+    {
+        "cdinventarios": 208.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00286082",
+        "Equipamentos": "TALHA ELETRICA - CAP.125 KG -P/USO PONTE"
+    },
+    {
+        "cdinventarios": 213.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00290131",
+        "Equipamentos": "AGV - CAR.AUTOGUIADO REBOCADOR"
+    },
+    {
+        "cdinventarios": 214.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00290132",
+        "Equipamentos": "AGV - CAR.AUTOGUIADO REBOCADOR"
+    },
+    {
+        "cdinventarios": 215.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00290133",
+        "Equipamentos": "AGV - CAR.AUTOGUIADO REBOCADOR"
+    },
+    {
+        "cdinventarios": 264.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00300973",
+        "Equipamentos": "CORTADOR TECIDOS MAIMIN"
+    },
+    {
+        "cdinventarios": 276.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00310225",
+        "Equipamentos": "DISP. COLUNA DE DIRECAO  A3824607216"
+    },
+    {
+        "cdinventarios": 277.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00310736",
+        "Equipamentos": "DISP. MONT.MOLAS PEDALEIRA PC3842907319"
+    },
+    {
+        "cdinventarios": 278.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00310794",
+        "Equipamentos": "DISP. MONTAR PEDALEIRA  PC 3822907619"
+    },
+    {
+        "cdinventarios": 279.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00312382",
+        "Equipamentos": "DISP. MONTAR PC 376 300 74 25"
+    },
+    {
+        "cdinventarios": 280.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00313113",
+        "Equipamentos": "DISP. MONTAR PC 384 430 70 06"
+    },
+    {
+        "cdinventarios": 281.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00313280",
+        "Equipamentos": "DISP. MONTAR E TESTAR PEDAL DE F"
+    },
+    {
+        "cdinventarios": 282.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00313441",
+        "Equipamentos": "DISP. CORTAR PERFIL  682 620 70 04"
+    },
+    {
+        "cdinventarios": 283.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00313442",
+        "Equipamentos": "DISP. GIRAT.P/MONTAR QUADROS A3456707101"
+    },
+    {
+        "cdinventarios": 284.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00313674",
+        "Equipamentos": "DISP. PRE-MONTAR PC 6883177055"
+    },
+    {
+        "cdinventarios": 285.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00315722",
+        "Equipamentos": "DISP. PRE MONTAR CUICA DO LO-A6884308010"
+    },
+    {
+        "cdinventarios": 287.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00316382",
+        "Equipamentos": "CHAPELONAS PARA AS PEDALEIRAS A693290031"
+    },
+    {
+        "cdinventarios": 288.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00316638",
+        "Equipamentos": "DISP. PRE-MONT.RESERV.DE OLEO-A6954667102"
+    },
+    {
+        "cdinventarios": 289.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00316647",
+        "Equipamentos": "DISP. MONTAR MANCAL 940 891 3420/3520"
+    },
+    {
+        "cdinventarios": 290.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2060010",
+        "Equipamentos": "PUFFER - ÁREA 10"
+    },
+    {
+        "cdinventarios": 291.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2060020",
+        "Equipamentos": "PUFFER - ÁREA 20"
+    },
+    {
+        "cdinventarios": 292.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2060030",
+        "Equipamentos": "PUFFER - ÁREA 30"
+    },
+    {
+        "cdinventarios": 293.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2060040",
+        "Equipamentos": "PUFFER - ÁREA 40"
+    },
+    {
+        "cdinventarios": 294.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2060060",
+        "Equipamentos": "PUFFER - ÁREA 60"
+    },
+    {
+        "cdinventarios": 295.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2060070",
+        "Equipamentos": "PUFFER - ÁREA 70"
+    },
+    {
+        "cdinventarios": 296.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2060080",
+        "Equipamentos": "PUFFER - ÁREA 80"
+    },
+    {
+        "cdinventarios": 297.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2060090",
+        "Equipamentos": "PUFFER - ÁREA 90"
+    },
+    {
+        "cdinventarios": 298.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062140",
+        "Equipamentos": "PUFFER - BODY TRANSFER"
+    },
+    {
+        "cdinventarios": 301.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2061030",
+        "Equipamentos": "PUFFER - DEPOCAR 1"
+    },
+    {
+        "cdinventarios": 302.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2061040",
+        "Equipamentos": "PUFFER - DEPOCAR 2"
+    },
+    {
+        "cdinventarios": 303.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2061000",
+        "Equipamentos": "PUFFER - DEPOVERT GERAL"
+    },
+    {
+        "cdinventarios": 304.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2060700",
+        "Equipamentos": "PUFFER - DISPOSITIVO DO CLIMATIZADOR"
+    },
+    {
+        "cdinventarios": 305.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2065000",
+        "Equipamentos": "PUFFER - ELEVADOR"
+    },
+    {
+        "cdinventarios": 306.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2061010",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 010"
+    },
+    {
+        "cdinventarios": 307.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062011",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 011"
+    },
+    {
+        "cdinventarios": 308.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062020",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 020"
+    },
+    {
+        "cdinventarios": 314.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062030",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 030"
+    },
+    {
+        "cdinventarios": 315.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062040",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 040"
+    },
+    {
+        "cdinventarios": 316.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062050",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 050"
+    },
+    {
+        "cdinventarios": 317.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062060",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 060"
+    },
+    {
+        "cdinventarios": 318.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062070",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 070"
+    },
+    {
+        "cdinventarios": 319.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062080",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 080 (GIRO)"
+    },
+    {
+        "cdinventarios": 320.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062090",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 090"
+    },
+    {
+        "cdinventarios": 321.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062100",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 100"
+    },
+    {
+        "cdinventarios": 322.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062110",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 110"
+    },
+    {
+        "cdinventarios": 323.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062120",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 120"
+    },
+    {
+        "cdinventarios": 325.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062130",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 130"
+    },
+    {
+        "cdinventarios": 326.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062150",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 150"
+    },
+    {
+        "cdinventarios": 327.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062160",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 160"
+    },
+    {
+        "cdinventarios": 328.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062170",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 170"
+    },
+    {
+        "cdinventarios": 329.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062180",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 180"
+    },
+    {
+        "cdinventarios": 330.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062190",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 190"
+    },
+    {
+        "cdinventarios": 331.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062200",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 200"
+    },
+    {
+        "cdinventarios": 332.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062210",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 210"
+    },
+    {
+        "cdinventarios": 333.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062220",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 220"
+    },
+    {
+        "cdinventarios": 334.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062230",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 230"
+    },
+    {
+        "cdinventarios": 335.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062240",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 240"
+    },
+    {
+        "cdinventarios": 336.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062250",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 250"
+    },
+    {
+        "cdinventarios": 337.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062260",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 260"
+    },
+    {
+        "cdinventarios": 338.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062270",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 270"
+    },
+    {
+        "cdinventarios": 339.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062280",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 280"
+    },
+    {
+        "cdinventarios": 340.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062290",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 290"
+    },
+    {
+        "cdinventarios": 342.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062300",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 300"
+    },
+    {
+        "cdinventarios": 343.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062310",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 310"
+    },
+    {
+        "cdinventarios": 346.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062320",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 320"
+    },
+    {
+        "cdinventarios": 358.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062330",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 330"
+    },
+    {
+        "cdinventarios": 423.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062340",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 340"
+    },
+    {
+        "cdinventarios": 467.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062350",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 350"
+    },
+    {
+        "cdinventarios": 472.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062360",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 360"
+    },
+    {
+        "cdinventarios": 473.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062370",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 370"
+    },
+    {
+        "cdinventarios": 474.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062380",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 380"
+    },
+    {
+        "cdinventarios": 475.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062390",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 390"
+    },
+    {
+        "cdinventarios": 476.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062400",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 400"
+    },
+    {
+        "cdinventarios": 477.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062410",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 410"
+    },
+    {
+        "cdinventarios": 478.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062420",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 420 (GIRO)"
+    },
+    {
+        "cdinventarios": 479.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062430",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 430"
+    },
+    {
+        "cdinventarios": 480.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062440",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 440"
+    },
+    {
+        "cdinventarios": 481.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062450",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 450"
+    },
+    {
+        "cdinventarios": 482.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062460",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 460"
+    },
+    {
+        "cdinventarios": 483.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062470",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 470"
+    },
+    {
+        "cdinventarios": 484.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062480",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 480"
+    },
+    {
+        "cdinventarios": 485.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062490",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 490"
+    },
+    {
+        "cdinventarios": 844.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062500",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 500"
+    },
+    {
+        "cdinventarios": 845.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062510",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 510"
+    },
+    {
+        "cdinventarios": 846.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062520",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 520"
+    },
+    {
+        "cdinventarios": 847.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062530",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 530"
+    },
+    {
+        "cdinventarios": 848.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062540",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 540"
+    },
+    {
+        "cdinventarios": 849.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062550",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 550"
+    },
+    {
+        "cdinventarios": 850.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062560",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 560"
+    },
+    {
+        "cdinventarios": 851.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062570",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 570"
+    },
+    {
+        "cdinventarios": 852.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062580",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 580"
+    },
+    {
+        "cdinventarios": 853.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062590",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 590"
+    },
+    {
+        "cdinventarios": 854.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062610",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 610"
+    },
+    {
+        "cdinventarios": 855.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062620",
+        "Equipamentos": "PUFFER - MESA DE ROLETE 620"
+    },
+    {
+        "cdinventarios": 856.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062000",
+        "Equipamentos": "PUFFER - SERVIÇOS GERAIS - TRACAB"
+    },
+    {
+        "cdinventarios": 857.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2061020",
+        "Equipamentos": "PUFFER - TRANSPORTADOR 20"
+    },
+    {
+        "cdinventarios": 858.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110004",
+        "Equipamentos": "POSTO DE TRABALHO N.04 - PRÉ-MONT. RES. LIMP. AXOR"
+    },
+    {
+        "cdinventarios": 859.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008982060002",
+        "Equipamentos": "SERVICOS DE SEGURANCA DO C.C. 206.4"
+    },
+    {
+        "cdinventarios": 860.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008982060001",
+        "Equipamentos": "SERVICOS GERAIS DO C.C. 206.4"
+    },
+    {
+        "cdinventarios": 861.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110007",
+        "Equipamentos": "P.DE TRABALHO N.07-CAIXA DE ASSENTO HPN"
+    },
+    {
+        "cdinventarios": 862.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110008",
+        "Equipamentos": "POSTO DE TRABALHO N.08 - PRÉ-MONT. PÁRA-SOL"
+    },
+    {
+        "cdinventarios": 863.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110009",
+        "Equipamentos": "POSTO DE TRABALHO N.09 - PRÉ-MONT. FAROL LN"
+    },
+    {
+        "cdinventarios": 864.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110010",
+        "Equipamentos": "POSTO DE TRABALHO N.10 - MONT./TESTE CHICOTE"
+    },
+    {
+        "cdinventarios": 865.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110011",
+        "Equipamentos": "POSTO DE TRABALHO N.11 - MONT. KIT DA LINHA"
+    },
+    {
+        "cdinventarios": 866.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110012",
+        "Equipamentos": "POSTO DE TRABALHO N.12 - SEQUENC. DOS PNEUS"
+    },
+    {
+        "cdinventarios": 867.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110013",
+        "Equipamentos": "POSTO DE TRABALHO N.13 - FORMAR KIT PÁRA-BRISA"
+    },
+    {
+        "cdinventarios": 868.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110014",
+        "Equipamentos": "P.TRABALHO N.14-CANAL/PAINEL/CHICOTE LN"
+    },
+    {
+        "cdinventarios": 869.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110015",
+        "Equipamentos": "P.DE TRABALHO N.15 - PEITORIL / CALHAS"
+    },
+    {
+        "cdinventarios": 870.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110016",
+        "Equipamentos": "P.DE TRABALHO N.16 - GRADE / DEFLETOR"
+    },
+    {
+        "cdinventarios": 871.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110017",
+        "Equipamentos": "P.DE TRABALHO N.17-REVESTIMENTO DO TETO"
+    },
+    {
+        "cdinventarios": 872.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110018",
+        "Equipamentos": "POSTO DE TRABALHO N.18 - SEQUENC. KIT LINHA NO ELEVADOR"
+    },
+    {
+        "cdinventarios": 873.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008990110019",
+        "Equipamentos": "POSTO DE TRABALHO N.19 - FORMAR KIT TAPETE"
+    },
+    {
+        "cdinventarios": 874.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008991720052",
+        "Equipamentos": "AGV - CAR.AUTOGUIADO REBOCADOR"
+    },
+    {
+        "cdinventarios": 877.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J0089920620602",
+        "Equipamentos": "PLANO DE SEGURANÇA - MÁQUINAS CC.206/4"
+    },
+    {
+        "cdinventarios": 932.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008992830021",
+        "Equipamentos": "ELEVADOR ELETRICO MBB J00400193 - A"
+    },
+    {
+        "cdinventarios": 933.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008992830022",
+        "Equipamentos": "ELEVADOR ELETRICO MBB J00400200 - B"
+    },
+    {
+        "cdinventarios": 934.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008992830023",
+        "Equipamentos": "ELEVADOR ELETRICO MBB J00400205 - C"
+    },
+    {
+        "cdinventarios": 935.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008992830024",
+        "Equipamentos": "ELEVADOR ELETRICO MBB J00400212 - D"
+    },
+    {
+        "cdinventarios": 936.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008992830025",
+        "Equipamentos": "ELEVADOR HIDRAULICO E"
+    },
+    {
+        "cdinventarios": 1039.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008993670001",
+        "Equipamentos": "DISPOSITIVO TECALON"
+    },
+    {
+        "cdinventarios": 1040.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00899613 0018",
+        "Equipamentos": "BANCADA P/ CORTE E MONTAGEM TECALON (POSTO 1)"
+    },
+    {
+        "cdinventarios": 1041.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130001",
+        "Equipamentos": "DISP.MONT. VALV. FREIO (POSTO 6)"
+    },
+    {
+        "cdinventarios": 1042.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130002",
+        "Equipamentos": "DISP. ALINH. COL. DIR. (POSTO 5)"
+    },
+    {
+        "cdinventarios": 1043.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130003",
+        "Equipamentos": "DISP. MONT. PEDALEIRA LTC (POSTO 6)"
+    },
+    {
+        "cdinventarios": 1044.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130004",
+        "Equipamentos": "DISP. PRE- MONT. PEDALEIRA LTC (POSTO 6)"
+    },
+    {
+        "cdinventarios": 1045.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130005",
+        "Equipamentos": "DISP. P/ PREN. MOLA EMB.(POSTO 6)"
+    },
+    {
+        "cdinventarios": 1046.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130006",
+        "Equipamentos": "DISP. MONT.CX. FER. AXOR (POSTO 4)"
+    },
+    {
+        "cdinventarios": 1047.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130007",
+        "Equipamentos": "DISP. MONT. PEDALEIRA EMB. (POSTO 6)"
+    },
+    {
+        "cdinventarios": 1048.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130008",
+        "Equipamentos": "DISP. MONT. CUICA DO FREIO (POSTO 6)"
+    },
+    {
+        "cdinventarios": 1049.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130009",
+        "Equipamentos": "DISP. PRENSAR COL.DIR.(POSTO 5)"
+    },
+    {
+        "cdinventarios": 1050.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130010",
+        "Equipamentos": "DISP. P/ PRENSAR ROLAMENTO BARRA DIR. (POSTO 5)"
+    },
+    {
+        "cdinventarios": 1051.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130011",
+        "Equipamentos": "DISP. MONT. BUCHA COL. DIRECAO OF (POSTO 5)"
+    },
+    {
+        "cdinventarios": 1052.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130012",
+        "Equipamentos": "DISP. MONT. ROLAMENTO COL. DIRECAO (POSTO 5)"
+    },
+    {
+        "cdinventarios": 1053.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130013",
+        "Equipamentos": "DISP. MONT. BARRA DE SEG.(POSTO 5)"
+    },
+    {
+        "cdinventarios": 1054.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130014",
+        "Equipamentos": "DISP. MONT. TUBO COL. DIR. LN ( POSTO 5 )"
+    },
+    {
+        "cdinventarios": 1055.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130015",
+        "Equipamentos": "DISP. PRENS. PINO CAVAL. MANCAL AXOR (POSTO 2)"
+    },
+    {
+        "cdinventarios": 1056.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130016",
+        "Equipamentos": "DISP. PRENS.COXIM CAVAL.MANCAL AXOR (POSTO 2)"
+    },
+    {
+        "cdinventarios": 1057.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130017",
+        "Equipamentos": "DISP. MONT. PRISIONEIRO SUP. PEDAL (POSTO 6)"
+    },
+    {
+        "cdinventarios": 1058.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130018",
+        "Equipamentos": "BANCADA P/ CORTE E MONTAGEM TECALON (POS"
+    },
+    {
+        "cdinventarios": 1059.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130019",
+        "Equipamentos": "DISP. MONT.PINO COXIM HPN/SKL (POSTO 1)"
+    },
+    {
+        "cdinventarios": 1060.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130020",
+        "Equipamentos": "DISP. MONT. PAINEL DO LN ( POSTO 10 )"
+    },
+    {
+        "cdinventarios": 1061.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130021",
+        "Equipamentos": "DISP. P/ MONT.DOBRADICA COPO E GRADE FPN (POSTO 1)"
+    },
+    {
+        "cdinventarios": 1062.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130022",
+        "Equipamentos": "DISP. TESTE PNEUM. CX. BANCO (POSTO 3)"
+    },
+    {
+        "cdinventarios": 1063.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130023",
+        "Equipamentos": "DISP. APERTAR VALV.FREIO F561140980070"
+    },
+    {
+        "cdinventarios": 1064.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130024",
+        "Equipamentos": "DISP. PRE-MONT. SUP. DO MANCAL (POSTO 15)"
+    },
+    {
+        "cdinventarios": 1065.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130025",
+        "Equipamentos": "DISP. MONT. BARRA COL. DIR. OF (POSTO 5)"
+    },
+    {
+        "cdinventarios": 1066.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130026",
+        "Equipamentos": "DISP.MONT. CHAVE IGNICAO AXOR (POSTO 5)"
+    },
+    {
+        "cdinventarios": 1067.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130027",
+        "Equipamentos": "DISP. P/ FIX. PARAF. VALV. AQ. (POSTO 12)"
+    },
+    {
+        "cdinventarios": 1068.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130028",
+        "Equipamentos": "DISP. P/ SER.CARCACA CANAL DE AR (POSTO 14)"
+    },
+    {
+        "cdinventarios": 1069.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130029",
+        "Equipamentos": "DISP. MONT.FREIO LTC (POSTO 6)"
+    },
+    {
+        "cdinventarios": 1070.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130030",
+        "Equipamentos": "DISP. PRENS.BUCHA AXOR (POSTO 2)"
+    },
+    {
+        "cdinventarios": 1071.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130031",
+        "Equipamentos": "DISP MONT. DO PEITORIL DO LN (POSTO 15)"
+    },
+    {
+        "cdinventarios": 1072.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130032",
+        "Equipamentos": "DISP. MONT. TANQ. COMP. DO LN (POSTO 15)"
+    },
+    {
+        "cdinventarios": 1073.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130033",
+        "Equipamentos": "DISP. PRENSAR TERM. TECALON ( POSTO 1 )"
+    },
+    {
+        "cdinventarios": 1074.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130034",
+        "Equipamentos": "BANCADA MONT.PEDALEIRA (POSTO 6)"
+    },
+    {
+        "cdinventarios": 1075.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130035",
+        "Equipamentos": "DISP. PRE-MONT. PEDALEIRA EMBREAGEM (POSTO 6)"
+    },
+    {
+        "cdinventarios": 1076.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130036",
+        "Equipamentos": "DISP. FURAR CANAL DE AR (POSTO 14)"
+    },
+    {
+        "cdinventarios": 1077.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008996130037",
+        "Equipamentos": "DISP. AUXILIAR MONT. VIDRO DAS PORTAS (POSTO 15)"
+    },
+    {
+        "cdinventarios": 1100.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00960353",
+        "Equipamentos": "DISP. PRENSAR PC 6884607909"
+    },
+    {
+        "cdinventarios": 1101.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00960993",
+        "Equipamentos": "DISP. PRENSAR PC 6884608109"
+    },
+    {
+        "cdinventarios": 1102.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00960996",
+        "Equipamentos": "DISP. MONTAR PC 3864607108"
+    },
+    {
+        "cdinventarios": 1103.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00961005",
+        "Equipamentos": "DISP. MONTAR PC 6732903119"
+    },
+    {
+        "cdinventarios": 1104.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00963468",
+        "Equipamentos": "DISP. REBITAR KZ PC 6888307842"
+    },
+    {
+        "cdinventarios": 1106.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00964381",
+        "Equipamentos": "DISP. MONTAR PC 3824607216"
+    },
+    {
+        "cdinventarios": 1107.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00964608",
+        "Equipamentos": "DISP. PRENSAR PC 3824607037"
+    },
+    {
+        "cdinventarios": 1108.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00967513",
+        "Equipamentos": "DISP. MONTAR PC 6954317305"
+    },
+    {
+        "cdinventarios": 2998.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "554010002776",
+        "Equipamentos": "AGV COM SISTEMA DE GUIAMENTO INDUTIVO 01"
+    },
+    {
+        "cdinventarios": 4607.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2062010",
+        "Equipamentos": "PUFFER- MESA DE ROLETE 10"
+    },
+    {
+        "cdinventarios": 4676.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00325629",
+        "Equipamentos": "DISP. AUXILIAR MONTAGEM DO VIDRO DA PORTA"
+    },
+    {
+        "cdinventarios": 4677.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00331418",
+        "Equipamentos": "DISP. MONTAR SUSPENSÃO AXOR FL6"
+    },
+    {
+        "cdinventarios": 4678.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J00418447",
+        "Equipamentos": "MANIPULADOR DO PARABRISA"
+    },
+    {
+        "cdinventarios": 4679.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J008749993349",
+        "Equipamentos": "BANCADA TECALON ELETRÔNICA"
+    },
+    {
+        "cdinventarios": 4695.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "J0089920620603",
+        "Equipamentos": "BACKUP DE PROGRAMAS - CC 206/4"
+    },
+    {
+        "cdinventarios": 4703.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M0002064",
+        "Equipamentos": "INSPEÇÃO DE BALANCINS 206/4"
+    },
+    {
+        "cdinventarios": 4704.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2066004",
+        "Equipamentos": "DISP. DE CORTE DO TETO -ELÉTRICO"
+    },
+    {
+        "cdinventarios": 4705.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2066005",
+        "Equipamentos": "DISP. PRENSAR SUSPENSÃO AXOR - F5 6110 1013 610"
+    },
+    {
+        "cdinventarios": 4706.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2068001",
+        "Equipamentos": "ESTEIRA DA SUSPENSÃO - ATEGO"
+    },
+    {
+        "cdinventarios": 4707.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2068002",
+        "Equipamentos": "ESTEIRA DA SUSPENSÃO - AXOR"
+    },
+    {
+        "cdinventarios": 4708.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2068003",
+        "Equipamentos": "DISP. PRENSAR TERMINAL TECALON F5 6114 0033 586"
+    },
+    {
+        "cdinventarios": 4709.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2066006",
+        "Equipamentos": "DISP. REVESTIMENTO DE TETO  - MANUAL"
+    },
+    {
+        "cdinventarios": 4710.0,
+        "Area": "OCB",
+        "Centro de Custo": 2064,
+        "Inventarios": "5545M2066007",
+        "Equipamentos": "DISP. DE MONTAGEM DO CABIDEIRO"
+    }
+]

@@ -1,0 +1,618 @@
+[
+    {
+        "cdinventarios": 3042.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00019458",
+        "Equipamentos": "CENTRO DE USINAGEM (OKUMA) ILHA 3"
+    },
+    {
+        "cdinventarios": 3111.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00006052",
+        "Equipamentos": "PRENSA HIDR-H/25TO-NF9323-SACHS/GRIMM"
+    },
+    {
+        "cdinventarios": 3112.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00013935",
+        "Equipamentos": "MAQUINA DE LAVAR MULTICAMARA CONTINUA"
+    },
+    {
+        "cdinventarios": 3113.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00014235",
+        "Equipamentos": "FURAD COLUNA-G/25- MASINEXPORT"
+    },
+    {
+        "cdinventarios": 3114.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00014568",
+        "Equipamentos": "MQ SOLDA CARTER ESTACIONARIA 150 KVA"
+    },
+    {
+        "cdinventarios": 3115.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00014745",
+        "Equipamentos": "MQ SOLDA CO2  OX BRASIL (PMC)"
+    },
+    {
+        "cdinventarios": 3116.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00014875",
+        "Equipamentos": "MAQ SOLDA PONTO ESTAC SIMONEK 100KWA"
+    },
+    {
+        "cdinventarios": 3117.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00016104",
+        "Equipamentos": "FURADEIRA BANCADA  BLANES (PMC)"
+    },
+    {
+        "cdinventarios": 3118.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00018414",
+        "Equipamentos": "SERRA-FITA VERTICAL MEL-600 (PMC)"
+    },
+    {
+        "cdinventarios": 3119.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00018728",
+        "Equipamentos": "MAQ. DE SOLDA CARTER ESTAC."
+    },
+    {
+        "cdinventarios": 3120.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00018969",
+        "Equipamentos": "MQ ESTAC.SOLDA PROJECAO 300KVA"
+    },
+    {
+        "cdinventarios": 3121.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00018970",
+        "Equipamentos": "MQ ESTAC.SOLDA PROJECAO 200KVA"
+    },
+    {
+        "cdinventarios": 3122.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00018971",
+        "Equipamentos": "MQ SOLDA PONTOS 150KVA (CEL. ROBOTIZ)"
+    },
+    {
+        "cdinventarios": 3123.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00018973",
+        "Equipamentos": "MQ ESTAC.SOLDA PONTOS 150KVA"
+    },
+    {
+        "cdinventarios": 3124.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00018975",
+        "Equipamentos": "MQ ESTAC.SOLDA PONTOS 150KVA"
+    },
+    {
+        "cdinventarios": 3125.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00018976",
+        "Equipamentos": "MQ ESTAC.SOLDA PONTOS 150KVA"
+    },
+    {
+        "cdinventarios": 3126.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00019070",
+        "Equipamentos": "ROBO (CELULA ROBOTIZADA DO FRONTAL)"
+    },
+    {
+        "cdinventarios": 3127.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00019402",
+        "Equipamentos": "MAQU. SOLDA ESTAC. S/ALIMENTADOR DE PORC"
+    },
+    {
+        "cdinventarios": 3128.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00019630",
+        "Equipamentos": "REBITADEIRA HIDRAULICA CAP 35 TON"
+    },
+    {
+        "cdinventarios": 3129.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00019680",
+        "Equipamentos": "REBITADEIRA HIDRAULICA 50 TON"
+    },
+    {
+        "cdinventarios": 3130.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00019681",
+        "Equipamentos": "REBITADEIRA HIDRAULICA 50 TON"
+    },
+    {
+        "cdinventarios": 3131.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00019682",
+        "Equipamentos": "REBITADEIRA HIDRAULICA 35 TON"
+    },
+    {
+        "cdinventarios": 3132.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00185725",
+        "Equipamentos": "BRACO GIRAT ARTICULADO (PARAFUS. AUTOMA)"
+    },
+    {
+        "cdinventarios": 3133.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00185803",
+        "Equipamentos": "PRENSA MANUAL TIPO BALANCIM (PMC)"
+    },
+    {
+        "cdinventarios": 3134.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00238187",
+        "Equipamentos": "PAINEL DE COMANDO E SOLDA(MEDAR)"
+    },
+    {
+        "cdinventarios": 3135.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00263829",
+        "Equipamentos": "REBITADEIRA HIDRAULICA CAP 50 TON"
+    },
+    {
+        "cdinventarios": 3136.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00263830",
+        "Equipamentos": "REBITADEIRA HIDRAULICA CAP 50 TON"
+    },
+    {
+        "cdinventarios": 3137.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00268095",
+        "Equipamentos": "ALIMENTADOR DE PORCAS AUTOMATICO P/ PORC"
+    },
+    {
+        "cdinventarios": 3138.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00280799",
+        "Equipamentos": "CABINA DE PINTURA COM MONOVIA"
+    },
+    {
+        "cdinventarios": 3139.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00281152",
+        "Equipamentos": "ALIMENTADOR AUTOMATICO PARA PORCAS DE SO"
+    },
+    {
+        "cdinventarios": 3140.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00281153",
+        "Equipamentos": "ALIMENTADOR AUTOMATICO DE PORCAS DE SOLD"
+    },
+    {
+        "cdinventarios": 3141.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00296484",
+        "Equipamentos": "MOTO ESMERIL C/02 REBOLOS (PMC)"
+    },
+    {
+        "cdinventarios": 3142.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00301371",
+        "Equipamentos": "ARCO REBITAR FORJADO - N.32"
+    },
+    {
+        "cdinventarios": 3143.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00301373",
+        "Equipamentos": "ARCO REBITAR FORJADO - N.27"
+    },
+    {
+        "cdinventarios": 3144.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00408410",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3145.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00408414",
+        "Equipamentos": "MAQUINAS DE SOLDA MAG 500A  *FRONIUS*"
+    },
+    {
+        "cdinventarios": 3146.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00898616237",
+        "Equipamentos": "SERVIÇOS GERAIS DE MANUTENÇÃO"
+    },
+    {
+        "cdinventarios": 3147.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J008990030004",
+        "Equipamentos": "MONOVIA - TALHA DEMAG 300 KG"
+    },
+    {
+        "cdinventarios": 3148.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J008990030009",
+        "Equipamentos": "MONOVIA DEMAG 300 KG"
+    },
+    {
+        "cdinventarios": 3149.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J008990062374",
+        "Equipamentos": "CELULA DE REBITAGEM DE TRAVESSAS NTC"
+    },
+    {
+        "cdinventarios": 3150.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J008990230001",
+        "Equipamentos": "VENT / EXAUSTOR MAQ. DE LAVAR (VOITH)"
+    },
+    {
+        "cdinventarios": 3151.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J008990230002",
+        "Equipamentos": "EXAUSTOR (CABINES DE SOLDA MIG) (VOITH)"
+    },
+    {
+        "cdinventarios": 3152.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J008990230003",
+        "Equipamentos": "EXAUSTOR ( CABIN SOLDA / PONTEA) (VOITH)"
+    },
+    {
+        "cdinventarios": 3153.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J008990230004",
+        "Equipamentos": "EXAUSTOR CABINE DE PINTURA (VOITH)"
+    },
+    {
+        "cdinventarios": 3154.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J008990230006",
+        "Equipamentos": "VENT / EXAUSTOR SOLDA CARTER (VOITH)"
+    },
+    {
+        "cdinventarios": 3155.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00899237",
+        "Equipamentos": "CELULA ROBOTIZADA DE SOLDA DO FRONTAL"
+    },
+    {
+        "cdinventarios": 3156.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J00899631",
+        "Equipamentos": "BOX DE SOLDA (GERAL)"
+    },
+    {
+        "cdinventarios": 3157.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370001",
+        "Equipamentos": "BRAÇO GIRATÓRIO 500KG - MAQ.  LAVAR 237"
+    },
+    {
+        "cdinventarios": 3158.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370002",
+        "Equipamentos": "BRAÇO GIRATÓRIO 300KG - MAQ.  LAVAR 237"
+    },
+    {
+        "cdinventarios": 3159.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370003",
+        "Equipamentos": "MONOVIA 250KG - CÉLULA DE REBITAR 07"
+    },
+    {
+        "cdinventarios": 3160.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370004",
+        "Equipamentos": "BALANCIM 250KG - CÉLULA DE REBITAR 01"
+    },
+    {
+        "cdinventarios": 3161.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370005",
+        "Equipamentos": "BALANCIM 140KG - CÉLULA DE REBITAR 02"
+    },
+    {
+        "cdinventarios": 3162.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370006",
+        "Equipamentos": "BALANCIM 140KG - CÉLULA DE REBITAR 03"
+    },
+    {
+        "cdinventarios": 3163.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370007",
+        "Equipamentos": "MONOVIA 300KG - CÉLULA DE REBITAR 06"
+    },
+    {
+        "cdinventarios": 3164.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370008",
+        "Equipamentos": "MONOVIA 250KG + BALANCIM MOLA - CELULA 5"
+    },
+    {
+        "cdinventarios": 3165.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370009",
+        "Equipamentos": "MONOVIA 250KG + BALANCIM MOLA - CELULA 8"
+    },
+    {
+        "cdinventarios": 3166.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370010",
+        "Equipamentos": "MONOVIA 250KG + BALANCIM MOLA - CELULA 4"
+    },
+    {
+        "cdinventarios": 3167.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370011",
+        "Equipamentos": "BALANCIM 100KG - CÉLULA DE REBITAR 04"
+    },
+    {
+        "cdinventarios": 3168.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370012",
+        "Equipamentos": "MONOVIA 250KG - CÉLULA DE REBITAR 03"
+    },
+    {
+        "cdinventarios": 3169.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370013",
+        "Equipamentos": "MONOVIA 250KG - CÉLULA DE REBITAR 04"
+    },
+    {
+        "cdinventarios": 3170.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370014",
+        "Equipamentos": "BALANCIM 250KG - CÉLULA DE REBITAR 07"
+    },
+    {
+        "cdinventarios": 3171.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370015",
+        "Equipamentos": "BALANCIM 250KG - CÉLULA DE REBITAR 08"
+    },
+    {
+        "cdinventarios": 3172.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370016",
+        "Equipamentos": "BALANCIM 250KG - CÉLULA DE REBITAR 01"
+    },
+    {
+        "cdinventarios": 3173.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370017",
+        "Equipamentos": "MONOVIA 250KG  - CELULA DE REBITAR 4"
+    },
+    {
+        "cdinventarios": 3174.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370018",
+        "Equipamentos": "MONOVIA 300KG  - CELULA DE REBITAR 2"
+    },
+    {
+        "cdinventarios": 3175.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370019",
+        "Equipamentos": "MONOVIA 300KG  - CELULA DE REBITAR 5"
+    },
+    {
+        "cdinventarios": 3176.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370020",
+        "Equipamentos": "BRAÇO GIRAT. + BALAN. PNEU 35KG COOK-PIT"
+    },
+    {
+        "cdinventarios": 3177.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370021",
+        "Equipamentos": "BRAÇO GIRAT. + BALAN. PNEU 35KG CÉLULA 1"
+    },
+    {
+        "cdinventarios": 3178.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370022",
+        "Equipamentos": "BRAÇ.GIRATÓRIO PNEUM. 500KG  CABINE PINTURA"
+    },
+    {
+        "cdinventarios": 3179.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370023",
+        "Equipamentos": "MONOVIA PNEUMÁTICA 500KG  CABINE PINTURA"
+    },
+    {
+        "cdinventarios": 3180.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370024",
+        "Equipamentos": "BRAÇO GIRATÓRIO+BALANCIM PNEU 85KG ROBÔ"
+    },
+    {
+        "cdinventarios": 3181.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370025",
+        "Equipamentos": "BRAÇO GIRATÓRIO 500KG PRÓX. CABINE PINTURA"
+    },
+    {
+        "cdinventarios": 3182.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370026",
+        "Equipamentos": "LUBRIFICAÇÃO MÁQUINAS  C.C. 237/4"
+    },
+    {
+        "cdinventarios": 3183.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370027",
+        "Equipamentos": "MONOVIA + TALHA ELÉTRICA SAMMA 125 KG"
+    },
+    {
+        "cdinventarios": 3184.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "J009002370028",
+        "Equipamentos": "MONOVIA + TALHA PNEUMÁTICA  SAMMA 125 KG"
+    },
+    {
+        "cdinventarios": 3185.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010000842",
+        "Equipamentos": "ELEVADOR DE CARGA 3000 KG"
+    },
+    {
+        "cdinventarios": 3186.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010001380",
+        "Equipamentos": "ELEVADOR DE CARGA 3000 KG"
+    },
+    {
+        "cdinventarios": 3187.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010004522",
+        "Equipamentos": "MAQUINA DE SOLDA MAG  - MARCA MERKLE"
+    },
+    {
+        "cdinventarios": 3188.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010004523",
+        "Equipamentos": "MAQUINA DE SOLDA MAG  - MARCA MERKLE"
+    },
+    {
+        "cdinventarios": 3189.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010004524",
+        "Equipamentos": "MAQUINA DE SOLDA MAG  - MARCA MERKLE"
+    },
+    {
+        "cdinventarios": 3190.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010004525",
+        "Equipamentos": "MAQUINA DE SOLDA MAG  - MARCA MERKLE"
+    },
+    {
+        "cdinventarios": 3191.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010004526",
+        "Equipamentos": "MAQUINA DE SOLDA MAG  - MARCA MERKLE"
+    },
+    {
+        "cdinventarios": 3192.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010004527",
+        "Equipamentos": "MAQUINA DE SOLDA MAG  - MARCA MERKLE"
+    },
+    {
+        "cdinventarios": 3193.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010004528",
+        "Equipamentos": "MAQUINA DE SOLDA MAG  - MARCA MERKLE"
+    },
+    {
+        "cdinventarios": 3194.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010004529",
+        "Equipamentos": "MAQUINA DE SOLDA MAG  - MARCA MERKLE"
+    },
+    {
+        "cdinventarios": 3195.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010004530",
+        "Equipamentos": "MAQUINA DE SOLDA MAG  - MARCA MERKLE"
+    },
+    {
+        "cdinventarios": 3196.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010004531",
+        "Equipamentos": "MAQUINA DE SOLDA MAG  - MARCA MERKLE"
+    },
+    {
+        "cdinventarios": 4885.0,
+        "Area": "OCF",
+        "Centro de Custo": 2374,
+        "Inventarios": "554010018015",
+        "Equipamentos": "CENTRO DE USINAGEM VERTICAL (OKUMA NOVA)"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "cdinventarios": 2623.0,
+        "Area": "OCC",
+        "Centro de Custo": 1194,
+        "Inventarios": "J00264398",
+        "Equipamentos": "EQUIPTO PARAMETR./DIAGNOSE PORTY2000"
+    },
+    {
+        "cdinventarios": 2626.0,
+        "Area": "OCC",
+        "Centro de Custo": 1194,
+        "Inventarios": "J00264401",
+        "Equipamentos": "EQUIPTO PARAMETR./DIAGNOSE PORTY2000"
+    },
+    {
+        "cdinventarios": 2627.0,
+        "Area": "OCC",
+        "Centro de Custo": 1194,
+        "Inventarios": "J0021528601",
+        "Equipamentos": "ESTAÇÃO ECOS DE TESTE ELÉTRICO SOFTWARE"
+    },
+    {
+        "cdinventarios": 2642.0,
+        "Area": "OCC",
+        "Centro de Custo": 1194,
+        "Inventarios": "J00272539",
+        "Equipamentos": "MACACO HIDRÁULICO TIPO JACARÉ 10 TONELADAS"
+    },
+    {
+        "cdinventarios": 2643.0,
+        "Area": "OCC",
+        "Centro de Custo": 1194,
+        "Inventarios": "J00272540",
+        "Equipamentos": "MACACO HIDRÁULICO TIPO JACARÉ 20 TONELADAS"
+    },
+    {
+        "cdinventarios": 2644.0,
+        "Area": "OCC",
+        "Centro de Custo": 1194,
+        "Inventarios": "J00898119",
+        "Equipamentos": "MANUTENÇÃO PREVENTIVA RONDA"
+    },
+    {
+        "cdinventarios": 2652.0,
+        "Area": "OCC",
+        "Centro de Custo": 1194,
+        "Inventarios": "J00648495",
+        "Equipamentos": "RECARREG BATERIA /PONTO TESTES"
+    },
+    {
+        "cdinventarios": 2749.0,
+        "Area": "OCC",
+        "Centro de Custo": 1194,
+        "Inventarios": "5545M0001194",
+        "Equipamentos": "SERVICOS GERAIS C.C.1164 -"
+    }
+]

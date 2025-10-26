@@ -1,0 +1,485 @@
+[
+    {
+        "cdinventarios": 2197.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060042",
+        "Equipamentos": "AQUECEDOR PARA TECALON Nº01"
+    },
+    {
+        "cdinventarios": 2198.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060043",
+        "Equipamentos": "AQUECEDOR PARA TECALON Nº02"
+    },
+    {
+        "cdinventarios": 2199.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060044",
+        "Equipamentos": "AQUECEDOR PARA TECALON Nº03"
+    },
+    {
+        "cdinventarios": 2200.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060045",
+        "Equipamentos": "AQUECEDOR PARA TECALON Nº04"
+    },
+    {
+        "cdinventarios": 2201.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060057",
+        "Equipamentos": "AQUECEDOR PARA TECALON Nº05"
+    },
+    {
+        "cdinventarios": 2207.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060024",
+        "Equipamentos": "BANCADA TECALON (FREIO) FPN/HPN - PNEUMÁTICA"
+    },
+    {
+        "cdinventarios": 2208.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060026",
+        "Equipamentos": "BANCADA TECALON (FREIO) OF/LO/LTC/LN- PNEUMÁTICA"
+    },
+    {
+        "cdinventarios": 2209.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060027",
+        "Equipamentos": "BANCADA TECALON ELETRÔNICA Nº1"
+    },
+    {
+        "cdinventarios": 2210.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060039",
+        "Equipamentos": "BANCADA TECALON ELETRÔNICA Nº2"
+    },
+    {
+        "cdinventarios": 2211.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060055",
+        "Equipamentos": "BANCADA TECALON ELETRÔNICA Nº3"
+    },
+    {
+        "cdinventarios": 2212.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999060056",
+        "Equipamentos": "BANCADA TECALON ELETRÔNICA Nº4"
+    },
+    {
+        "cdinventarios": 2541.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008984020006",
+        "Equipamentos": "BANCADA TECALON (FREIO) OF/LO/LTC/LN- PNEUMÁTICA"
+    },
+    {
+        "cdinventarios": 2618.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J00416486",
+        "Equipamentos": "EQUIP. ABAST. AR CONDIC.   Nº 3"
+    },
+    {
+        "cdinventarios": 2619.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J00416487",
+        "Equipamentos": "EQUIP. ABAST. AR CONDIC.   Nº 4"
+    },
+    {
+        "cdinventarios": 2620.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "554010001634",
+        "Equipamentos": "EQUIP. ABAST. AR CONDIC.   Nº 5"
+    },
+    {
+        "cdinventarios": 2621.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "554010001635",
+        "Equipamentos": "EQUIP. ABAST. AR CONDIC.   Nº 6"
+    },
+    {
+        "cdinventarios": 2622.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "554010001633",
+        "Equipamentos": "EQUIP. ABAST. AR CONDIC.   Nº 7"
+    },
+    {
+        "cdinventarios": 2719.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J00898411",
+        "Equipamentos": "EQUIPAMENTO DE SOLDA E CORTE CO2"
+    },
+    {
+        "cdinventarios": 2720.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J00283714",
+        "Equipamentos": "EQUIP. ABAST. AR CONDIC.   Nº 1"
+    },
+    {
+        "cdinventarios": 2721.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J00283715",
+        "Equipamentos": "EQUIP. ABAST. AR CONDIC.   Nº 2"
+    },
+    {
+        "cdinventarios": 2824.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999770026",
+        "Equipamentos": "BANCADA TECALON ELETRONICA 1"
+    },
+    {
+        "cdinventarios": 2825.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999770027",
+        "Equipamentos": "BANCADA TECALON ELETRONICA 2"
+    },
+    {
+        "cdinventarios": 2826.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999770013",
+        "Equipamentos": "BANCADA TECALON FREIO"
+    },
+    {
+        "cdinventarios": 2827.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J008999770014",
+        "Equipamentos": "BANCADA TECALON"
+    },
+    {
+        "cdinventarios": 3525.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "554310001697",
+        "Equipamentos": "MAQUINA PARA CORTE DE TECALON METZNER"
+    },
+    {
+        "cdinventarios": 4204.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "554010011424",
+        "Equipamentos": "GRAVADOR DE  CHASSI FESMO - PLANO A"
+    },
+    {
+        "cdinventarios": 4207.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000100",
+        "Equipamentos": "ENTRADA DE LONGARINAS"
+    },
+    {
+        "cdinventarios": 4208.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M12000120014",
+        "Equipamentos": "GRAVADOR DE  CHASSI FESMO - PLANO B"
+    },
+    {
+        "cdinventarios": 4209.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000200",
+        "Equipamentos": "EOM - MONOVIA"
+    },
+    {
+        "cdinventarios": 4210.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000201",
+        "Equipamentos": "EOM LONGARINAS - CARRO 1"
+    },
+    {
+        "cdinventarios": 4211.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000202",
+        "Equipamentos": "EOM LONGARINAS - CARRO 2"
+    },
+    {
+        "cdinventarios": 4212.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000203",
+        "Equipamentos": "EOM LONGARINAS - CARRO 3"
+    },
+    {
+        "cdinventarios": 4213.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000204",
+        "Equipamentos": "EOM LONGARINAS - CARRO 4"
+    },
+    {
+        "cdinventarios": 4214.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000205",
+        "Equipamentos": "EOM LONGARINAS - CARRO 5"
+    },
+    {
+        "cdinventarios": 4215.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000206",
+        "Equipamentos": "EOM LONGARINAS - CARRO 6"
+    },
+    {
+        "cdinventarios": 4216.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000207",
+        "Equipamentos": "EOM LONGARINAS - CARRO 7"
+    },
+    {
+        "cdinventarios": 4217.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000208",
+        "Equipamentos": "EOM LONGARINAS - CARRO 8"
+    },
+    {
+        "cdinventarios": 4218.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000209",
+        "Equipamentos": "DISPOSITIVO DE IÇAMENTO N.1"
+    },
+    {
+        "cdinventarios": 4219.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000210",
+        "Equipamentos": "DISPOSITIVO DE IÇAMENTO N.2"
+    },
+    {
+        "cdinventarios": 4220.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000211",
+        "Equipamentos": "DISPOSITIVO DE IÇAMENTO N.3"
+    },
+    {
+        "cdinventarios": 4221.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000212",
+        "Equipamentos": "DISPOSITIVO DE IÇAMENTO N.4"
+    },
+    {
+        "cdinventarios": 4222.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000213",
+        "Equipamentos": "DISPOSITIVO DE IÇAMENTO N.5"
+    },
+    {
+        "cdinventarios": 4223.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000214",
+        "Equipamentos": "DISPOSITIVO DE IÇAMENTO N.6"
+    },
+    {
+        "cdinventarios": 4224.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000215",
+        "Equipamentos": "DISPOSITIVO DE IÇAMENTO N.7"
+    },
+    {
+        "cdinventarios": 4225.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000216",
+        "Equipamentos": "DISPOSITIVO DE IÇAMENTO N.8"
+    },
+    {
+        "cdinventarios": 4226.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000217",
+        "Equipamentos": "LONGARINAS - PORTAS VISOFLEX CONJ 1"
+    },
+    {
+        "cdinventarios": 4227.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000218",
+        "Equipamentos": "LONGARINAS - PORTAS VISOFLEX CONJ 2"
+    },
+    {
+        "cdinventarios": 4228.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000300",
+        "Equipamentos": "RGV - MONTAGEM DE QUADROS"
+    },
+    {
+        "cdinventarios": 4229.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000301",
+        "Equipamentos": "RGV - MONTAGEM DE QUADROS - CARRO 1"
+    },
+    {
+        "cdinventarios": 4230.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000302",
+        "Equipamentos": "RGV - MONTAGEM DE QUADROS - CARRO 2"
+    },
+    {
+        "cdinventarios": 4231.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000303",
+        "Equipamentos": "RGV - MONTAGEM DE QUADROS - CARRO 3"
+    },
+    {
+        "cdinventarios": 4232.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000401",
+        "Equipamentos": "POSTO 7 ESTAÇÃO ENVIO/SEQUENCIAMENTO N.1"
+    },
+    {
+        "cdinventarios": 4233.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000402",
+        "Equipamentos": "POSTO 7 ESTAÇÃO ENVIO/SEQUENCIAMENTO N.2"
+    },
+    {
+        "cdinventarios": 4234.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000403",
+        "Equipamentos": "POSTO 7 ESTAÇÃO ENVIO/SEQUENCIAMENTO N.3"
+    },
+    {
+        "cdinventarios": 4235.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000404",
+        "Equipamentos": "POSTO 7 ESTAÇÃO ENVIO/SEQUENCIAMENTO N.4"
+    },
+    {
+        "cdinventarios": 4236.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000405",
+        "Equipamentos": "POSTO 7 ESTAÇÃO ENVIO/SEQUENCIAMENTO N.5"
+    },
+    {
+        "cdinventarios": 4237.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1002310",
+        "Equipamentos": "BANCADA PARA MONTAGEM DE VÁLVULAS EOLION"
+    },
+    {
+        "cdinventarios": 4238.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1002311",
+        "Equipamentos": "BANCADA VALVULAS - P/MONTAG CONJ FREIO"
+    },
+    {
+        "cdinventarios": 4239.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J00154309",
+        "Equipamentos": "GRAVADOR DE CHASSI RESERVA ( BORRIES )"
+    },
+    {
+        "cdinventarios": 4247.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M0001214",
+        "Equipamentos": "SERVIÇOS GERAIS"
+    },
+    {
+        "cdinventarios": 4876.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000706",
+        "Equipamentos": "POSTO DE TRABALHO Nº6"
+    },
+    {
+        "cdinventarios": 4919.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000702",
+        "Equipamentos": "POSTO DE TRABALHO Nº2"
+    },
+    {
+        "cdinventarios": 4920.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000703",
+        "Equipamentos": "POSTO DE TRABALHO Nº3"
+    },
+    {
+        "cdinventarios": 4921.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000704",
+        "Equipamentos": "POSTO DE TRABALHO Nº4"
+    },
+    {
+        "cdinventarios": 4922.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000705",
+        "Equipamentos": "POSTO DE TRABALHO Nº5"
+    },
+    {
+        "cdinventarios": 4927.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1000716",
+        "Equipamentos": "POSTO DE TRABALHO Nº14"
+    },
+    {
+        "cdinventarios": 4985.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J00898922",
+        "Equipamentos": "DOSADOR DE OLEO"
+    },
+    {
+        "cdinventarios": 4989.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "J00899906",
+        "Equipamentos": "DISP. ELEVACAO DO CHASSIS"
+    },
+    {
+        "cdinventarios": 4993.0,
+        "Area": "OCC",
+        "Centro de Custo": 1214,
+        "Inventarios": "5545M1002317",
+        "Equipamentos": "DISP. PRE-MONTAR TRAVESSAO F561141025790"
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "cdinventarios": 3324.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010002988",
+        "Equipamentos": "TALHA ELETRICA CORRENTE SAMM MOD R6-12"
+    },
+    {
+        "cdinventarios": 3325.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003564",
+        "Equipamentos": "MESA DE TRANSFERENCIA ENTRADA  -KTL"
+    },
+    {
+        "cdinventarios": 3326.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003565",
+        "Equipamentos": "MESA DE TRANSFERENCIA SAIDA -KTL"
+    },
+    {
+        "cdinventarios": 3327.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003608",
+        "Equipamentos": "TANQUE 1-ASPERSAO-LINHA PINTURA KTL"
+    },
+    {
+        "cdinventarios": 3328.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003609",
+        "Equipamentos": "TANQUE 2-IMERSAO-DESENGRAXANTE-LINHA PIN"
+    },
+    {
+        "cdinventarios": 3329.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003610",
+        "Equipamentos": "TANQUE 3-IMERSAO-DESENGRAXANTE-LINHA PIN"
+    },
+    {
+        "cdinventarios": 3330.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003611",
+        "Equipamentos": "TANQUE 4-AGUA INDUSTRIAL-LINHA PINTURA K"
+    },
+    {
+        "cdinventarios": 3331.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003612",
+        "Equipamentos": "TANQUE 5-PASSIVADOR-LINHA PINTURA KTL"
+    },
+    {
+        "cdinventarios": 3332.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003613",
+        "Equipamentos": "TANQUE 6-FOSFATO-LINHA PINTURA KTL"
+    },
+    {
+        "cdinventarios": 3333.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003614",
+        "Equipamentos": "TANQUE 7-LAVAGEM FOSFATO-LINHA PINTURA K"
+    },
+    {
+        "cdinventarios": 3334.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003615",
+        "Equipamentos": "TANQUE 8-LAVAGEM FOSFATO-LINHA PINTURA K"
+    },
+    {
+        "cdinventarios": 3335.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003616",
+        "Equipamentos": "TANQUE 9-PINTURA KTL-E-COAT"
+    },
+    {
+        "cdinventarios": 3336.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003617",
+        "Equipamentos": "TANQUE 10-LAVAGEM ULTRA-FILTRANTE 1 - KT"
+    },
+    {
+        "cdinventarios": 3337.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003618",
+        "Equipamentos": "TANQUE 11-LAVAGEM ULTRA-FILTRANTE 2 - KT"
+    },
+    {
+        "cdinventarios": 3338.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003619",
+        "Equipamentos": "TANQUE 12-LAVAGEM ULTRA-FILTRANTE 3 - KT"
+    },
+    {
+        "cdinventarios": 3339.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003621",
+        "Equipamentos": "TANQUE RESERVA - PRE-TRATAMENTO - LINHA"
+    },
+    {
+        "cdinventarios": 3340.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003622",
+        "Equipamentos": "TANQUE RESERVA - LINHA PINTURA KTL"
+    },
+    {
+        "cdinventarios": 3341.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003624",
+        "Equipamentos": "TRANSPORTADOR VERTICAL TANQUE - PAOBE 1"
+    },
+    {
+        "cdinventarios": 3342.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003625",
+        "Equipamentos": "TRANSPORTADOR VERTICAL TANQUE - PAOBE 2"
+    },
+    {
+        "cdinventarios": 3343.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003626",
+        "Equipamentos": "TRANSPORTADOR VERTICAL TANQUE - PAOBE 3"
+    },
+    {
+        "cdinventarios": 3344.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003627",
+        "Equipamentos": "TRANSPORTADOR VERTICAL TANQUE - PAOBE 4"
+    },
+    {
+        "cdinventarios": 3345.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003628",
+        "Equipamentos": "TRANSPORTADOR VERTICAL TANQUE - PAOBE 5"
+    },
+    {
+        "cdinventarios": 3346.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003629",
+        "Equipamentos": "FILTRO PRENSA TECITEC-LINHA PINTURA KTL"
+    },
+    {
+        "cdinventarios": 3347.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003630",
+        "Equipamentos": "TANQUE SEPARADOR DE OLEO  TECITEC -LINHA"
+    },
+    {
+        "cdinventarios": 3348.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003631",
+        "Equipamentos": "ESTUFA DE SECAGEM DE TINTA -LINHA PINTUR"
+    },
+    {
+        "cdinventarios": 3349.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003632",
+        "Equipamentos": "TRANSPORT. AEREO POWER FREE-22 BARRAS CA"
+    },
+    {
+        "cdinventarios": 3350.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003633",
+        "Equipamentos": "POS-QUEIMADOR RTO - ESTUFA - LINHA PINTU"
+    },
+    {
+        "cdinventarios": 3351.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003634",
+        "Equipamentos": "SISTEMA DE  BOMBEAMENTO - LINHA PINTURA"
+    },
+    {
+        "cdinventarios": 3352.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003635",
+        "Equipamentos": "CARRINHO BOMBA DE TRANSFERENCIA-PRE TRAT"
+    },
+    {
+        "cdinventarios": 3353.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010005530",
+        "Equipamentos": "MESA SHUTLER TRANSFERENCIA LINHA AEREA"
+    },
+    {
+        "cdinventarios": 3354.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "5545M23341",
+        "Equipamentos": "EXAUSTORES DA LINHA DE PINTURA KTL"
+    },
+    {
+        "cdinventarios": 3355.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "5545M233410001",
+        "Equipamentos": "EXAUSTOR 1 TANQUES PRÉ-TRATAMENTO -VOITH"
+    },
+    {
+        "cdinventarios": 3356.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "5545M233410002",
+        "Equipamentos": "EXAUSTOR 2 TANQUES PRÉ-TRATAMENTO -VOITH"
+    },
+    {
+        "cdinventarios": 3357.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "5545M233410003",
+        "Equipamentos": "EXAUSTOR 1 RECIRCULAÇÃO DA ESTUFA -VOITH"
+    },
+    {
+        "cdinventarios": 3358.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "5545M233410004",
+        "Equipamentos": "EXAUSTOR 2 RECIRCULAÇÃO DA ESTUFA -VOITH"
+    },
+    {
+        "cdinventarios": 3359.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "5545M233410005",
+        "Equipamentos": "EXAUSTOR 3 RECIRCULAÇÃO DA ESTUFA -VOITH"
+    },
+    {
+        "cdinventarios": 3360.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "5545M233410006",
+        "Equipamentos": "EXAUSTOR 4 RECIRCULAÇÃO DA ESTUFA -VOITH"
+    },
+    {
+        "cdinventarios": 3361.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "5545M233410007",
+        "Equipamentos": "EXAUSTOR DE AR SATURADO DA ESTUFA -VOITH"
+    },
+    {
+        "cdinventarios": 3362.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "5545M233410008",
+        "Equipamentos": "EXAUSTOR DO RTO - VOITH"
+    },
+    {
+        "cdinventarios": 3363.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003636",
+        "Equipamentos": "BRAÇO GIRAT. TALHA PNEUMÁTICA 60 KG KTL"
+    },
+    {
+        "cdinventarios": 3364.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003637",
+        "Equipamentos": "BRAÇO GIRAT. TALHA PNEUMÁTICA 60 KG KTL"
+    },
+    {
+        "cdinventarios": 3365.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003638",
+        "Equipamentos": "BRAÇO GIRAT. TALHA PNEUMÁTICA 60 KG KTL"
+    },
+    {
+        "cdinventarios": 3366.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "J00898616233",
+        "Equipamentos": "SERVICOS GERAIS DE MANUTENCAO."
+    },
+    {
+        "cdinventarios": 3367.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003607",
+        "Equipamentos": "INSTALACOES ELETRICAS-LINHA PINTURA KTL"
+    },
+    {
+        "cdinventarios": 3368.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003620",
+        "Equipamentos": "CELULA DE ULTRA FILTRAGEM - MORIND-LINHA"
+    },
+    {
+        "cdinventarios": 3369.0,
+        "Area": "OCF",
+        "Centro de Custo": 2334,
+        "Inventarios": "554010003623",
+        "Equipamentos": "LINHA PINTURA KTL"
+    }
+]
