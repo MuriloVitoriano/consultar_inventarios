@@ -79,23 +79,26 @@
 
     <script>
         // A senha correta que você especificou
-        const SENHA_CORRETA = "2885549";
+        const LAMBDA_URL = "https://ltoiu2maclh6qrlwdwfvtf3ema0pkukb.lambda-url.us-east-2.on.aws/";
         const passwordInput = document.getElementById("passwordInput");
         const mensagemErro = document.getElementById("mensagemErro");
 
-        function verificarSenha() {
+        async function verificarSenha() {
             const senhaDigitada = passwordInput.value;
-            
-            if (senhaDigitada === SENHA_CORRETA) {
-                // Senha correta: redireciona para o arquivo de inventário
-                window.location.href = "inventario.html";
-            } else {
-                // Senha incorreta: exibe a mensagem de erro e limpa o campo
-                mensagemErro.style.visibility = "visible";
-                passwordInput.value = "";
-                passwordInput.focus();
-            }
+            const response = await fetch(LAMBDA_URL, {
+                method: 'POST', // Usamos POST para enviar dados
+                headers: {
+                    'Content-Type': 'application/json' // Informa que estamos enviando JSON
+                },
+                // Converte o objeto JavaScript em uma string JSON para o corpo da requisição
+                body: JSON.stringify({
+                    password: passwordInput
+                }) 
+            });  
+            const data = await response.json()
+            console.log(data)
         }
+
         
         // Permite usar a tecla Enter para tentar o login
         passwordInput.addEventListener("keypress", function(event) {
